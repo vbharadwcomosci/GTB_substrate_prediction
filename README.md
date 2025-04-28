@@ -7,7 +7,7 @@ For notebook and dataset installation:
 Clone dataset:
 
 ```
-git clone https://github.com/samihennen/GTB_Substrate_Prediction.git
+git clone https://github.com/vbharadwcomosci/GTB_Substrate_Prediction.git
 ```
 
 Set up environment:
