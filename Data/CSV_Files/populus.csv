@@ -1,0 +1,984 @@
+Name,ID,Acceptor,Donor,Family,GN,Species
+A0A8X7YRU3_POPTO,A0A8X7YRU3,Null,Null,47.0,POTOM_043461 , Populus tomentosa (Chinese white poplar).
+A0A2K1WNH2_POPTR,A0A2K1WNH2,Null,Null,41.0,POPTR_019G025600 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K1WNI6_POPTR,A0A2K1WNI6,Null,Null,41.0,POPTR_019G025600 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K1WP03_POPTR,A0A2K1WP03,Null,Null,47.0,POPTR_019G036500 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K1WRH3_POPTR,A0A2K1WRH3,Null,Null,10.0,POPTR_019G082200 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K1WXZ1_POPTR,A0A2K1WXZ1,Null,Null,47.0,POPTR_018G085400 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K1WXZ6_POPTR,A0A2K1WXZ6,Null,Null,47.0,POPTR_018G085400 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K1XL90_POPTR,A0A2K1XL90,Null,Null,47.0,POPTR_015G107200 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K1XM49_POPTR,A0A2K1XM49,Null,Null,47.0,POPTR_015G124800 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K1Y185_POPTR,A0A2K1Y185,Null,Null,41.0,POPTR_013G051400 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K1YC08_POPTR,A0A2K1YC08,Null,Null,47.0,POPTR_012G109200 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K1YC14_POPTR,A0A2K1YC14,Null,Null,47.0,POPTR_012G109600 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K1YCP1_POPTR,A0A2K1YCP1,Null,Null,47.0,POPTR_012G124600 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K1YH57_POPTR,A0A2K1YH57,Null,Null,4.0,POPTR_011G080600 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K1YNI0_POPTR,A0A2K1YNI0,Null,Null,92.0,POPTR_010G039000 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K1YX15_POPTR,A0A2K1YX15,Null,Null,47.0,POPTR_010G197900 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K1Z5P6_POPTR,A0A2K1Z5P6,Null,Null,10.0,POPTR_009G101500 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K1ZCL9_POPTR,A0A2K1ZCL9,Null,Null,47.0,POPTR_008G060500 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K1ZJX2_POPTR,A0A2K1ZJX2,Null,Null,92.0,POPTR_008G192000 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K1ZT17_POPTR,A0A2K1ZT17,Null,Null,47.0,POPTR_007G117800 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K1ZXA1_POPTR,A0A2K1ZXA1,Null,Null,47.0,POPTR_006G054800 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K1ZXU9_POPTR,A0A2K1ZXU9,Null,Null,47.0,POPTR_006G064600 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K2A5J6_POPTR,A0A2K2A5J6,Null,Null,41.0,POPTR_006G208900 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K2A7B5_POPTR,A0A2K2A7B5,Null,Null,47.0,POPTR_006G238900 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K2A7C3_POPTR,A0A2K2A7C3,Null,Null,47.0,POPTR_006G238900 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K2AMD1_POPTR,A0A2K2AMD1,Null,Null,92.0,POPTR_005G252100 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K2AMS7_POPTR,A0A2K2AMS7,Null,Null,92.0,POPTR_005G258900 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K2B3D7_POPTR,A0A2K2B3D7,Null,Null,47.0,POPTR_003G079000 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K2B7S3_POPTR,A0A2K2B7S3,Null,Null,92.0,POPTR_003G156600 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K2B808_POPTR,A0A2K2B808,Null,Null,47.0,POPTR_003G162000 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K2B9G4_POPTR,A0A2K2B9G4,Null,Null,37.0,POPTR_003G191200 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K2B9H0_POPTR,A0A2K2B9H0,Null,Null,37.0,POPTR_003G191500 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K2BPL9_POPTR,A0A2K2BPL9,Null,Null,47.0,POPTR_002G256200 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K2BRS6_POPTR,A0A2K2BRS6,Null,Null,37.0,POPTR_001G033800 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K2BRS9_POPTR,A0A2K2BRS9,Null,Null,37.0,POPTR_001G034100 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K2BRT3_POPTR,A0A2K2BRT3,Null,Null,37.0,POPTR_001G034000 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K2BTI7_POPTR,A0A2K2BTI7,Null,Null,47.0,POPTR_001G068100 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K2BWC8_POPTR,A0A2K2BWC8,Null,Null,47.0,POPTR_001G120800 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K2CA99_POPTR,A0A2K2CA99,Null,Null,47.0,POPTR_001G381900 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A385JIQ1_POPTO,A0A385JIQ1,Null,Null,47.0,Potri.018G043700 , Populus tomentosa (Chinese white poplar).
+A0A3N7EDE4_POPTR,A0A3N7EDE4,Null,Null,92.0,POPTR_001G336766 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A3N7EQ43_POPTR,A0A3N7EQ43,Null,Null,37.0,POPTR_003G191301 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A3N7EQ50_POPTR,A0A3N7EQ50,Null,Null,37.0,POPTR_003G191200 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A3N7EQ92_POPTR,A0A3N7EQ92,Null,Null,37.0,POPTR_003G191301 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A3N7ES90_POPTR,A0A3N7ES90,Null,Null,37.0,POPTR_003G191401 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A3N7EXW5_POPTR,A0A3N7EXW5,Null,Null,37.0,POPTR_003G191200 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A3N7EXY0_POPTR,A0A3N7EXY0,Null,Null,37.0,POPTR_003G191401 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A3N7F1G0_POPTR,A0A3N7F1G0,Null,Null,47.0,POPTR_006G064800 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A3N7F536_POPTR,A0A3N7F536,Null,Null,47.0,POPTR_006G064800 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A3N7FA99_POPTR,A0A3N7FA99,Null,Null,47.0,POPTR_006G239000 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A3N7FNC3_POPTR,A0A3N7FNC3,Null,Null,47.0,POPTR_009G032500 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A3N7FXV3_POPTR,A0A3N7FXV3,Null,Null,47.0,POPTR_006G054800 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A3N7G0R4_POPTR,A0A3N7G0R4,Null,Null,47.0,POPTR_015G087900 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A3N7G1C7_POPTR,A0A3N7G1C7,Null,Null,47.0,POPTR_015G124800 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A3N7G1T9_POPTR,A0A3N7G1T9,Null,Null,47.0,POPTR_015G087900 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A3N7G372_POPTR,A0A3N7G372,Null,Null,47.0,POPTR_015G087900 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A3N7G3M4_POPTR,A0A3N7G3M4,Null,Null,47.0,POPTR_015G116700 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A3N7G422_POPTR,A0A3N7G422,Null,Null,37.0,POPTR_003G191301 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A3N7G6P1_POPTR,A0A3N7G6P1,Null,Null,37.0,POPTR_008G090000 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A3N7G7T5_POPTR,A0A3N7G7T5,Null,Null,37.0,POPTR_003G191200 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A3N7GN73_POPTR,A0A3N7GN73,Null,Null,47.0,POPTR_006G238900 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A3N7HD04_POPTR,A0A3N7HD04,Null,Null,47.0,POPTR_012G130700 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A3N7I4V7_POPTR,A0A3N7I4V7,Null,Null,47.0,POPTR_018G085400 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A4U5LVH6_POPAL,A0A4U5LVH6,Null,Null,41.0,D5086_0000324280 , Populus alba (White poplar).
+A0A4U5NLV6_POPAL,A0A4U5NLV6,Null,Null,92.0,D5086_0000256750 , Populus alba (White poplar).
+A0A4U5NM38_POPAL,A0A4U5NM38,Null,Null,47.0,D5086_0000256560 , Populus alba (White poplar).
+A0A4U5NQY3_POPAL,A0A4U5NQY3,Null,Null,41.0,D5086_0000241590 , Populus alba (White poplar).
+A0A4U5P3U5_POPAL,A0A4U5P3U5,Null,Null,41.0,D5086_0000229520 , Populus alba (White poplar).
+A0A4U5PMC2_POPAL,A0A4U5PMC2,Null,Null,47.0,D5086_0000204220 , Populus alba (White poplar).
+A0A4U5PMD3_POPAL,A0A4U5PMD3,Null,Null,28.0,D5086_0000204320 , Populus alba (White poplar).
+A0A4U5PN01_POPAL,A0A4U5PN01,Null,Null,47.0,D5086_0000204230 , Populus alba (White poplar).
+A0A4U5PN81_POPAL,A0A4U5PN81,Null,Null,47.0,D5086_0000205030 , Populus alba (White poplar).
+A0A4U5PRL6_POPAL,A0A4U5PRL6,Null,Null,41.0,D5086_0000189700 , Populus alba (White poplar).
+A0A4U5PT08_POPAL,A0A4U5PT08,Null,Null,47.0,D5086_0000192210 , Populus alba (White poplar).
+A0A4U5PY86_POPAL,A0A4U5PY86,Null,Null,47.0,D5086_0000162140 , Populus alba (White poplar).
+A0A4U5PZ42_POPAL,A0A4U5PZ42,Null,Null,37.0,D5086_0000157050 , Populus alba (White poplar).
+A0A4U5Q679_POPAL,A0A4U5Q679,Null,Null,10.0,D5086_0000133390 , Populus alba (White poplar).
+A0A4U5QAR6_POPAL,A0A4U5QAR6,Null,Null,10.0,D5086_0000117180 , Populus alba (White poplar).
+A0A4U5QE72_POPAL,A0A4U5QE72,Null,Null,37.0,D5086_0000101190 , Populus alba (White poplar).
+A0A4U5QEH7_POPAL,A0A4U5QEH7,Null,Null,37.0,D5086_0000101220 , Populus alba (White poplar).
+A0A4U5QF42_POPAL,A0A4U5QF42,Null,Null,37.0,D5086_0000095820 , Populus alba (White poplar).
+A0A4U5QFR0_POPAL,A0A4U5QFR0,Null,Null,47.0,D5086_0000093300 , Populus alba (White poplar).
+A0A4U5QGL4_POPAL,A0A4U5QGL4,Null,Null,37.0,D5086_0000095830 , Populus alba (White poplar).
+A0A4U5QKJ3_POPAL,A0A4U5QKJ3,Null,Null,47.0,D5086_0000080650 , Populus alba (White poplar).
+A0A4U5QLX7_POPAL,A0A4U5QLX7,Null,Null,28.0,D5086_0000068210 , Populus alba (White poplar).
+A0A4U5QX93_POPAL,A0A4U5QX93,Null,Null,10.0,D5086_0000030000 , Populus alba (White poplar).
+A0A4V6A5Q4_POPAL,A0A4V6A5Q4,Null,Null,28.0,D5086_0000228390 , Populus alba (White poplar).
+A0A6M2E622_9ROSI,A0A6M2E622,Null,Null,47.0,Null, Populus davidiana.
+A0A6M2E8Z9_9ROSI,A0A6M2E8Z9,Null,Null,10.0,Null, Populus davidiana.
+A0A6M2ECB8_9ROSI,A0A6M2ECB8,Null,Null,28.0,Null, Populus davidiana.
+A0A6M2EFH8_9ROSI,A0A6M2EFH8,Null,Null,47.0,Null, Populus davidiana.
+A0A6M2EHK8_9ROSI,A0A6M2EHK8,Null,Null,47.0,Null, Populus davidiana.
+A0A6M2EJA3_9ROSI,A0A6M2EJA3,Null,Null,41.0,Null, Populus davidiana.
+A0A6M2EJA4_9ROSI,A0A6M2EJA4,Null,Null,92.0,Null, Populus davidiana.
+A0A6M2ELV3_9ROSI,A0A6M2ELV3,Null,Null,47.0,Null, Populus davidiana.
+A0A6M2EPM0_9ROSI,A0A6M2EPM0,Null,Null,47.0,Null, Populus davidiana.
+A0A6M2ER88_9ROSI,A0A6M2ER88,Null,Null,47.0,Null, Populus davidiana.
+A0A6M2ERK8_9ROSI,A0A6M2ERK8,Null,Null,47.0,Null, Populus davidiana.
+A0A6M2ETT1_9ROSI,A0A6M2ETT1,Null,Null,10.0,Null, Populus davidiana.
+A0A6M2F0C9_9ROSI,A0A6M2F0C9,Null,Null,47.0,Null, Populus davidiana.
+A0A6M2F4V0_9ROSI,A0A6M2F4V0,Null,Null,47.0,Null, Populus davidiana.
+A0A6M2F522_9ROSI,A0A6M2F522,Null,Null,37.0,Null, Populus davidiana.
+A0A6M2F9P6_9ROSI,A0A6M2F9P6,Null,Null,37.0,Null, Populus davidiana.
+A0A6M2FE21_9ROSI,A0A6M2FE21,Null,Null,47.0,Null, Populus davidiana.
+A0A8T2WK01_POPDE,A0A8T2WK01,Null,Null,10.0,H0E87_030522 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2WK43_POPDE,A0A8T2WK43,Null,Null,47.0,H0E87_029257 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2WNZ6_POPDE,A0A8T2WNZ6,Null,Null,47.0,H0E87_029545 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2WPA5_POPDE,A0A8T2WPA5,Null,Null,47.0,H0E87_029883 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2WPS0_POPDE,A0A8T2WPS0,Null,Null,47.0,H0E87_029259 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2WRG7_POPDE,A0A8T2WRG7,Null,Null,47.0,H0E87_029883 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2WY24_POPDE,A0A8T2WY24,Null,Null,41.0,H0E87_026963 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2X1Y4_POPDE,A0A8T2X1Y4,Null,Null,47.0,H0E87_025423 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2X3V4_POPDE,A0A8T2X3V4,Null,Null,47.0,H0E87_025710 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2X995_POPDE,A0A8T2X995,Null,Null,10.0,H0E87_022624 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2XDY7_POPDE,A0A8T2XDY7,Null,Null,47.0,H0E87_023515 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2XE61_POPDE,A0A8T2XE61,Null,Null,28.0,H0E87_021439 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2XGQ1_POPDE,A0A8T2XGQ1,Null,Null,28.0,H0E87_021439 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2XGU0_POPDE,A0A8T2XGU0,Null,Null,47.0,H0E87_022105 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2XMN0_POPDE,A0A8T2XMN0,Null,Null,4.0,H0E87_020668 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2Y029_POPDE,A0A8T2Y029,Null,Null,10.0,H0E87_017397 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2Y226_POPDE,A0A8T2Y226,Null,Null,47.0,H0E87_017918 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2Y7M6_POPDE,A0A8T2Y7M6,Null,Null,37.0,H0E87_016092 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2Y8T6_POPDE,A0A8T2Y8T6,Null,Null,47.0,H0E87_016333 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2YBR6_POPDE,A0A8T2YBR6,Null,Null,47.0,H0E87_013989 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2YG01_POPDE,A0A8T2YG01,Null,Null,28.0,H0E87_011644 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2YGW2_POPDE,A0A8T2YGW2,Null,Null,47.0,H0E87_011872 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2YH56_POPDE,A0A8T2YH56,Null,Null,47.0,H0E87_011871 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2YHA8_POPDE,A0A8T2YHA8,Null,Null,47.0,H0E87_011872 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2YIE2_POPDE,A0A8T2YIE2,Null,Null,41.0,H0E87_012125 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2YMX1_POPDE,A0A8T2YMX1,Null,Null,28.0,H0E87_013286 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2YN53_POPDE,A0A8T2YN53,Null,Null,47.0,H0E87_013351 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2YN72_POPDE,A0A8T2YN72,Null,Null,47.0,H0E87_013351 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2YN77_POPDE,A0A8T2YN77,Null,Null,47.0,H0E87_013276 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2YNB9_POPDE,A0A8T2YNB9,Null,Null,47.0,H0E87_013351 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2YR07_POPDE,A0A8T2YR07,Null,Null,47.0,H0E87_009903 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2Z5I3_POPDE,A0A8T2Z5I3,Null,Null,37.0,H0E87_006049 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2Z5L2_POPDE,A0A8T2Z5L2,Null,Null,37.0,H0E87_006052 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2Z5N5_POPDE,A0A8T2Z5N5,Null,Null,37.0,H0E87_006050 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2Z5N7_POPDE,A0A8T2Z5N7,Null,Null,37.0,H0E87_006051 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2Z6H0_POPDE,A0A8T2Z6H0,Null,Null,47.0,H0E87_006349 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2Z9G6_POPDE,A0A8T2Z9G6,Null,Null,47.0,H0E87_006759 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2Z9H8_POPDE,A0A8T2Z9H8,Null,Null,47.0,H0E87_007072 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2ZJM5_POPDE,A0A8T2ZJM5,Null,Null,47.0,H0E87_005453 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2ZWF5_POPDE,A0A8T2ZWF5,Null,Null,47.0,H0E87_002693 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2ZXU5_POPDE,A0A8T2ZXU5,Null,Null,92.0,H0E87_003080 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2ZYJ4_POPDE,A0A8T2ZYJ4,Null,Null,47.0,H0E87_003134 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2ZZ10_POPDE,A0A8T2ZZ10,Null,Null,37.0,H0E87_003379 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2ZZA9_POPDE,A0A8T2ZZA9,Null,Null,37.0,H0E87_003378 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8X7XR18_POPTO,A0A8X7XR18,Null,Null,47.0,POTOM_061188 , Populus tomentosa (Chinese white poplar).
+A0A8X7XUM3_POPTO,A0A8X7XUM3,Null,Null,47.0,POTOM_058084 , Populus tomentosa (Chinese white poplar).
+A0A8X7XUT9_POPTO,A0A8X7XUT9,Null,Null,47.0,POTOM_059059 , Populus tomentosa (Chinese white poplar).
+A0A8X7XVA7_POPTO,A0A8X7XVA7,Null,Null,47.0,POTOM_056461 , Populus tomentosa (Chinese white poplar).
+A0A8X7XWR1_POPTO,A0A8X7XWR1,Null,Null,47.0,POTOM_057592 , Populus tomentosa (Chinese white poplar).
+A0A8X7XXQ4_POPTO,A0A8X7XXQ4,Null,Null,10.0,POTOM_058419 , Populus tomentosa (Chinese white poplar).
+A0A8X7XYR9_POPTO,A0A8X7XYR9,Null,Null,47.0,POTOM_056464 , Populus tomentosa (Chinese white poplar).
+A0A8X7Y5Y8_POPTO,A0A8X7Y5Y8,Null,Null,47.0,POTOM_057289 , Populus tomentosa (Chinese white poplar).
+A0A8X7Y6N7_POPTO,A0A8X7Y6N7,Null,Null,47.0,POTOM_049832 , Populus tomentosa (Chinese white poplar).
+A0A8X7YA51_POPTO,A0A8X7YA51,Null,Null,47.0,POTOM_050940 , Populus tomentosa (Chinese white poplar).
+A0A8X7YCD4_POPTO,A0A8X7YCD4,Null,Null,47.0,POTOM_050783 , Populus tomentosa (Chinese white poplar).
+A0A8X7YE65_POPTO,A0A8X7YE65,Null,Null,47.0,POTOM_045656 , Populus tomentosa (Chinese white poplar).
+A0A8X7YEW7_POPTO,A0A8X7YEW7,Null,Null,47.0,POTOM_049684 , Populus tomentosa (Chinese white poplar).
+A0A8X7YI35_POPTO,A0A8X7YI35,Null,Null,47.0,POTOM_048737 , Populus tomentosa (Chinese white poplar).
+A0A8X7YIF5_POPTO,A0A8X7YIF5,Null,Null,47.0,POTOM_047263 , Populus tomentosa (Chinese white poplar).
+A0A8X7YKD5_POPTO,A0A8X7YKD5,Null,Null,47.0,POTOM_042462 , Populus tomentosa (Chinese white poplar).
+A0A8X7YMF9_POPTO,A0A8X7YMF9,Null,Null,47.0,POTOM_044514 , Populus tomentosa (Chinese white poplar).
+A0A8X7YMH8_POPTO,A0A8X7YMH8,Null,Null,47.0,POTOM_043504 , Populus tomentosa (Chinese white poplar).
+A0A8X7Z9E9_POPTO,A0A8X7Z9E9,Null,Null,37.0,POTOM_029664 , Populus tomentosa (Chinese white poplar).
+A0A8X7ZE20_POPTO,A0A8X7ZE20,Null,Null,47.0,POTOM_024846 , Populus tomentosa (Chinese white poplar).
+A0A8X7ZI60_POPTO,A0A8X7ZI60,Null,Null,47.0,POTOM_022743 , Populus tomentosa (Chinese white poplar).
+A0A8X7ZIM7_POPTO,A0A8X7ZIM7,Null,Null,47.0,POTOM_026295 , Populus tomentosa (Chinese white poplar).
+A0A8X7ZJN5_POPTO,A0A8X7ZJN5,Null,Null,47.0,POTOM_028713 , Populus tomentosa (Chinese white poplar).
+A0A8X7ZK51_POPTO,A0A8X7ZK51,Null,Null,47.0,POTOM_022744 , Populus tomentosa (Chinese white poplar).
+A0A8X7ZMQ2_POPTO,A0A8X7ZMQ2,Null,Null,47.0,POTOM_024097 , Populus tomentosa (Chinese white poplar).
+A0A8X8A504_POPTO,A0A8X8A504,Null,Null,47.0,POTOM_013527 , Populus tomentosa (Chinese white poplar).
+A0A8X8A5R1_POPTO,A0A8X8A5R1,Null,Null,37.0,POTOM_012723 , Populus tomentosa (Chinese white poplar).
+A0A8X8A6A9_POPTO,A0A8X8A6A9,Null,Null,92.0,POTOM_009234 , Populus tomentosa (Chinese white poplar).
+A0A8X8A7Z2_POPTO,A0A8X8A7Z2,Null,Null,37.0,POTOM_014503 , Populus tomentosa (Chinese white poplar).
+A0A8X8AA13_POPTO,A0A8X8AA13,Null,Null,47.0,POTOM_012067 , Populus tomentosa (Chinese white poplar).
+A0A8X8AAH2_POPTO,A0A8X8AAH2,Null,Null,37.0,POTOM_012726 , Populus tomentosa (Chinese white poplar).
+A0A8X8AC15_POPTO,A0A8X8AC15,Null,Null,37.0,POTOM_014504 , Populus tomentosa (Chinese white poplar).
+A0A8X8AFH9_POPTO,A0A8X8AFH9,Null,Null,47.0,POTOM_004535 , Populus tomentosa (Chinese white poplar).
+A0A8X8AFX2_POPTO,A0A8X8AFX2,Null,Null,47.0,POTOM_007664 , Populus tomentosa (Chinese white poplar).
+A0A8X8AH20_POPTO,A0A8X8AH20,Null,Null,47.0,POTOM_013819 , Populus tomentosa (Chinese white poplar).
+A0A8X8ALL4_POPTO,A0A8X8ALL4,Null,Null,37.0,POTOM_012725 , Populus tomentosa (Chinese white poplar).
+A0A8X8APU4_POPTO,A0A8X8APU4,Null,Null,47.0,POTOM_004081 , Populus tomentosa (Chinese white poplar).
+A0A8X8AUM2_POPTO,A0A8X8AUM2,Null,Null,37.0,POTOM_000275 , Populus tomentosa (Chinese white poplar).
+A0A8X8AV24_POPTO,A0A8X8AV24,Null,Null,92.0,POTOM_004133 , Populus tomentosa (Chinese white poplar).
+A0A8X8BY16_POPTO,A0A8X8BY16,Null,Null,47.0,POTOM_055902 , Populus tomentosa (Chinese white poplar).
+A0A8X8BY71_POPTO,A0A8X8BY71,Null,Null,47.0,POTOM_056174 , Populus tomentosa (Chinese white poplar).
+A0A8X8C1K1_POPTO,A0A8X8C1K1,Null,Null,10.0,POTOM_059403 , Populus tomentosa (Chinese white poplar).
+A0A8X8C4B4_POPTO,A0A8X8C4B4,Null,Null,47.0,POTOM_056175 , Populus tomentosa (Chinese white poplar).
+A0A8X8C4J5_POPTO,A0A8X8C4J5,Null,Null,47.0,POTOM_057000 , Populus tomentosa (Chinese white poplar).
+A0A8X8C9Y0_POPTO,A0A8X8C9Y0,Null,Null,47.0,POTOM_042321 , Populus tomentosa (Chinese white poplar).
+A0A8X8CF00_POPTO,A0A8X8CF00,Null,Null,47.0,POTOM_044185 , Populus tomentosa (Chinese white poplar).
+A0A8X8CGA0_POPTO,A0A8X8CGA0,Null,Null,10.0,POTOM_034622 , Populus tomentosa (Chinese white poplar).
+A0A8X8CGX3_POPTO,A0A8X8CGX3,Null,Null,28.0,POTOM_042944 , Populus tomentosa (Chinese white poplar).
+A0A8X8CPZ0_POPTO,A0A8X8CPZ0,Null,Null,47.0,POTOM_032659 , Populus tomentosa (Chinese white poplar).
+A0A8X8CQQ3_POPTO,A0A8X8CQQ3,Null,Null,10.0,POTOM_033228 , Populus tomentosa (Chinese white poplar).
+A0A8X8CRV5_POPTO,A0A8X8CRV5,Null,Null,37.0,POTOM_031392 , Populus tomentosa (Chinese white poplar).
+A0A8X8CWQ7_POPTO,A0A8X8CWQ7,Null,Null,47.0,POTOM_024934 , Populus tomentosa (Chinese white poplar).
+A0A8X8CX92_POPTO,A0A8X8CX92,Null,Null,47.0,POTOM_027541 , Populus tomentosa (Chinese white poplar).
+A0A8X8CXZ9_POPTO,A0A8X8CXZ9,Null,Null,47.0,POTOM_024933 , Populus tomentosa (Chinese white poplar).
+A0A8X8CYD6_POPTO,A0A8X8CYD6,Null,Null,47.0,POTOM_022658 , Populus tomentosa (Chinese white poplar).
+A0A8X8D553_POPTO,A0A8X8D553,Null,Null,37.0,POTOM_003836 , Populus tomentosa (Chinese white poplar).
+A0A8X8D8C3_POPTO,A0A8X8D8C3,Null,Null,37.0,POTOM_014506 , Populus tomentosa (Chinese white poplar).
+A0A8X8D938_POPTO,A0A8X8D938,Null,Null,47.0,POTOM_011776 , Populus tomentosa (Chinese white poplar).
+A0A8X8D988_POPTO,A0A8X8D988,Null,Null,37.0,POTOM_012724 , Populus tomentosa (Chinese white poplar).
+A0A8X8DA68_POPTO,A0A8X8DA68,Null,Null,37.0,POTOM_014505 , Populus tomentosa (Chinese white poplar).
+A0A8X8DBG2_POPTO,A0A8X8DBG2,Null,Null,47.0,POTOM_011183 , Populus tomentosa (Chinese white poplar).
+A0A8X8DCH4_POPTO,A0A8X8DCH4,Null,Null,47.0,POTOM_009119 , Populus tomentosa (Chinese white poplar).
+A0A8X8DFI0_POPTO,A0A8X8DFI0,Null,Null,37.0,POTOM_000277 , Populus tomentosa (Chinese white poplar).
+A0A8X8DG57_POPTO,A0A8X8DG57,Null,Null,37.0,POTOM_000276 , Populus tomentosa (Chinese white poplar).
+A0A8X8DG82_POPTO,A0A8X8DG82,Null,Null,47.0,POTOM_000514 , Populus tomentosa (Chinese white poplar).
+A0A8X8DH20_POPTO,A0A8X8DH20,Null,Null,47.0,POTOM_000984 , Populus tomentosa (Chinese white poplar).
+A0A8X8IWZ5_POPTO,A0A8X8IWZ5,Null,Null,47.0,POTOM_002474 , Populus tomentosa (Chinese white poplar).
+A7LIE5_POPCN,A7LIE5,Null,Null,37.0,FUT2 , Populus canescens (Grey poplar) (Populus tremula x Populus alba).
+A7LIE6_POPCN,A7LIE6,Null,Null,37.0,FUT3 , Populus canescens (Grey poplar) (Populus tremula x Populus alba).
+A7LIE7_POPCN,A7LIE7,Null,Null,37.0,FUT4 , Populus canescens (Grey poplar) (Populus tremula x Populus alba).
+A7LIE8_POPCN,A7LIE8,Null,Null,37.0,FUT5 , Populus canescens (Grey poplar) (Populus tremula x Populus alba).
+A7LIE9_POPCN,A7LIE9,Null,Null,37.0,FUT6 , Populus canescens (Grey poplar) (Populus tremula x Populus alba).
+A7LIF1_POPCN,A7LIF1,Null,Null,37.0,FUT1 , Populus canescens (Grey poplar) (Populus tremula x Populus alba).
+A9PF52_POPTR,A9PF52,Null,Null,92.0,Null, Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+B8YDY4_POPTN,B8YDY4,Null,Null,5.0,Null, Populus tremula (European aspen).
+B9GN01_POPTR,B9GN01,Null,Null,92.0,POPTR_001G074600 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+B9HB80_POPTR,B9HB80,Null,Null,28.0,POPTR_006G266500 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+B9HEA3_POPTR,B9HEA3,Null,Null,47.0,POPTR_007G116800 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+B9HQN3_POPTR,B9HQN3,Null,Null,47.0,POPTR_009G006500 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+B9I2J0_POPTR,B9I2J0,Null,Null,28.0,POPTR_012G053600 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+B9I5S5_POPTR,B9I5S5,Null,Null,41.0,POPTR_013G051400 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+B9ICY1_POPTR,B9ICY1,Null,Null,47.0,POPTR_015G132600 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+B9IHV8_POPTR,B9IHV8,Null,Null,92.0,POPTR_016G041900 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+B9IIR8_POPTR,B9IIR8,Null,Null,41.0,POPTR_016G075700 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+B9IKI9_POPTR,B9IKI9,Null,Null,47.0,POPTR_018G043700 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+B9ILS1_POPTR,B9ILS1,Null,Null,47.0,POPTR_018G085500 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+B9IPG0_POPTR,B9IPG0,Null,Null,41.0,POPTR_019G025600 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+B9IQ78_POPTR,B9IQ78,Null,Null,47.0,POPTR_019G070400 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+B9IQM2_POPTR,B9IQM2,Null,Null,47.0,POPTR_019G086800 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+B9MW96_POPTR,B9MW96,Null,Null,10.0,POPTR_013G111200 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+Q599J3_POPCN,Q599J3,Null,Null,10.0,poFUT1 , Populus canescens (Grey poplar) (Populus tremula x Populus alba).
+Q599J4_POPCN,Q599J4,Null,Null,10.0,poFUT2 , Populus canescens (Grey poplar) (Populus tremula x Populus alba).
+U5FSX8_POPTR,U5FSX8,Null,Null,47.0,POPTR_013G116200 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+U5G4B6_POPTR,U5G4B6,Null,Null,47.0,POPTR_007G058400 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+U5G9B7_POPTR,U5G9B7,Null,Null,47.0,POPTR_006G064700 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A0F6UZP2_POPTO,A0A0F6UZP2,Null,Null,47.0,Potri.001G068100 , Populus tomentosa (Chinese white poplar).
+A0A161C4D7_POPTO,A0A161C4D7,Null,Null,1.0,UGT88A1 , Populus tomentosa (Chinese white poplar).
+A0A161C4E1_POPTO,A0A161C4E1,Null,Null,1.0,UGT88A1 , Populus tomentosa (Chinese white poplar).
+A0A161C928_POPTO,A0A161C928,Null,Null,1.0,UGT88A1 , Populus tomentosa (Chinese white poplar).
+A0A161C936_POPTO,A0A161C936,Null,Null,1.0,UGT88A1 , Populus tomentosa (Chinese white poplar).
+A0A161C939_POPTO,A0A161C939,Null,Null,1.0,UGT88A1 , Populus tomentosa (Chinese white poplar).
+A0A161C943_POPTO,A0A161C943,Null,Null,1.0,UGT88A1 , Populus tomentosa (Chinese white poplar).
+A0A161CAB7_POPTO,A0A161CAB7,Null,Null,1.0,UGT88A1 , Populus tomentosa (Chinese white poplar).
+A0A161CAC1_POPTO,A0A161CAC1,Null,Null,1.0,UGT88A1 , Populus tomentosa (Chinese white poplar).
+A0A161CAC8_POPTO,A0A161CAC8,Null,Null,1.0,UGT88A1 , Populus tomentosa (Chinese white poplar).
+A0A161CAD2_POPTO,A0A161CAD2,Null,Null,1.0,UGT88A1 , Populus tomentosa (Chinese white poplar).
+A0A161CAF6_POPTO,A0A161CAF6,Null,Null,1.0,UGT88A1 , Populus tomentosa (Chinese white poplar).
+A0A161CAG4_POPTO,A0A161CAG4,Null,Null,1.0,UGT88A1 , Populus tomentosa (Chinese white poplar).
+A0A161CF88_POPTO,A0A161CF88,Null,Null,1.0,UGT88A1 , Populus tomentosa (Chinese white poplar).
+A0A161CF94_POPTO,A0A161CF94,Null,Null,1.0,UGT88A1 , Populus tomentosa (Chinese white poplar).
+A0A161CFA6_POPTO,A0A161CFA6,Null,Null,1.0,UGT88A1 , Populus tomentosa (Chinese white poplar).
+A0A161CFZ7_POPTO,A0A161CFZ7,Null,Null,1.0,UGT88A1 , Populus tomentosa (Chinese white poplar).
+A0A161CG01_POPTO,A0A161CG01,Null,Null,1.0,UGT88A1 , Populus tomentosa (Chinese white poplar).
+A0A161CG11_POPTO,A0A161CG11,Null,Null,1.0,UGT88A1 , Populus tomentosa (Chinese white poplar).
+A0A162HID4_POPTO,A0A162HID4,Null,Null,1.0,UGT88A1 , Populus tomentosa (Chinese white poplar).
+A0A162HIE7_POPTO,A0A162HIE7,Null,Null,1.0,UGT88A1 , Populus tomentosa (Chinese white poplar).
+A0A162HIF1_POPTO,A0A162HIF1,Null,Null,1.0,UGT88A1 , Populus tomentosa (Chinese white poplar).
+A0A162HIF7_POPTO,A0A162HIF7,Null,Null,1.0,UGT88A1 , Populus tomentosa (Chinese white poplar).
+A0A162HIH4_POPTO,A0A162HIH4,Null,Null,1.0,UGT88A1 , Populus tomentosa (Chinese white poplar).
+A0A162HII3_POPTO,A0A162HII3,Null,Null,1.0,UGT88A1 , Populus tomentosa (Chinese white poplar).
+A0A162HIK1_POPTO,A0A162HIK1,Null,Null,1.0,UGT88A1 , Populus tomentosa (Chinese white poplar).
+A0A162HIK8_POPTO,A0A162HIK8,Null,Null,1.0,UGT88A1 , Populus tomentosa (Chinese white poplar).
+A0A162HIL6_POPTO,A0A162HIL6,Null,Null,1.0,UGT88A1 , Populus tomentosa (Chinese white poplar).
+A0A162HIM3_POPTO,A0A162HIM3,Null,Null,1.0,UGT88A1 , Populus tomentosa (Chinese white poplar).
+A0A162HIP6_POPTO,A0A162HIP6,Null,Null,1.0,UGT88A1 , Populus tomentosa (Chinese white poplar).
+A0A1I9W066_POPTO,A0A1I9W066,Null,Null,1.0,Null, Populus tomentosa (Chinese white poplar).
+A0A1I9W0C5_POPTO,A0A1I9W0C5,Null,Null,47.0,Null, Populus tomentosa (Chinese white poplar).
+A0A1I9W0G7_POPTO,A0A1I9W0G7,Null,Null,1.0,Null, Populus tomentosa (Chinese white poplar).
+A0A1L6K560_POPTO,A0A1L6K560,Null,Null,47.0,Null, Populus tomentosa (Chinese white poplar).
+A0A1L6K5J9_POPTO,A0A1L6K5J9,Null,Null,1.0,Null, Populus tomentosa (Chinese white poplar).
+A0A1L6K5K4_POPTO,A0A1L6K5K4,Null,Null,1.0,Null, Populus tomentosa (Chinese white poplar).
+A0A1L6K5M4_POPTO,A0A1L6K5M4,Null,Null,1.0,Null, Populus tomentosa (Chinese white poplar).
+A0A2K1R7U1_POPTR,A0A2K1R7U1,Null,Null,47.0,POPTR_T071700 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K1WPJ4_POPTR,A0A2K1WPJ4,Null,Null,47.0,POPTR_019G044600 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K1WPV4_POPTR,A0A2K1WPV4,Null,Null,47.0,POPTR_019G049800 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K1WRY0_POPTR,A0A2K1WRY0,Null,Null,1.0,POPTR_019G092700 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K1WUB9_POPTR,A0A2K1WUB9,Null,Null,28.0,POPTR_018G016600 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K1X3I4_POPTR,A0A2K1X3I4,Null,Null,1.0,POPTR_017G052300 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K1X3I7_POPTR,A0A2K1X3I7,Null,Null,1.0,POPTR_017G052100 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K1X3J1_POPTR,A0A2K1X3J1,Null,Null,1.0,POPTR_017G051900 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K1X988_POPTR,A0A2K1X988,Null,Null,1.0,POPTR_016G016100 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K1X9F1_POPTR,A0A2K1X9F1,Null,Null,1.0,POPTR_016G020500 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K1X9G8_POPTR,A0A2K1X9G8,Null,Null,1.0,POPTR_016G022200 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K1X9G9_POPTR,A0A2K1X9G9,Null,Null,1.0,POPTR_016G022300 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K1X9H2_POPTR,A0A2K1X9H2,Null,Null,1.0,POPTR_016G022600 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K1XEQ7_POPTR,A0A2K1XEQ7,Null,Null,1.0,POPTR_016G124400 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K1XER1_POPTR,A0A2K1XER1,Null,Null,1.0,POPTR_016G124500 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K1XER5_POPTR,A0A2K1XER5,Null,Null,1.0,POPTR_016G124600 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K1XPF1_POPTR,A0A2K1XPF1,Null,Null,1.0,POPTR_014G024900 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K1XPH3_POPTR,A0A2K1XPH3,Null,Null,1.0,POPTR_014G026400 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K1XSB3_POPTR,A0A2K1XSB3,Null,Null,1.0,POPTR_014G082500 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K1XVX7_POPTR,A0A2K1XVX7,Null,Null,47.0,POPTR_014G147800 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K1XXA2_POPTR,A0A2K1XXA2,Null,Null,47.0,POPTR_014G171100 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K1Y248_POPTR,A0A2K1Y248,Null,Null,47.0,POPTR_013G067400 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K1Y913_POPTR,A0A2K1Y913,Null,Null,1.0,POPTR_012G048700 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K1YWV4_POPTR,A0A2K1YWV4,Null,Null,1.0,POPTR_010G195400 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K1YYU5_POPTR,A0A2K1YYU5,Null,Null,47.0,POPTR_010G227900 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K1YZY7_POPTR,A0A2K1YZY7,Null,Null,1.0,POPTR_010G250400 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K1Z2D8_POPTR,A0A2K1Z2D8,Null,Null,1.0,POPTR_009G039000 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K1Z4G7_POPTR,A0A2K1Z4G7,Null,Null,1.0,POPTR_009G077300 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K1Z4H1_POPTR,A0A2K1Z4H1,Null,Null,1.0,POPTR_009G077500 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K1Z4H7_POPTR,A0A2K1Z4H7,Null,Null,1.0,POPTR_009G077400 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K1Z4H8_POPTR,A0A2K1Z4H8,Null,Null,1.0,POPTR_009G077500 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K1Z5I8_POPTR,A0A2K1Z5I8,Null,Null,1.0,POPTR_009G098300 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K1Z5K6_POPTR,A0A2K1Z5K6,Null,Null,1.0,POPTR_009G099100 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K1ZB22_POPTR,A0A2K1ZB22,Null,Null,47.0,POPTR_008G034500 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K1ZJX4_POPTR,A0A2K1ZJX4,Null,Null,92.0,POPTR_008G192000 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K1ZRT1_POPTR,A0A2K1ZRT1,Null,Null,1.0,POPTR_007G095100 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K1ZT09_POPTR,A0A2K1ZT09,Null,Null,47.0,POPTR_007G116800 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K1ZT19_POPTR,A0A2K1ZT19,Null,Null,47.0,POPTR_007G117600 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K1ZT24_POPTR,A0A2K1ZT24,Null,Null,47.0,POPTR_007G117600 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K1ZUV7_POPTR,A0A2K1ZUV7,Null,Null,1.0,POPTR_006G007300 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K1ZUW6_POPTR,A0A2K1ZUW6,Null,Null,1.0,POPTR_006G007400 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K1ZV22_POPTR,A0A2K1ZV22,Null,Null,1.0,POPTR_006G009900 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K1ZVK8_POPTR,A0A2K1ZVK8,Null,Null,1.0,POPTR_006G022900 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K1ZVL2_POPTR,A0A2K1ZVL2,Null,Null,1.0,POPTR_006G022400 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K1ZXS6_POPTR,A0A2K1ZXS6,Null,Null,28.0,POPTR_006G063300 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K1ZXV7_POPTR,A0A2K1ZXV7,Null,Null,47.0,POPTR_006G064900 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K1ZXW2_POPTR,A0A2K1ZXW2,Null,Null,47.0,POPTR_006G064800 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K2A0S5_POPTR,A0A2K2A0S5,Null,Null,47.0,POPTR_006G118000 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K2AA00_POPTR,A0A2K2AA00,Null,Null,1.0,POPTR_005G008100 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K2AIR1_POPTR,A0A2K2AIR1,Null,Null,47.0,POPTR_005G187400 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K2AIR4_POPTR,A0A2K2AIR4,Null,Null,47.0,POPTR_005G187400 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K2AIR9_POPTR,A0A2K2AIR9,Null,Null,47.0,POPTR_005G187400 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K2AR08_POPTR,A0A2K2AR08,Null,Null,1.0,POPTR_004G070100 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K2AR18_POPTR,A0A2K2AR18,Null,Null,1.0,POPTR_004G070700 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K2AR27_POPTR,A0A2K2AR27,Null,Null,1.0,POPTR_004G070800 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K2ATE4_POPTR,A0A2K2ATE4,Null,Null,1.0,POPTR_004G119700 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K2B0P2_POPTR,A0A2K2B0P2,Null,Null,1.0,POPTR_003G028600 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K2B5B9_POPTR,A0A2K2B5B9,Null,Null,47.0,POPTR_003G112200 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K2B631_POPTR,A0A2K2B631,Null,Null,47.0,POPTR_003G126000 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K2BNF5_POPTR,A0A2K2BNF5,Null,Null,1.0,POPTR_002G236500 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K2BTR0_POPTR,A0A2K2BTR0,Null,Null,47.0,POPTR_001G072500 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K2C500_POPTR,A0A2K2C500,Null,Null,1.0,POPTR_001G281900 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K2C512_POPTR,A0A2K2C512,Null,Null,1.0,POPTR_001G282300 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K2C643_POPTR,A0A2K2C643,Null,Null,1.0,POPTR_001G302900 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K2C6I6_POPTR,A0A2K2C6I6,Null,Null,1.0,POPTR_001G312000 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K2C6I9_POPTR,A0A2K2C6I9,Null,Null,1.0,POPTR_001G312500 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K2C6J9_POPTR,A0A2K2C6J9,Null,Null,1.0,POPTR_001G312600 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K2C6K1_POPTR,A0A2K2C6K1,Null,Null,1.0,POPTR_001G311900 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K2C6Y2_POPTR,A0A2K2C6Y2,Null,Null,47.0,POPTR_001G321000 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A2K2CAA1_POPTR,A0A2K2CAA1,Null,Null,47.0,POPTR_001G382200 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A385JHQ5_POPTO,A0A385JHQ5,Null,Null,47.0,Potri.001G321000 , Populus tomentosa (Chinese white poplar).
+A0A385JHX9_POPTO,A0A385JHX9,Null,Null,47.0,Potri.002G256200 , Populus tomentosa (Chinese white poplar).
+A0A3N7EAA2_POPTR,A0A3N7EAA2,Null,Null,47.0,POPTR_001G072500 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A3N7ECY2_POPTR,A0A3N7ECY2,Null,Null,1.0,POPTR_001G303801 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A3N7EEB8_POPTR,A0A3N7EEB8,Null,Null,47.0,POPTR_001G105300 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A3N7EZ41_POPTR,A0A3N7EZ41,Null,Null,47.0,POPTR_005G187400 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A3N7F4C8_POPTR,A0A3N7F4C8,Null,Null,1.0,POPTR_006G007601 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A3N7F4M8_POPTR,A0A3N7F4M8,Null,Null,1.0,POPTR_006G023050 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A3N7F812_POPTR,A0A3N7F812,Null,Null,1.0,POPTR_007G140650 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A3N7F8D6_POPTR,A0A3N7F8D6,Null,Null,47.0,POPTR_006G064700 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A3N7F902_POPTR,A0A3N7F902,Null,Null,1.0,POPTR_007G117301 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A3N7FAV6_POPTR,A0A3N7FAV6,Null,Null,47.0,POPTR_007G118100 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A3N7FGC3_POPTR,A0A3N7FGC3,Null,Null,1.0,POPTR_T148701 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A3N7FIX2_POPTR,A0A3N7FIX2,Null,Null,1.0,POPTR_009G095201 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A3N7FJK5_POPTR,A0A3N7FJK5,Null,Null,1.0,POPTR_T178700 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A3N7FMT1_POPTR,A0A3N7FMT1,Null,Null,1.0,POPTR_009G077200 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A3N7FQR3_POPTR,A0A3N7FQR3,Null,Null,92.0,POPTR_010G039000 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A3N7FTY4_POPTR,A0A3N7FTY4,Null,Null,47.0,POPTR_012G091600 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A3N7FUH2_POPTR,A0A3N7FUH2,Null,Null,4.0,POPTR_011G080600 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A3N7FXD0_POPTR,A0A3N7FXD0,Null,Null,1.0,POPTR_006G007501 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A3N7FXY4_POPTR,A0A3N7FXY4,Null,Null,47.0,POPTR_006G064800 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A3N7FYM4_POPTR,A0A3N7FYM4,Null,Null,47.0,POPTR_006G118000 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A3N7G1S4_POPTR,A0A3N7G1S4,Null,Null,1.0,POPTR_016G016700 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A3N7G386_POPTR,A0A3N7G386,Null,Null,92.0,POPTR_016G041900 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A3N7G449_POPTR,A0A3N7G449,Null,Null,47.0,POPTR_015G087900 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A3N7G473_POPTR,A0A3N7G473,Null,Null,1.0,POPTR_017G052200 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A3N7G4D7_POPTR,A0A3N7G4D7,Null,Null,1.0,POPTR_016G021550 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A3N7G4I1_POPTR,A0A3N7G4I1,Null,Null,1.0,POPTR_017G077701 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A3N7G575_POPTR,A0A3N7G575,Null,Null,1.0,POPTR_016G017001 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A3N7G5T4_POPTR,A0A3N7G5T4,Null,Null,47.0,POPTR_018G025400 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A3N7G5V8_POPTR,A0A3N7G5V8,Null,Null,47.0,POPTR_008G034500 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A3N7G889_POPTR,A0A3N7G889,Null,Null,47.0,POPTR_018G025200 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A3N7G8A2_POPTR,A0A3N7G8A2,Null,Null,47.0,POPTR_018G125000 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A3N7GKR4_POPTR,A0A3N7GKR4,Null,Null,1.0,POPTR_007G141900 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A3N7GXD9_POPTR,A0A3N7GXD9,Null,Null,47.0,POPTR_014G171100 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A3N7GZU0_POPTR,A0A3N7GZU0,Null,Null,47.0,POPTR_015G087900 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A3N7H1L3_POPTR,A0A3N7H1L3,Null,Null,1.0,POPTR_016G020201 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A3N7HAK8_POPTR,A0A3N7HAK8,Null,Null,47.0,POPTR_018G124832 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A3N7HFZ1_POPTR,A0A3N7HFZ1,Null,Null,47.0,POPTR_013G116200 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A3N7HIT3_POPTR,A0A3N7HIT3,Null,Null,47.0,POPTR_012G109200 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A3N7HKA1_POPTR,A0A3N7HKA1,Null,Null,47.0,POPTR_014G170900 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A3N7HMP6_POPTR,A0A3N7HMP6,Null,Null,47.0,POPTR_015G087900 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A3N7HU50_POPTR,A0A3N7HU50,Null,Null,47.0,POPTR_015G087900 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A3N7HUV7_POPTR,A0A3N7HUV7,Null,Null,47.0,POPTR_015G116700 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A0A4U5M540_POPAL,A0A4U5M540,Null,Null,1.0,D5086_0000320130 , Populus alba (White poplar).
+A0A4U5M576_POPAL,A0A4U5M576,Null,Null,28.0,D5086_0000320360 , Populus alba (White poplar).
+A0A4U5MAG0_POPAL,A0A4U5MAG0,Null,Null,47.0,D5086_0000316570 , Populus alba (White poplar).
+A0A4U5MAR2_POPAL,A0A4U5MAR2,Null,Null,92.0,D5086_0000312840 , Populus alba (White poplar).
+A0A4U5MHH6_POPAL,A0A4U5MHH6,Null,Null,47.0,D5086_0000306870 , Populus alba (White poplar).
+A0A4U5MHQ0_POPAL,A0A4U5MHQ0,Null,Null,47.0,D5086_0000308400 , Populus alba (White poplar).
+A0A4U5MNH2_POPAL,A0A4U5MNH2,Null,Null,1.0,D5086_0000305120 , Populus alba (White poplar).
+A0A4U5MW64_POPAL,A0A4U5MW64,Null,Null,47.0,D5086_0000298740 , Populus alba (White poplar).
+A0A4U5MXA4_POPAL,A0A4U5MXA4,Null,Null,47.0,D5086_0000293200 , Populus alba (White poplar).
+A0A4U5MY67_POPAL,A0A4U5MY67,Null,Null,47.0,D5086_0000289110 , Populus alba (White poplar).
+A0A4U5MZ41_POPAL,A0A4U5MZ41,Null,Null,92.0,D5086_0000285900 , Populus alba (White poplar).
+A0A4U5N757_POPAL,A0A4U5N757,Null,Null,47.0,D5086_0000280810 , Populus alba (White poplar).
+A0A4U5N7R6_POPAL,A0A4U5N7R6,Null,Null,1.0,D5086_0000277390 , Populus alba (White poplar).
+A0A4U5N808_POPAL,A0A4U5N808,Null,Null,47.0,D5086_0000280790 , Populus alba (White poplar).
+A0A4U5N864_POPAL,A0A4U5N864,Null,Null,47.0,D5086_0000280750 , Populus alba (White poplar).
+A0A4U5N8J6_POPAL,A0A4U5N8J6,Null,Null,47.0,D5086_0000280770 , Populus alba (White poplar).
+A0A4U5N922_POPAL,A0A4U5N922,Null,Null,1.0,D5086_0000272120 , Populus alba (White poplar).
+A0A4U5NL94_POPAL,A0A4U5NL94,Null,Null,1.0,D5086_0000259750 , Populus alba (White poplar).
+A0A4U5NLX4_POPAL,A0A4U5NLX4,Null,Null,1.0,D5086_0000255320 , Populus alba (White poplar).
+A0A4U5NM74_POPAL,A0A4U5NM74,Null,Null,1.0,D5086_0000255330 , Populus alba (White poplar).
+A0A4U5NNU5_POPAL,A0A4U5NNU5,Null,Null,1.0,D5086_0000257040 , Populus alba (White poplar).
+A0A4U5NNU8_POPAL,A0A4U5NNU8,Null,Null,1.0,D5086_0000255310 , Populus alba (White poplar).
+A0A4U5NPH9_POPAL,A0A4U5NPH9,Null,Null,47.0,D5086_0000256190 , Populus alba (White poplar).
+A0A4U5P2M7_POPAL,A0A4U5P2M7,Null,Null,1.0,D5086_0000233720 , Populus alba (White poplar).
+A0A4U5P401_POPAL,A0A4U5P401,Null,Null,47.0,D5086_0000228580 , Populus alba (White poplar).
+A0A4U5P5J5_POPAL,A0A4U5P5J5,Null,Null,1.0,D5086_0000228070 , Populus alba (White poplar).
+A0A4U5PNR9_POPAL,A0A4U5PNR9,Null,Null,1.0,D5086_0000204980 , Populus alba (White poplar).
+A0A4U5PNY3_POPAL,A0A4U5PNY3,Null,Null,47.0,D5086_0000206100 , Populus alba (White poplar).
+A0A4U5PPH9_POPAL,A0A4U5PPH9,Null,Null,47.0,D5086_0000204210 , Populus alba (White poplar).
+A0A4U5PQB5_POPAL,A0A4U5PQB5,Null,Null,1.0,D5086_0000192350 , Populus alba (White poplar).
+A0A4U5PRI4_POPAL,A0A4U5PRI4,Null,Null,1.0,D5086_0000187660 , Populus alba (White poplar).
+A0A4U5PSB2_POPAL,A0A4U5PSB2,Null,Null,1.0,D5086_0000187670 , Populus alba (White poplar).
+A0A4U5PTQ6_POPAL,A0A4U5PTQ6,Null,Null,47.0,D5086_0000183430 , Populus alba (White poplar).
+A0A4U5PUM3_POPAL,A0A4U5PUM3,Null,Null,47.0,D5086_0000181500 , Populus alba (White poplar).
+A0A4U5PUN7_POPAL,A0A4U5PUN7,Null,Null,1.0,D5086_0000197130 , Populus alba (White poplar).
+A0A4U5PVX2_POPAL,A0A4U5PVX2,Null,Null,47.0,D5086_0000170130 , Populus alba (White poplar).
+A0A4U5PWC3_POPAL,A0A4U5PWC3,Null,Null,1.0,D5086_0000168570 , Populus alba (White poplar).
+A0A4U5PWF2_POPAL,A0A4U5PWF2,Null,Null,1.0,D5086_0000187630 , Populus alba (White poplar).
+A0A4U5PXC1_POPAL,A0A4U5PXC1,Null,Null,1.0,D5086_0000168580 , Populus alba (White poplar).
+A0A4U5PXQ7_POPAL,A0A4U5PXQ7,Null,Null,1.0,D5086_0000168590 , Populus alba (White poplar).
+A0A4U5PYR7_POPAL,A0A4U5PYR7,Null,Null,47.0,D5086_0000159940 , Populus alba (White poplar).
+A0A4U5PZJ6_POPAL,A0A4U5PZJ6,Null,Null,92.0,D5086_0000150950 , Populus alba (White poplar).
+A0A4U5PZQ7_POPAL,A0A4U5PZQ7,Null,Null,47.0,D5086_0000176380 , Populus alba (White poplar).
+A0A4U5PZU5_POPAL,A0A4U5PZU5,Null,Null,92.0,D5086_0000151500 , Populus alba (White poplar).
+A0A4U5Q1C1_POPAL,A0A4U5Q1C1,Null,Null,1.0,D5086_0000149560 , Populus alba (White poplar).
+A0A4U5Q2R1_POPAL,A0A4U5Q2R1,Null,Null,28.0,D5086_0000145750 , Populus alba (White poplar).
+A0A4U5Q2X9_POPAL,A0A4U5Q2X9,Null,Null,47.0,D5086_0000148450 , Populus alba (White poplar).
+A0A4U5Q398_POPAL,A0A4U5Q398,Null,Null,47.0,D5086_0000143090 , Populus alba (White poplar).
+A0A4U5Q3L5_POPAL,A0A4U5Q3L5,Null,Null,47.0,D5086_0000139640 , Populus alba (White poplar).
+A0A4U5Q3L8_POPAL,A0A4U5Q3L8,Null,Null,1.0,D5086_0000140360 , Populus alba (White poplar).
+A0A4U5Q425_POPAL,A0A4U5Q425,Null,Null,1.0,D5086_0000145530 , Populus alba (White poplar).
+A0A4U5Q4H4_POPAL,A0A4U5Q4H4,Null,Null,47.0,D5086_0000142570 , Populus alba (White poplar).
+A0A4U5Q4Q8_POPAL,A0A4U5Q4Q8,Null,Null,1.0,D5086_0000132850 , Populus alba (White poplar).
+A0A4U5Q4T8_POPAL,A0A4U5Q4T8,Null,Null,1.0,D5086_0000133150 , Populus alba (White poplar).
+A0A4U5Q4W6_POPAL,A0A4U5Q4W6,Null,Null,1.0,D5086_0000140370 , Populus alba (White poplar).
+A0A4U5Q596_POPAL,A0A4U5Q596,Null,Null,1.0,D5086_0000133100 , Populus alba (White poplar).
+A0A4U5Q5U8_POPAL,A0A4U5Q5U8,Null,Null,47.0,D5086_0000131710 , Populus alba (White poplar).
+A0A4U5Q5X5_POPAL,A0A4U5Q5X5,Null,Null,1.0,D5086_0000132860 , Populus alba (White poplar).
+A0A4U5Q776_POPAL,A0A4U5Q776,Null,Null,92.0,D5086_0000131170 , Populus alba (White poplar).
+A0A4U5Q7E6_POPAL,A0A4U5Q7E6,Null,Null,1.0,D5086_0000124960 , Populus alba (White poplar).
+A0A4U5Q7X0_POPAL,A0A4U5Q7X0,Null,Null,92.0,D5086_0000128200 , Populus alba (White poplar).
+A0A4U5Q8W6_POPAL,A0A4U5Q8W6,Null,Null,1.0,D5086_0000132840 , Populus alba (White poplar).
+A0A4U5Q8Z5_POPAL,A0A4U5Q8Z5,Null,Null,1.0,D5086_0000133140 , Populus alba (White poplar).
+A0A4U5QA33_POPAL,A0A4U5QA33,Null,Null,1.0,D5086_0000132820 , Populus alba (White poplar).
+A0A4U5QAC5_POPAL,A0A4U5QAC5,Null,Null,47.0,D5086_0000115150 , Populus alba (White poplar).
+A0A4U5QAY6_POPAL,A0A4U5QAY6,Null,Null,47.0,D5086_0000114530 , Populus alba (White poplar).
+A0A4U5QBS9_POPAL,A0A4U5QBS9,Null,Null,1.0,D5086_0000109400 , Populus alba (White poplar).
+A0A4U5QBZ1_POPAL,A0A4U5QBZ1,Null,Null,47.0,D5086_0000106200 , Populus alba (White poplar).
+A0A4U5QCC2_POPAL,A0A4U5QCC2,Null,Null,1.0,D5086_0000107600 , Populus alba (White poplar).
+A0A4U5QCD0_POPAL,A0A4U5QCD0,Null,Null,1.0,D5086_0000107580 , Populus alba (White poplar).
+A0A4U5QCJ1_POPAL,A0A4U5QCJ1,Null,Null,1.0,D5086_0000109420 , Populus alba (White poplar).
+A0A4U5QCU8_POPAL,A0A4U5QCU8,Null,Null,1.0,D5086_0000105350 , Populus alba (White poplar).
+A0A4U5QCW3_POPAL,A0A4U5QCW3,Null,Null,1.0,D5086_0000105530 , Populus alba (White poplar).
+A0A4U5QD17_POPAL,A0A4U5QD17,Null,Null,1.0,D5086_0000109410 , Populus alba (White poplar).
+A0A4U5QD88_POPAL,A0A4U5QD88,Null,Null,47.0,D5086_0000119000 , Populus alba (White poplar).
+A0A4U5QDK1_POPAL,A0A4U5QDK1,Null,Null,1.0,D5086_0000107610 , Populus alba (White poplar).
+A0A4U5QDL3_POPAL,A0A4U5QDL3,Null,Null,47.0,D5086_0000098790 , Populus alba (White poplar).
+A0A4U5QEP9_POPAL,A0A4U5QEP9,Null,Null,37.0,D5086_0000101210 , Populus alba (White poplar).
+A0A4U5QET1_POPAL,A0A4U5QET1,Null,Null,4.0,D5086_0000102790 , Populus alba (White poplar).
+A0A4U5QF05_POPAL,A0A4U5QF05,Null,Null,47.0,D5086_0000117540 , Populus alba (White poplar).
+A0A4U5QFE6_POPAL,A0A4U5QFE6,Null,Null,37.0,D5086_0000101200 , Populus alba (White poplar).
+A0A4U5QFQ9_POPAL,A0A4U5QFQ9,Null,Null,47.0,D5086_0000093790 , Populus alba (White poplar).
+A0A4U5QGW7_POPAL,A0A4U5QGW7,Null,Null,1.0,D5086_0000089550 , Populus alba (White poplar).
+A0A4U5QHT0_POPAL,A0A4U5QHT0,Null,Null,1.0,D5086_0000107650 , Populus alba (White poplar).
+A0A4U5QI68_POPAL,A0A4U5QI68,Null,Null,47.0,D5086_0000083860 , Populus alba (White poplar).
+A0A4U5QI74_POPAL,A0A4U5QI74,Null,Null,1.0,D5086_0000105100 , Populus alba (White poplar).
+A0A4U5QI76_POPAL,A0A4U5QI76,Null,Null,47.0,D5086_0000083880 , Populus alba (White poplar).
+A0A4U5QIC8_POPAL,A0A4U5QIC8,Null,Null,28.0,D5086_0000083710 , Populus alba (White poplar).
+A0A4U5QIW0_POPAL,A0A4U5QIW0,Null,Null,92.0,D5086_0000098340 , Populus alba (White poplar).
+A0A4U5QJG5_POPAL,A0A4U5QJG5,Null,Null,47.0,D5086_0000083890 , Populus alba (White poplar).
+A0A4U5QJS8_POPAL,A0A4U5QJS8,Null,Null,28.0,D5086_0000079780 , Populus alba (White poplar).
+A0A4U5QMY6_POPAL,A0A4U5QMY6,Null,Null,47.0,D5086_0000087210 , Populus alba (White poplar).
+A0A4U5QN05_POPAL,A0A4U5QN05,Null,Null,47.0,D5086_0000067440 , Populus alba (White poplar).
+A0A4U5QP25_POPAL,A0A4U5QP25,Null,Null,47.0,D5086_0000076990 , Populus alba (White poplar).
+A0A4U5QQN1_POPAL,A0A4U5QQN1,Null,Null,28.0,D5086_0000077670 , Populus alba (White poplar).
+A0A4U5QS03_POPAL,A0A4U5QS03,Null,Null,1.0,D5086_0000051720 , Populus alba (White poplar).
+A0A4U5QTS6_POPAL,A0A4U5QTS6,Null,Null,1.0,D5086_0000040950 , Populus alba (White poplar).
+A0A4U5QUI5_POPAL,A0A4U5QUI5,Null,Null,47.0,D5086_0000055400 , Populus alba (White poplar).
+A0A4U5QV68_POPAL,A0A4U5QV68,Null,Null,1.0,D5086_0000046250 , Populus alba (White poplar).
+A0A4U5QVZ6_POPAL,A0A4U5QVZ6,Null,Null,47.0,D5086_0000039050 , Populus alba (White poplar).
+A0A4U5QWB5_POPAL,A0A4U5QWB5,Null,Null,1.0,D5086_0000031770 , Populus alba (White poplar).
+A0A4U5QXL7_POPAL,A0A4U5QXL7,Null,Null,1.0,D5086_0000031760 , Populus alba (White poplar).
+A0A4U5QZJ9_POPAL,A0A4U5QZJ9,Null,Null,1.0,D5086_0000015610 , Populus alba (White poplar).
+A0A4U5QZT8_POPAL,A0A4U5QZT8,Null,Null,47.0,D5086_0000015790 , Populus alba (White poplar).
+A0A4U5R0Q4_POPAL,A0A4U5R0Q4,Null,Null,1.0,D5086_0000015620 , Populus alba (White poplar).
+A0A4U5R146_POPAL,A0A4U5R146,Null,Null,1.0,D5086_0000014970 , Populus alba (White poplar).
+A0A4U5R157_POPAL,A0A4U5R157,Null,Null,1.0,D5086_0000014960 , Populus alba (White poplar).
+A0A4U5R1C3_POPAL,A0A4U5R1C3,Null,Null,1.0,D5086_0000014940 , Populus alba (White poplar).
+A0A4U5R1Z9_POPAL,A0A4U5R1Z9,Null,Null,47.0,D5086_0000009890 , Populus alba (White poplar).
+A0A4U5R2H2_POPAL,A0A4U5R2H2,Null,Null,1.0,D5086_0000014950 , Populus alba (White poplar).
+A0A4U5R396_POPAL,A0A4U5R396,Null,Null,1.0,D5086_0000014930 , Populus alba (White poplar).
+A0A4U5R3K0_POPAL,A0A4U5R3K0,Null,Null,47.0,D5086_0000000410 , Populus alba (White poplar).
+A0A4U5R4S8_POPAL,A0A4U5R4S8,Null,Null,47.0,D5086_0000003370 , Populus alba (White poplar).
+A0A4U5R4X0_POPAL,A0A4U5R4X0,Null,Null,47.0,D5086_0000000400 , Populus alba (White poplar).
+A0A4U5R566_POPAL,A0A4U5R566,Null,Null,47.0,D5086_0000002200 , Populus alba (White poplar).
+A0A4V6A1D4_POPAL,A0A4V6A1D4,Null,Null,1.0,D5086_0000291710 , Populus alba (White poplar).
+A0A4V6A3R5_POPAL,A0A4V6A3R5,Null,Null,1.0,D5086_0000261480 , Populus alba (White poplar).
+A0A4V6A5H7_POPAL,A0A4V6A5H7,Null,Null,47.0,D5086_0000226560 , Populus alba (White poplar).
+A0A4V6A5Q8_POPAL,A0A4V6A5Q8,Null,Null,47.0,D5086_0000217890 , Populus alba (White poplar).
+A0A4V6A7E3_POPAL,A0A4V6A7E3,Null,Null,47.0,D5086_0000211300 , Populus alba (White poplar).
+A0A4V6A7N8_POPAL,A0A4V6A7N8,Null,Null,47.0,D5086_0000189290 , Populus alba (White poplar).
+A0A4V6A7R1_POPAL,A0A4V6A7R1,Null,Null,92.0,D5086_0000199190 , Populus alba (White poplar).
+A0A4V6A8X9_POPAL,A0A4V6A8X9,Null,Null,47.0,D5086_0000138970 , Populus alba (White poplar).
+A0A4V6A9A4_POPAL,A0A4V6A9A4,Null,Null,47.0,D5086_0000123670 , Populus alba (White poplar).
+A0A4V6A9F2_POPAL,A0A4V6A9F2,Null,Null,1.0,D5086_0000132830 , Populus alba (White poplar).
+A0A4V6A9Q9_POPAL,A0A4V6A9Q9,Null,Null,1.0,D5086_0000107660 , Populus alba (White poplar).
+A0A4V6AA65_POPAL,A0A4V6AA65,Null,Null,92.0,D5086_0000090070 , Populus alba (White poplar).
+A0A4V6AAH6_POPAL,A0A4V6AAH6,Null,Null,47.0,D5086_0000076980 , Populus alba (White poplar).
+A0A4V6AAP5_POPAL,A0A4V6AAP5,Null,Null,37.0,D5086_0000095800 , Populus alba (White poplar).
+A0A4V6ABD7_POPAL,A0A4V6ABD7,Null,Null,1.0,D5086_0000063650 , Populus alba (White poplar).
+A0A4V6AC43_POPAL,A0A4V6AC43,Null,Null,1.0,D5086_0000037030 , Populus alba (White poplar).
+A0A6B9LTE7_9ROSI,A0A6B9LTE7,Null,Null,47.0,ptoGT47C , Populus davidiana x Populus alba var. pyramidalis.
+A0A6M2E7A0_9ROSI,A0A6M2E7A0,Null,Null,47.0,Null, Populus davidiana.
+A0A6M2E7Y8_9ROSI,A0A6M2E7Y8,Null,Null,1.0,Null, Populus davidiana.
+A0A6M2E8J9_9ROSI,A0A6M2E8J9,Null,Null,47.0,Null, Populus davidiana.
+A0A6M2E8U7_9ROSI,A0A6M2E8U7,Null,Null,47.0,Null, Populus davidiana.
+A0A6M2E9R5_9ROSI,A0A6M2E9R5,Null,Null,47.0,Null, Populus davidiana.
+A0A6M2EA99_9ROSI,A0A6M2EA99,Null,Null,47.0,Null, Populus davidiana.
+A0A6M2EBG2_9ROSI,A0A6M2EBG2,Null,Null,1.0,Null, Populus davidiana.
+A0A6M2EC81_9ROSI,A0A6M2EC81,Null,Null,28.0,Null, Populus davidiana.
+A0A6M2ECM9_9ROSI,A0A6M2ECM9,Null,Null,4.0,Null, Populus davidiana.
+A0A6M2EEA3_9ROSI,A0A6M2EEA3,Null,Null,47.0,Null, Populus davidiana.
+A0A6M2EHL3_9ROSI,A0A6M2EHL3,Null,Null,1.0,Null, Populus davidiana.
+A0A6M2EHV6_9ROSI,A0A6M2EHV6,Null,Null,1.0,Null, Populus davidiana.
+A0A6M2EHV7_9ROSI,A0A6M2EHV7,Null,Null,1.0,Null, Populus davidiana.
+A0A6M2EIF0_9ROSI,A0A6M2EIF0,Null,Null,1.0,Null, Populus davidiana.
+A0A6M2EJ18_9ROSI,A0A6M2EJ18,Null,Null,1.0,Null, Populus davidiana.
+A0A6M2EJB3_9ROSI,A0A6M2EJB3,Null,Null,47.0,Null, Populus davidiana.
+A0A6M2EK17_9ROSI,A0A6M2EK17,Null,Null,1.0,Null, Populus davidiana.
+A0A6M2EMH1_9ROSI,A0A6M2EMH1,Null,Null,1.0,Null, Populus davidiana.
+A0A6M2EMM2_9ROSI,A0A6M2EMM2,Null,Null,1.0,Null, Populus davidiana.
+A0A6M2ENY9_9ROSI,A0A6M2ENY9,Null,Null,47.0,Null, Populus davidiana.
+A0A6M2EPC5_9ROSI,A0A6M2EPC5,Null,Null,1.0,Null, Populus davidiana.
+A0A6M2ERI0_9ROSI,A0A6M2ERI0,Null,Null,92.0,Null, Populus davidiana.
+A0A6M2ESR0_9ROSI,A0A6M2ESR0,Null,Null,92.0,Null, Populus davidiana.
+A0A6M2ET80_9ROSI,A0A6M2ET80,Null,Null,47.0,Null, Populus davidiana.
+A0A6M2ET88_9ROSI,A0A6M2ET88,Null,Null,1.0,Null, Populus davidiana.
+A0A6M2EUP3_9ROSI,A0A6M2EUP3,Null,Null,1.0,Null, Populus davidiana.
+A0A6M2EUV6_9ROSI,A0A6M2EUV6,Null,Null,47.0,Null, Populus davidiana.
+A0A6M2EVH5_9ROSI,A0A6M2EVH5,Null,Null,47.0,Null, Populus davidiana.
+A0A6M2EW17_9ROSI,A0A6M2EW17,Null,Null,47.0,Null, Populus davidiana.
+A0A6M2EXE1_9ROSI,A0A6M2EXE1,Null,Null,47.0,Null, Populus davidiana.
+A0A6M2EYD4_9ROSI,A0A6M2EYD4,Null,Null,92.0,Null, Populus davidiana.
+A0A6M2EZ65_9ROSI,A0A6M2EZ65,Null,Null,1.0,Null, Populus davidiana.
+A0A6M2EZR1_9ROSI,A0A6M2EZR1,Null,Null,47.0,Null, Populus davidiana.
+A0A6M2F1P8_9ROSI,A0A6M2F1P8,Null,Null,47.0,Null, Populus davidiana.
+A0A6M2F2C8_9ROSI,A0A6M2F2C8,Null,Null,1.0,Null, Populus davidiana.
+A0A6M2F2W4_9ROSI,A0A6M2F2W4,Null,Null,1.0,Null, Populus davidiana.
+A0A6M2F4M1_9ROSI,A0A6M2F4M1,Null,Null,28.0,Null, Populus davidiana.
+A0A6M2F764_9ROSI,A0A6M2F764,Null,Null,1.0,Null, Populus davidiana.
+A0A6M2F7E4_9ROSI,A0A6M2F7E4,Null,Null,28.0,Null, Populus davidiana.
+A0A6M2FCL3_9ROSI,A0A6M2FCL3,Null,Null,1.0,Null, Populus davidiana.
+A0A6M2FDQ2_9ROSI,A0A6M2FDQ2,Null,Null,1.0,Null, Populus davidiana.
+A0A8T2WF97_POPDE,A0A8T2WF97,Null,Null,1.0,H0E87_030168 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2WHA0_POPDE,A0A8T2WHA0,Null,Null,47.0,H0E87_030486 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2WHC8_POPDE,A0A8T2WHC8,Null,Null,1.0,H0E87_030447 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2WHH4_POPDE,A0A8T2WHH4,Null,Null,1.0,H0E87_000170 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2WHX6_POPDE,A0A8T2WHX6,Null,Null,41.0,H0E87_030988 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2WIQ4_POPDE,A0A8T2WIQ4,Null,Null,47.0,H0E87_030918 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2WIU3_POPDE,A0A8T2WIU3,Null,Null,47.0,H0E87_030808 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2WK54_POPDE,A0A8T2WK54,Null,Null,28.0,H0E87_029267 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2WL22_POPDE,A0A8T2WL22,Null,Null,47.0,H0E87_030915 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2WLH3_POPDE,A0A8T2WLH3,Null,Null,47.0,H0E87_029258 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2WM05_POPDE,A0A8T2WM05,Null,Null,47.0,H0E87_030841 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2WNK4_POPDE,A0A8T2WNK4,Null,Null,47.0,H0E87_029546 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2WNR7_POPDE,A0A8T2WNR7,Null,Null,1.0,H0E87_027644 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2WPR7_POPDE,A0A8T2WPR7,Null,Null,28.0,H0E87_030099 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2WPT0_POPDE,A0A8T2WPT0,Null,Null,28.0,H0E87_029267 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2WQ66_POPDE,A0A8T2WQ66,Null,Null,1.0,H0E87_028038 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2WQG4_POPDE,A0A8T2WQG4,Null,Null,47.0,H0E87_030021 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2WQI5_POPDE,A0A8T2WQI5,Null,Null,1.0,H0E87_028114 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2WQL5_POPDE,A0A8T2WQL5,Null,Null,1.0,H0E87_028136 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2WRL6_POPDE,A0A8T2WRL6,Null,Null,47.0,H0E87_030020 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2WSB7_POPDE,A0A8T2WSB7,Null,Null,1.0,H0E87_028606 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2WT12_POPDE,A0A8T2WT12,Null,Null,28.0,H0E87_030099 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2WT94_POPDE,A0A8T2WT94,Null,Null,1.0,H0E87_028239 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2WTB3_POPDE,A0A8T2WTB3,Null,Null,1.0,H0E87_027646 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2WTS4_POPDE,A0A8T2WTS4,Null,Null,1.0,H0E87_028549 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2WTS7_POPDE,A0A8T2WTS7,Null,Null,1.0,H0E87_028609 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2WU10_POPDE,A0A8T2WU10,Null,Null,1.0,H0E87_028134 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2WUE6_POPDE,A0A8T2WUE6,Null,Null,1.0,H0E87_028238 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2WWT1_POPDE,A0A8T2WWT1,Null,Null,92.0,H0E87_027242 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2WXA8_POPDE,A0A8T2WXA8,Null,Null,1.0,H0E87_027441 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2WXC9_POPDE,A0A8T2WXC9,Null,Null,1.0,H0E87_027461 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2WXE7_POPDE,A0A8T2WXE7,Null,Null,1.0,H0E87_027480 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2WXL1_POPDE,A0A8T2WXL1,Null,Null,1.0,H0E87_027445 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2WXM1_POPDE,A0A8T2WXM1,Null,Null,1.0,H0E87_027455 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2WY61_POPDE,A0A8T2WY61,Null,Null,1.0,H0E87_026758 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2WYA6_POPDE,A0A8T2WYA6,Null,Null,92.0,H0E87_027242 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2WYG6_POPDE,A0A8T2WYG6,Null,Null,1.0,H0E87_027452 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2WYH6_POPDE,A0A8T2WYH6,Null,Null,1.0,H0E87_027462 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2WYP3_POPDE,A0A8T2WYP3,Null,Null,1.0,H0E87_027444 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2WYR4_POPDE,A0A8T2WYR4,Null,Null,1.0,H0E87_027464 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2WZ31_POPDE,A0A8T2WZ31,Null,Null,1.0,H0E87_027446 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2WZ41_POPDE,A0A8T2WZ41,Null,Null,1.0,H0E87_027456 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2WZP3_POPDE,A0A8T2WZP3,Null,Null,1.0,H0E87_027397 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2WZV8_POPDE,A0A8T2WZV8,Null,Null,1.0,H0E87_027450 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2WZW8_POPDE,A0A8T2WZW8,Null,Null,1.0,H0E87_027460 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2X019_POPDE,A0A8T2X019,Null,Null,47.0,H0E87_025554 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2X022_POPDE,A0A8T2X022,Null,Null,1.0,H0E87_027458 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2X031_POPDE,A0A8T2X031,Null,Null,1.0,H0E87_027468 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2X0T7_POPDE,A0A8T2X0T7,Null,Null,1.0,H0E87_027449 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2X0U7_POPDE,A0A8T2X0U7,Null,Null,1.0,H0E87_027459 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2X0W6_POPDE,A0A8T2X0W6,Null,Null,1.0,H0E87_027478 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2X177_POPDE,A0A8T2X177,Null,Null,47.0,H0E87_025477 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2X1A9_POPDE,A0A8T2X1A9,Null,Null,1.0,H0E87_025843 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2X1I4_POPDE,A0A8T2X1I4,Null,Null,1.0,H0E87_027447 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2X1J8_POPDE,A0A8T2X1J8,Null,Null,1.0,H0E87_027457 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2X1K9_POPDE,A0A8T2X1K9,Null,Null,1.0,H0E87_027467 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2X1X2_POPDE,A0A8T2X1X2,Null,Null,1.0,H0E87_027453 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2X1Y9_POPDE,A0A8T2X1Y9,Null,Null,1.0,H0E87_027463 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2X211_POPDE,A0A8T2X211,Null,Null,1.0,H0E87_027482 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2X2K2_POPDE,A0A8T2X2K2,Null,Null,47.0,H0E87_025300 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2X2K3_POPDE,A0A8T2X2K3,Null,Null,1.0,H0E87_023764 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2X461_POPDE,A0A8T2X461,Null,Null,1.0,H0E87_026181 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2X547_POPDE,A0A8T2X547,Null,Null,1.0,H0E87_026182 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2X6I0_POPDE,A0A8T2X6I0,Null,Null,47.0,H0E87_024746 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2X7X1_POPDE,A0A8T2X7X1,Null,Null,47.0,H0E87_025071 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2XAN8_POPDE,A0A8T2XAN8,Null,Null,47.0,H0E87_025070 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2XB97_POPDE,A0A8T2XB97,Null,Null,47.0,H0E87_024876 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2XCB2_POPDE,A0A8T2XCB2,Null,Null,41.0,H0E87_023381 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2XCV8_POPDE,A0A8T2XCV8,Null,Null,47.0,H0E87_022665 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2XEX9_POPDE,A0A8T2XEX9,Null,Null,41.0,H0E87_023381 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2XG01_POPDE,A0A8T2XG01,Null,Null,28.0,H0E87_023193 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2XHC4_POPDE,A0A8T2XHC4,Null,Null,47.0,H0E87_021961 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2XHM0_POPDE,A0A8T2XHM0,Null,Null,1.0,H0E87_021461 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2XHT7_POPDE,A0A8T2XHT7,Null,Null,47.0,H0E87_022094 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2XIY3_POPDE,A0A8T2XIY3,Null,Null,47.0,H0E87_022099 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2XJF7_POPDE,A0A8T2XJF7,Null,Null,47.0,H0E87_022249 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2XJP4_POPDE,A0A8T2XJP4,Null,Null,47.0,H0E87_021985 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2XKE0_POPDE,A0A8T2XKE0,Null,Null,47.0,H0E87_021899 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2XMH1_POPDE,A0A8T2XMH1,Null,Null,1.0,H0E87_022463 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2XRG1_POPDE,A0A8T2XRG1,Null,Null,92.0,H0E87_018443 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2XUJ3_POPDE,A0A8T2XUJ3,Null,Null,1.0,H0E87_019188 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2XVT9_POPDE,A0A8T2XVT9,Null,Null,1.0,H0E87_019624 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2XVX8_POPDE,A0A8T2XVX8,Null,Null,47.0,H0E87_019645 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2Y044_POPDE,A0A8T2Y044,Null,Null,1.0,H0E87_017421 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2Y0A2_POPDE,A0A8T2Y0A2,Null,Null,1.0,H0E87_017442 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2Y0Q7_POPDE,A0A8T2Y0Q7,Null,Null,1.0,H0E87_017572 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2Y0R4_POPDE,A0A8T2Y0R4,Null,Null,1.0,H0E87_017571 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2Y0U3_POPDE,A0A8T2Y0U3,Null,Null,1.0,H0E87_017573 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2Y0U5_POPDE,A0A8T2Y0U5,Null,Null,1.0,H0E87_017574 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2Y1P5_POPDE,A0A8T2Y1P5,Null,Null,1.0,H0E87_017825 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2Y355_POPDE,A0A8T2Y355,Null,Null,47.0,H0E87_018122 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2Y4F9_POPDE,A0A8T2Y4F9,Null,Null,92.0,H0E87_015266 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2Y9C6_POPDE,A0A8T2Y9C6,Null,Null,47.0,H0E87_016527 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2Y9M8_POPDE,A0A8T2Y9M8,Null,Null,47.0,H0E87_016527 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2Y9P5_POPDE,A0A8T2Y9P5,Null,Null,47.0,H0E87_016527 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2Y9T1_POPDE,A0A8T2Y9T1,Null,Null,47.0,H0E87_016527 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2YB07_POPDE,A0A8T2YB07,Null,Null,1.0,H0E87_013814 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2YB57_POPDE,A0A8T2YB57,Null,Null,1.0,H0E87_013812 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2YBR5_POPDE,A0A8T2YBR5,Null,Null,47.0,H0E87_013985 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2YBX0_POPDE,A0A8T2YBX0,Null,Null,47.0,H0E87_013988 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2YDE5_POPDE,A0A8T2YDE5,Null,Null,47.0,H0E87_014481 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2YDQ1_POPDE,A0A8T2YDQ1,Null,Null,1.0,H0E87_014546 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2YGE9_POPDE,A0A8T2YGE9,Null,Null,47.0,H0E87_011724 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2YKN2_POPDE,A0A8T2YKN2,Null,Null,47.0,H0E87_012825 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2YKX8_POPDE,A0A8T2YKX8,Null,Null,1.0,H0E87_012804 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2YL09_POPDE,A0A8T2YL09,Null,Null,47.0,H0E87_012825 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2YMC5_POPDE,A0A8T2YMC5,Null,Null,47.0,H0E87_013276 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2YMK7_POPDE,A0A8T2YMK7,Null,Null,47.0,H0E87_013273 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2YMK9_POPDE,A0A8T2YMK9,Null,Null,47.0,H0E87_013275 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2YMQ8_POPDE,A0A8T2YMQ8,Null,Null,47.0,H0E87_013277 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2YMS5_POPDE,A0A8T2YMS5,Null,Null,47.0,H0E87_013276 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2YMX6_POPDE,A0A8T2YMX6,Null,Null,1.0,H0E87_013346 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2YNC8_POPDE,A0A8T2YNC8,Null,Null,1.0,H0E87_013486 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2YNZ8_POPDE,A0A8T2YNZ8,Null,Null,1.0,H0E87_013667 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2YP24_POPDE,A0A8T2YP24,Null,Null,1.0,H0E87_013689 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2YP83_POPDE,A0A8T2YP83,Null,Null,1.0,H0E87_013668 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2YP87_POPDE,A0A8T2YP87,Null,Null,1.0,H0E87_013688 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2YPB1_POPDE,A0A8T2YPB1,Null,Null,1.0,H0E87_013690 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2YPF4_POPDE,A0A8T2YPF4,Null,Null,1.0,H0E87_013692 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2YPH1_POPDE,A0A8T2YPH1,Null,Null,1.0,H0E87_013664 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2YPK0_POPDE,A0A8T2YPK0,Null,Null,1.0,H0E87_013665 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2YPN0_POPDE,A0A8T2YPN0,Null,Null,1.0,H0E87_013687 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2YQ87_POPDE,A0A8T2YQ87,Null,Null,28.0,H0E87_009775 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2YTV3_POPDE,A0A8T2YTV3,Null,Null,47.0,H0E87_010642 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2YV66_POPDE,A0A8T2YV66,Null,Null,47.0,H0E87_010962 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2YX23_POPDE,A0A8T2YX23,Null,Null,92.0,H0E87_011531 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2YXD0_POPDE,A0A8T2YXD0,Null,Null,92.0,H0E87_011482 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2YZB9_POPDE,A0A8T2YZB9,Null,Null,1.0,H0E87_008139 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2Z0H7_POPDE,A0A8T2Z0H7,Null,Null,1.0,H0E87_008549 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2Z2I2_POPDE,A0A8T2Z2I2,Null,Null,1.0,H0E87_008951 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2Z2P4_POPDE,A0A8T2Z2P4,Null,Null,1.0,H0E87_008953 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2Z2Q9_POPDE,A0A8T2Z2Q9,Null,Null,1.0,H0E87_008950 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2Z534_POPDE,A0A8T2Z534,Null,Null,1.0,H0E87_005927 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2Z6S3_POPDE,A0A8T2Z6S3,Null,Null,92.0,H0E87_006391 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2Z7V0_POPDE,A0A8T2Z7V0,Null,Null,47.0,H0E87_006640 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2Z8Y7_POPDE,A0A8T2Z8Y7,Null,Null,1.0,H0E87_006891 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2Z9T1_POPDE,A0A8T2Z9T1,Null,Null,47.0,H0E87_006846 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2ZDA5_POPDE,A0A8T2ZDA5,Null,Null,47.0,H0E87_003918 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2ZE34_POPDE,A0A8T2ZE34,Null,Null,47.0,H0E87_004263 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2ZEK3_POPDE,A0A8T2ZEK3,Null,Null,47.0,H0E87_004281 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2ZG50_POPDE,A0A8T2ZG50,Null,Null,1.0,H0E87_004684 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2ZIJ3_POPDE,A0A8T2ZIJ3,Null,Null,47.0,H0E87_005362 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2ZJ38_POPDE,A0A8T2ZJ38,Null,Null,1.0,H0E87_005344 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2ZMX3_POPDE,A0A8T2ZMX3,Null,Null,47.0,H0E87_000598 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2ZP67_POPDE,A0A8T2ZP67,Null,Null,92.0,H0E87_000946 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2ZQ26_POPDE,A0A8T2ZQ26,Null,Null,1.0,H0E87_001204 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2ZQ45_POPDE,A0A8T2ZQ45,Null,Null,47.0,H0E87_001067 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2ZQ50_POPDE,A0A8T2ZQ50,Null,Null,1.0,H0E87_001203 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2ZQM9_POPDE,A0A8T2ZQM9,Null,Null,1.0,H0E87_001205 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2ZQS0_POPDE,A0A8T2ZQS0,Null,Null,1.0,H0E87_001382 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2ZQV3_POPDE,A0A8T2ZQV3,Null,Null,1.0,H0E87_001210 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2ZRH6_POPDE,A0A8T2ZRH6,Null,Null,1.0,H0E87_001380 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2ZRI0_POPDE,A0A8T2ZRI0,Null,Null,1.0,H0E87_001380 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2ZT12_POPDE,A0A8T2ZT12,Null,Null,1.0,H0E87_001381 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2ZTP3_POPDE,A0A8T2ZTP3,Null,Null,47.0,H0E87_001567 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2ZVZ7_POPDE,A0A8T2ZVZ7,Null,Null,1.0,H0E87_002570 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2ZVZ8_POPDE,A0A8T2ZVZ8,Null,Null,1.0,H0E87_002569 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2ZWW2_POPDE,A0A8T2ZWW2,Null,Null,47.0,H0E87_002829 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2ZYD1_POPDE,A0A8T2ZYD1,Null,Null,47.0,H0E87_003095 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2ZZD0_POPDE,A0A8T2ZZD0,Null,Null,1.0,H0E87_003514 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8T2ZZN2_POPDE,A0A8T2ZZN2,Null,Null,1.0,H0E87_003516 , Populus deltoides (Eastern poplar) (Eastern cottonwood).
+A0A8X7XPR5_POPTO,A0A8X7XPR5,Null,Null,1.0,POTOM_061321 , Populus tomentosa (Chinese white poplar).
+A0A8X7XPW8_POPTO,A0A8X7XPW8,Null,Null,1.0,POTOM_061184 , Populus tomentosa (Chinese white poplar).
+A0A8X7XQH6_POPTO,A0A8X7XQH6,Null,Null,47.0,POTOM_058168 , Populus tomentosa (Chinese white poplar).
+A0A8X7XQT3_POPTO,A0A8X7XQT3,Null,Null,47.0,POTOM_060474 , Populus tomentosa (Chinese white poplar).
+A0A8X7XRC9_POPTO,A0A8X7XRC9,Null,Null,47.0,POTOM_060068 , Populus tomentosa (Chinese white poplar).
+A0A8X7XRI7_POPTO,A0A8X7XRI7,Null,Null,28.0,POTOM_056779 , Populus tomentosa (Chinese white poplar).
+A0A8X7XSG4_POPTO,A0A8X7XSG4,Null,Null,1.0,POTOM_061475 , Populus tomentosa (Chinese white poplar).
+A0A8X7XT70_POPTO,A0A8X7XT70,Null,Null,47.0,POTOM_059167 , Populus tomentosa (Chinese white poplar).
+A0A8X7XTJ7_POPTO,A0A8X7XTJ7,Null,Null,47.0,POTOM_055764 , Populus tomentosa (Chinese white poplar).
+A0A8X7XTY1_POPTO,A0A8X7XTY1,Null,Null,47.0,POTOM_058141 , Populus tomentosa (Chinese white poplar).
+A0A8X7XUT4_POPTO,A0A8X7XUT4,Null,Null,1.0,POTOM_059762 , Populus tomentosa (Chinese white poplar).
+A0A8X7XW42_POPTO,A0A8X7XW42,Null,Null,47.0,POTOM_059443 , Populus tomentosa (Chinese white poplar).
+A0A8X7XWQ2_POPTO,A0A8X7XWQ2,Null,Null,28.0,POTOM_057573 , Populus tomentosa (Chinese white poplar).
+A0A8X7XX21_POPTO,A0A8X7XX21,Null,Null,28.0,POTOM_055701 , Populus tomentosa (Chinese white poplar).
+A0A8X7XY04_POPTO,A0A8X7XY04,Null,Null,1.0,POTOM_061649 , Populus tomentosa (Chinese white poplar).
+A0A8X7XYL9_POPTO,A0A8X7XYL9,Null,Null,1.0,POTOM_053784 , Populus tomentosa (Chinese white poplar).
+A0A8X7XZ28_POPTO,A0A8X7XZ28,Null,Null,28.0,POTOM_056441 , Populus tomentosa (Chinese white poplar).
+A0A8X7XZJ8_POPTO,A0A8X7XZJ8,Null,Null,1.0,POTOM_054472 , Populus tomentosa (Chinese white poplar).
+A0A8X7XZW3_POPTO,A0A8X7XZW3,Null,Null,1.0,POTOM_052262 , Populus tomentosa (Chinese white poplar).
+A0A8X7XZZ8_POPTO,A0A8X7XZZ8,Null,Null,47.0,POTOM_056463 , Populus tomentosa (Chinese white poplar).
+A0A8X7Y0B8_POPTO,A0A8X7Y0B8,Null,Null,1.0,POTOM_052536 , Populus tomentosa (Chinese white poplar).
+A0A8X7Y144_POPTO,A0A8X7Y144,Null,Null,47.0,POTOM_057594 , Populus tomentosa (Chinese white poplar).
+A0A8X7Y1M0_POPTO,A0A8X7Y1M0,Null,Null,47.0,POTOM_053670 , Populus tomentosa (Chinese white poplar).
+A0A8X7Y3L1_POPTO,A0A8X7Y3L1,Null,Null,1.0,POTOM_054370 , Populus tomentosa (Chinese white poplar).
+A0A8X7Y3S6_POPTO,A0A8X7Y3S6,Null,Null,1.0,POTOM_052248 , Populus tomentosa (Chinese white poplar).
+A0A8X7Y3T5_POPTO,A0A8X7Y3T5,Null,Null,1.0,POTOM_052263 , Populus tomentosa (Chinese white poplar).
+A0A8X7Y3V8_POPTO,A0A8X7Y3V8,Null,Null,1.0,POTOM_052265 , Populus tomentosa (Chinese white poplar).
+A0A8X7Y4W6_POPTO,A0A8X7Y4W6,Null,Null,1.0,POTOM_052264 , Populus tomentosa (Chinese white poplar).
+A0A8X7Y531_POPTO,A0A8X7Y531,Null,Null,1.0,POTOM_051202 , Populus tomentosa (Chinese white poplar).
+A0A8X7Y5L2_POPTO,A0A8X7Y5L2,Null,Null,1.0,POTOM_051192 , Populus tomentosa (Chinese white poplar).
+A0A8X7Y608_POPTO,A0A8X7Y608,Null,Null,1.0,POTOM_052261 , Populus tomentosa (Chinese white poplar).
+A0A8X7Y6N9_POPTO,A0A8X7Y6N9,Null,Null,1.0,POTOM_051191 , Populus tomentosa (Chinese white poplar).
+A0A8X7Y7H9_POPTO,A0A8X7Y7H9,Null,Null,1.0,POTOM_052266 , Populus tomentosa (Chinese white poplar).
+A0A8X7Y8B8_POPTO,A0A8X7Y8B8,Null,Null,1.0,POTOM_047993 , Populus tomentosa (Chinese white poplar).
+A0A8X7Y8I4_POPTO,A0A8X7Y8I4,Null,Null,1.0,POTOM_051462 , Populus tomentosa (Chinese white poplar).
+A0A8X7Y916_POPTO,A0A8X7Y916,Null,Null,1.0,POTOM_054468 , Populus tomentosa (Chinese white poplar).
+A0A8X7Y931_POPTO,A0A8X7Y931,Null,Null,47.0,POTOM_048557 , Populus tomentosa (Chinese white poplar).
+A0A8X7Y976_POPTO,A0A8X7Y976,Null,Null,1.0,POTOM_051193 , Populus tomentosa (Chinese white poplar).
+A0A8X7Y9Q1_POPTO,A0A8X7Y9Q1,Null,Null,1.0,POTOM_049064 , Populus tomentosa (Chinese white poplar).
+A0A8X7Y9Q4_POPTO,A0A8X7Y9Q4,Null,Null,1.0,POTOM_051179 , Populus tomentosa (Chinese white poplar).
+A0A8X7Y9R4_POPTO,A0A8X7Y9R4,Null,Null,1.0,POTOM_051194 , Populus tomentosa (Chinese white poplar).
+A0A8X7YAJ8_POPTO,A0A8X7YAJ8,Null,Null,1.0,POTOM_050487 , Populus tomentosa (Chinese white poplar).
+A0A8X7YAN1_POPTO,A0A8X7YAN1,Null,Null,47.0,POTOM_055220 , Populus tomentosa (Chinese white poplar).
+A0A8X7YB71_POPTO,A0A8X7YB71,Null,Null,47.0,POTOM_050877 , Populus tomentosa (Chinese white poplar).
+A0A8X7YBN8_POPTO,A0A8X7YBN8,Null,Null,47.0,POTOM_049515 , Populus tomentosa (Chinese white poplar).
+A0A8X7YC27_POPTO,A0A8X7YC27,Null,Null,1.0,POTOM_047091 , Populus tomentosa (Chinese white poplar).
+A0A8X7YD48_POPTO,A0A8X7YD48,Null,Null,47.0,POTOM_048422 , Populus tomentosa (Chinese white poplar).
+A0A8X7YG75_POPTO,A0A8X7YG75,Null,Null,47.0,POTOM_047262 , Populus tomentosa (Chinese white poplar).
+A0A8X7YH19_POPTO,A0A8X7YH19,Null,Null,47.0,POTOM_048736 , Populus tomentosa (Chinese white poplar).
+A0A8X7YH38_POPTO,A0A8X7YH38,Null,Null,1.0,POTOM_048768 , Populus tomentosa (Chinese white poplar).
+A0A8X7YH99_POPTO,A0A8X7YH99,Null,Null,47.0,POTOM_047108 , Populus tomentosa (Chinese white poplar).
+A0A8X7YIG9_POPTO,A0A8X7YIG9,Null,Null,28.0,POTOM_041881 , Populus tomentosa (Chinese white poplar).
+A0A8X7YKF8_POPTO,A0A8X7YKF8,Null,Null,47.0,POTOM_042507 , Populus tomentosa (Chinese white poplar).
+A0A8X7YP12_POPTO,A0A8X7YP12,Null,Null,47.0,POTOM_043458 , Populus tomentosa (Chinese white poplar).
+A0A8X7YPF6_POPTO,A0A8X7YPF6,Null,Null,47.0,POTOM_043366 , Populus tomentosa (Chinese white poplar).
+A0A8X7YQX3_POPTO,A0A8X7YQX3,Null,Null,1.0,POTOM_042923 , Populus tomentosa (Chinese white poplar).
+A0A8X7YRE8_POPTO,A0A8X7YRE8,Null,Null,47.0,POTOM_043213 , Populus tomentosa (Chinese white poplar).
+A0A8X7YRK3_POPTO,A0A8X7YRK3,Null,Null,47.0,POTOM_042416 , Populus tomentosa (Chinese white poplar).
+A0A8X7YV17_POPTO,A0A8X7YV17,Null,Null,28.0,POTOM_043842 , Populus tomentosa (Chinese white poplar).
+A0A8X7YWH0_POPTO,A0A8X7YWH0,Null,Null,47.0,POTOM_038631 , Populus tomentosa (Chinese white poplar).
+A0A8X7YWI1_POPTO,A0A8X7YWI1,Null,Null,1.0,POTOM_036654 , Populus tomentosa (Chinese white poplar).
+A0A8X7YWJ4_POPTO,A0A8X7YWJ4,Null,Null,47.0,POTOM_036671 , Populus tomentosa (Chinese white poplar).
+A0A8X7YX25_POPTO,A0A8X7YX25,Null,Null,1.0,POTOM_034414 , Populus tomentosa (Chinese white poplar).
+A0A8X7YY58_POPTO,A0A8X7YY58,Null,Null,1.0,POTOM_038168 , Populus tomentosa (Chinese white poplar).
+A0A8X7YYY0_POPTO,A0A8X7YYY0,Null,Null,92.0,POTOM_035433 , Populus tomentosa (Chinese white poplar).
+A0A8X7YZC3_POPTO,A0A8X7YZC3,Null,Null,1.0,POTOM_036655 , Populus tomentosa (Chinese white poplar).
+A0A8X7Z0I5_POPTO,A0A8X7Z0I5,Null,Null,1.0,POTOM_039076 , Populus tomentosa (Chinese white poplar).
+A0A8X7Z0N7_POPTO,A0A8X7Z0N7,Null,Null,1.0,POTOM_034092 , Populus tomentosa (Chinese white poplar).
+A0A8X7Z137_POPTO,A0A8X7Z137,Null,Null,47.0,POTOM_033852 , Populus tomentosa (Chinese white poplar).
+A0A8X7Z2G3_POPTO,A0A8X7Z2G3,Null,Null,1.0,POTOM_034596 , Populus tomentosa (Chinese white poplar).
+A0A8X7Z2U1_POPTO,A0A8X7Z2U1,Null,Null,1.0,POTOM_034601 , Populus tomentosa (Chinese white poplar).
+A0A8X7Z3Y3_POPTO,A0A8X7Z3Y3,Null,Null,92.0,POTOM_032239 , Populus tomentosa (Chinese white poplar).
+A0A8X7Z530_POPTO,A0A8X7Z530,Null,Null,1.0,POTOM_033200 , Populus tomentosa (Chinese white poplar).
+A0A8X7Z5W2_POPTO,A0A8X7Z5W2,Null,Null,1.0,POTOM_033204 , Populus tomentosa (Chinese white poplar).
+A0A8X7Z6R7_POPTO,A0A8X7Z6R7,Null,Null,47.0,POTOM_032467 , Populus tomentosa (Chinese white poplar).
+A0A8X7Z9P4_POPTO,A0A8X7Z9P4,Null,Null,1.0,POTOM_033018 , Populus tomentosa (Chinese white poplar).
+A0A8X7ZAZ6_POPTO,A0A8X7ZAZ6,Null,Null,47.0,POTOM_029430 , Populus tomentosa (Chinese white poplar).
+A0A8X7ZC06_POPTO,A0A8X7ZC06,Null,Null,47.0,POTOM_028263 , Populus tomentosa (Chinese white poplar).
+A0A8X7ZD45_POPTO,A0A8X7ZD45,Null,Null,28.0,POTOM_024919 , Populus tomentosa (Chinese white poplar).
+A0A8X7ZDM1_POPTO,A0A8X7ZDM1,Null,Null,1.0,POTOM_034595 , Populus tomentosa (Chinese white poplar).
+A0A8X7ZE63_POPTO,A0A8X7ZE63,Null,Null,1.0,POTOM_028900 , Populus tomentosa (Chinese white poplar).
+A0A8X7ZEW7_POPTO,A0A8X7ZEW7,Null,Null,47.0,POTOM_028710 , Populus tomentosa (Chinese white poplar).
+A0A8X7ZFI4_POPTO,A0A8X7ZFI4,Null,Null,1.0,POTOM_024511 , Populus tomentosa (Chinese white poplar).
+A0A8X7ZFU3_POPTO,A0A8X7ZFU3,Null,Null,1.0,POTOM_024710 , Populus tomentosa (Chinese white poplar).
+A0A8X7ZFX4_POPTO,A0A8X7ZFX4,Null,Null,47.0,POTOM_027538 , Populus tomentosa (Chinese white poplar).
+A0A8X7ZG30_POPTO,A0A8X7ZG30,Null,Null,1.0,POTOM_033199 , Populus tomentosa (Chinese white poplar).
+A0A8X7ZGG3_POPTO,A0A8X7ZGG3,Null,Null,1.0,POTOM_024513 , Populus tomentosa (Chinese white poplar).
+A0A8X7ZH14_POPTO,A0A8X7ZH14,Null,Null,47.0,POTOM_028712 , Populus tomentosa (Chinese white poplar).
+A0A8X7ZHC6_POPTO,A0A8X7ZHC6,Null,Null,1.0,POTOM_027724 , Populus tomentosa (Chinese white poplar).
+A0A8X7ZHG6_POPTO,A0A8X7ZHG6,Null,Null,1.0,POTOM_022326 , Populus tomentosa (Chinese white poplar).
+A0A8X7ZI13_POPTO,A0A8X7ZI13,Null,Null,1.0,POTOM_022662 , Populus tomentosa (Chinese white poplar).
+A0A8X7ZJ15_POPTO,A0A8X7ZJ15,Null,Null,47.0,POTOM_023200 , Populus tomentosa (Chinese white poplar).
+A0A8X7ZJE0_POPTO,A0A8X7ZJE0,Null,Null,1.0,POTOM_022327 , Populus tomentosa (Chinese white poplar).
+A0A8X7ZJM1_POPTO,A0A8X7ZJM1,Null,Null,1.0,POTOM_024514 , Populus tomentosa (Chinese white poplar).
+A0A8X7ZK41_POPTO,A0A8X7ZK41,Null,Null,28.0,POTOM_022726 , Populus tomentosa (Chinese white poplar).
+A0A8X7ZK96_POPTO,A0A8X7ZK96,Null,Null,1.0,POTOM_022329 , Populus tomentosa (Chinese white poplar).
+A0A8X7ZKM0_POPTO,A0A8X7ZKM0,Null,Null,1.0,POTOM_022528 , Populus tomentosa (Chinese white poplar).
+A0A8X7ZL01_POPTO,A0A8X7ZL01,Null,Null,47.0,POTOM_025383 , Populus tomentosa (Chinese white poplar).
+A0A8X7ZL17_POPTO,A0A8X7ZL17,Null,Null,1.0,POTOM_022324 , Populus tomentosa (Chinese white poplar).
+A0A8X7ZL83_POPTO,A0A8X7ZL83,Null,Null,1.0,POTOM_022328 , Populus tomentosa (Chinese white poplar).
+A0A8X7ZLZ1_POPTO,A0A8X7ZLZ1,Null,Null,47.0,POTOM_027540 , Populus tomentosa (Chinese white poplar).
+A0A8X7ZMG9_POPTO,A0A8X7ZMG9,Null,Null,1.0,POTOM_024515 , Populus tomentosa (Chinese white poplar).
+A0A8X7ZN88_POPTO,A0A8X7ZN88,Null,Null,1.0,POTOM_022325 , Populus tomentosa (Chinese white poplar).
+A0A8X7ZNC3_POPTO,A0A8X7ZNC3,Null,Null,1.0,POTOM_022330 , Populus tomentosa (Chinese white poplar).
+A0A8X7ZNX9_POPTO,A0A8X7ZNX9,Null,Null,47.0,POTOM_022742 , Populus tomentosa (Chinese white poplar).
+A0A8X7ZPB5_POPTO,A0A8X7ZPB5,Null,Null,92.0,POTOM_022256 , Populus tomentosa (Chinese white poplar).
+A0A8X7ZQ84_POPTO,A0A8X7ZQ84,Null,Null,28.0,POTOM_020507 , Populus tomentosa (Chinese white poplar).
+A0A8X7ZTC2_POPTO,A0A8X7ZTC2,Null,Null,92.0,POTOM_022198 , Populus tomentosa (Chinese white poplar).
+A0A8X7ZU06_POPTO,A0A8X7ZU06,Null,Null,28.0,POTOM_018536 , Populus tomentosa (Chinese white poplar).
+A0A8X7ZW00_POPTO,A0A8X7ZW00,Null,Null,92.0,POTOM_020260 , Populus tomentosa (Chinese white poplar).
+A0A8X7ZX17_POPTO,A0A8X7ZX17,Null,Null,92.0,POTOM_020205 , Populus tomentosa (Chinese white poplar).
+A0A8X7ZXF3_POPTO,A0A8X7ZXF3,Null,Null,1.0,POTOM_015326 , Populus tomentosa (Chinese white poplar).
+A0A8X7ZXJ6_POPTO,A0A8X7ZXJ6,Null,Null,1.0,POTOM_017472 , Populus tomentosa (Chinese white poplar).
+A0A8X7ZYX4_POPTO,A0A8X7ZYX4,Null,Null,1.0,POTOM_017451 , Populus tomentosa (Chinese white poplar).
+A0A8X8A1M2_POPTO,A0A8X8A1M2,Null,Null,1.0,POTOM_015324 , Populus tomentosa (Chinese white poplar).
+A0A8X8A261_POPTO,A0A8X8A261,Null,Null,1.0,POTOM_013200 , Populus tomentosa (Chinese white poplar).
+A0A8X8A2E2_POPTO,A0A8X8A2E2,Null,Null,1.0,POTOM_015717 , Populus tomentosa (Chinese white poplar).
+A0A8X8A8W6_POPTO,A0A8X8A8W6,Null,Null,47.0,POTOM_009765 , Populus tomentosa (Chinese white poplar).
+A0A8X8ADZ4_POPTO,A0A8X8ADZ4,Null,Null,1.0,POTOM_008381 , Populus tomentosa (Chinese white poplar).
+A0A8X8AFC7_POPTO,A0A8X8AFC7,Null,Null,1.0,POTOM_008958 , Populus tomentosa (Chinese white poplar).
+A0A8X8AHN4_POPTO,A0A8X8AHN4,Null,Null,1.0,POTOM_005737 , Populus tomentosa (Chinese white poplar).
+A0A8X8AJG2_POPTO,A0A8X8AJG2,Null,Null,92.0,POTOM_007132 , Populus tomentosa (Chinese white poplar).
+A0A8X8AJS9_POPTO,A0A8X8AJS9,Null,Null,1.0,POTOM_005738 , Populus tomentosa (Chinese white poplar).
+A0A8X8AK34_POPTO,A0A8X8AK34,Null,Null,1.0,POTOM_005905 , Populus tomentosa (Chinese white poplar).
+A0A8X8AMD1_POPTO,A0A8X8AMD1,Null,Null,1.0,POTOM_005736 , Populus tomentosa (Chinese white poplar).
+A0A8X8AML8_POPTO,A0A8X8AML8,Null,Null,1.0,POTOM_005901 , Populus tomentosa (Chinese white poplar).
+A0A8X8ANA6_POPTO,A0A8X8ANA6,Null,Null,1.0,POTOM_005906 , Populus tomentosa (Chinese white poplar).
+A0A8X8ANI4_POPTO,A0A8X8ANI4,Null,Null,47.0,POTOM_006034 , Populus tomentosa (Chinese white poplar).
+A0A8X8ANR1_POPTO,A0A8X8ANR1,Null,Null,1.0,POTOM_006165 , Populus tomentosa (Chinese white poplar).
+A0A8X8BWE7_POPTO,A0A8X8BWE7,Null,Null,47.0,POTOM_059129 , Populus tomentosa (Chinese white poplar).
+A0A8X8BYP7_POPTO,A0A8X8BYP7,Null,Null,1.0,POTOM_054679 , Populus tomentosa (Chinese white poplar).
+A0A8X8BYX4_POPTO,A0A8X8BYX4,Null,Null,1.0,POTOM_055065 , Populus tomentosa (Chinese white poplar).
+A0A8X8BZ87_POPTO,A0A8X8BZ87,Null,Null,1.0,POTOM_055556 , Populus tomentosa (Chinese white poplar).
+A0A8X8BZG4_POPTO,A0A8X8BZG4,Null,Null,1.0,POTOM_053453 , Populus tomentosa (Chinese white poplar).
+A0A8X8BZR4_POPTO,A0A8X8BZR4,Null,Null,41.0,POTOM_061393 , Populus tomentosa (Chinese white poplar).
+A0A8X8C044_POPTO,A0A8X8C044,Null,Null,1.0,POTOM_061598 , Populus tomentosa (Chinese white poplar).
+A0A8X8C0U8_POPTO,A0A8X8C0U8,Null,Null,47.0,POTOM_061856 , Populus tomentosa (Chinese white poplar).
+A0A8X8C162_POPTO,A0A8X8C162,Null,Null,47.0,POTOM_056855 , Populus tomentosa (Chinese white poplar).
+A0A8X8C1V8_POPTO,A0A8X8C1V8,Null,Null,1.0,POTOM_057825 , Populus tomentosa (Chinese white poplar).
+A0A8X8C1W6_POPTO,A0A8X8C1W6,Null,Null,47.0,POTOM_060496 , Populus tomentosa (Chinese white poplar).
+A0A8X8C1X0_POPTO,A0A8X8C1X0,Null,Null,47.0,POTOM_057595 , Populus tomentosa (Chinese white poplar).
+A0A8X8C2C4_POPTO,A0A8X8C2C4,Null,Null,1.0,POTOM_059910 , Populus tomentosa (Chinese white poplar).
+A0A8X8C2F9_POPTO,A0A8X8C2F9,Null,Null,47.0,POTOM_058454 , Populus tomentosa (Chinese white poplar).
+A0A8X8C3D2_POPTO,A0A8X8C3D2,Null,Null,47.0,POTOM_056856 , Populus tomentosa (Chinese white poplar).
+A0A8X8C3X4_POPTO,A0A8X8C3X4,Null,Null,47.0,POTOM_055763 , Populus tomentosa (Chinese white poplar).
+A0A8X8C5N7_POPTO,A0A8X8C5N7,Null,Null,1.0,POTOM_052268 , Populus tomentosa (Chinese white poplar).
+A0A8X8C5Y9_POPTO,A0A8X8C5Y9,Null,Null,1.0,POTOM_055555 , Populus tomentosa (Chinese white poplar).
+A0A8X8C6Q2_POPTO,A0A8X8C6Q2,Null,Null,1.0,POTOM_051195 , Populus tomentosa (Chinese white poplar).
+A0A8X8C7A2_POPTO,A0A8X8C7A2,Null,Null,92.0,POTOM_052453 , Populus tomentosa (Chinese white poplar).
+A0A8X8C7E6_POPTO,A0A8X8C7E6,Null,Null,1.0,POTOM_053215 , Populus tomentosa (Chinese white poplar).
+A0A8X8C813_POPTO,A0A8X8C813,Null,Null,1.0,POTOM_051196 , Populus tomentosa (Chinese white poplar).
+A0A8X8C8H8_POPTO,A0A8X8C8H8,Null,Null,1.0,POTOM_042819 , Populus tomentosa (Chinese white poplar).
+A0A8X8C978_POPTO,A0A8X8C978,Null,Null,1.0,POTOM_050173 , Populus tomentosa (Chinese white poplar).
+A0A8X8CBU3_POPTO,A0A8X8CBU3,Null,Null,1.0,POTOM_048539 , Populus tomentosa (Chinese white poplar).
+A0A8X8CD12_POPTO,A0A8X8CD12,Null,Null,47.0,POTOM_046975 , Populus tomentosa (Chinese white poplar).
+A0A8X8CED4_POPTO,A0A8X8CED4,Null,Null,10.0,POTOM_045620 , Populus tomentosa (Chinese white poplar).
+A0A8X8CEY0_POPTO,A0A8X8CEY0,Null,Null,28.0,POTOM_045030 , Populus tomentosa (Chinese white poplar).
+A0A8X8CFJ3_POPTO,A0A8X8CFJ3,Null,Null,10.0,POTOM_044479 , Populus tomentosa (Chinese white poplar).
+A0A8X8CG46_POPTO,A0A8X8CG46,Null,Null,1.0,POTOM_042820 , Populus tomentosa (Chinese white poplar).
+A0A8X8CHZ1_POPTO,A0A8X8CHZ1,Null,Null,47.0,POTOM_042158 , Populus tomentosa (Chinese white poplar).
+A0A8X8CK18_POPTO,A0A8X8CK18,Null,Null,92.0,POTOM_037400 , Populus tomentosa (Chinese white poplar).
+A0A8X8CLM6_POPTO,A0A8X8CLM6,Null,Null,47.0,POTOM_028716 , Populus tomentosa (Chinese white poplar).
+A0A8X8CN79_POPTO,A0A8X8CN79,Null,Null,47.0,POTOM_024935 , Populus tomentosa (Chinese white poplar).
+A0A8X8CNJ9_POPTO,A0A8X8CNJ9,Null,Null,1.0,POTOM_037107 , Populus tomentosa (Chinese white poplar).
+A0A8X8CPA9_POPTO,A0A8X8CPA9,Null,Null,1.0,POTOM_034413 , Populus tomentosa (Chinese white poplar).
+A0A8X8CQJ8_POPTO,A0A8X8CQJ8,Null,Null,1.0,POTOM_032706 , Populus tomentosa (Chinese white poplar).
+A0A8X8CQZ7_POPTO,A0A8X8CQZ7,Null,Null,1.0,POTOM_033019 , Populus tomentosa (Chinese white poplar).
+A0A8X8CR73_POPTO,A0A8X8CR73,Null,Null,47.0,POTOM_030928 , Populus tomentosa (Chinese white poplar).
+A0A8X8CTS3_POPTO,A0A8X8CTS3,Null,Null,47.0,POTOM_029204 , Populus tomentosa (Chinese white poplar).
+A0A8X8CTW2_POPTO,A0A8X8CTW2,Null,Null,92.0,POTOM_030501 , Populus tomentosa (Chinese white poplar).
+A0A8X8CV32_POPTO,A0A8X8CV32,Null,Null,47.0,POTOM_028715 , Populus tomentosa (Chinese white poplar).
+A0A8X8CVY1_POPTO,A0A8X8CVY1,Null,Null,1.0,POTOM_027471 , Populus tomentosa (Chinese white poplar).
+A0A8X8CW63_POPTO,A0A8X8CW63,Null,Null,1.0,POTOM_027718 , Populus tomentosa (Chinese white poplar).
+A0A8X8CWS6_POPTO,A0A8X8CWS6,Null,Null,92.0,POTOM_024763 , Populus tomentosa (Chinese white poplar).
+A0A8X8CWT6_POPTO,A0A8X8CWT6,Null,Null,47.0,POTOM_027096 , Populus tomentosa (Chinese white poplar).
+A0A8X8CXK1_POPTO,A0A8X8CXK1,Null,Null,1.0,POTOM_024516 , Populus tomentosa (Chinese white poplar).
+A0A8X8CXX4_POPTO,A0A8X8CXX4,Null,Null,1.0,POTOM_024852 , Populus tomentosa (Chinese white poplar).
+A0A8X8CYN5_POPTO,A0A8X8CYN5,Null,Null,92.0,POTOM_022577 , Populus tomentosa (Chinese white poplar).
+A0A8X8CZL2_POPTO,A0A8X8CZL2,Null,Null,28.0,POTOM_026538 , Populus tomentosa (Chinese white poplar).
+A0A8X8CZT4_POPTO,A0A8X8CZT4,Null,Null,28.0,POTOM_024344 , Populus tomentosa (Chinese white poplar).
+A0A8X8D1E2_POPTO,A0A8X8D1E2,Null,Null,47.0,POTOM_021431 , Populus tomentosa (Chinese white poplar).
+A0A8X8D350_POPTO,A0A8X8D350,Null,Null,47.0,POTOM_019426 , Populus tomentosa (Chinese white poplar).
+A0A8X8D3D0_POPTO,A0A8X8D3D0,Null,Null,47.0,POTOM_019657 , Populus tomentosa (Chinese white poplar).
+A0A8X8D768_POPTO,A0A8X8D768,Null,Null,1.0,POTOM_013189 , Populus tomentosa (Chinese white poplar).
+A0A8X8D815_POPTO,A0A8X8D815,Null,Null,1.0,POTOM_015332 , Populus tomentosa (Chinese white poplar).
+A0A8X8D922_POPTO,A0A8X8D922,Null,Null,92.0,POTOM_012439 , Populus tomentosa (Chinese white poplar).
+A0A8X8D9G9_POPTO,A0A8X8D9G9,Null,Null,47.0,POTOM_012481 , Populus tomentosa (Chinese white poplar).
+A0A8X8D9Y7_POPTO,A0A8X8D9Y7,Null,Null,92.0,POTOM_014188 , Populus tomentosa (Chinese white poplar).
+A0A8X8DCZ3_POPTO,A0A8X8DCZ3,Null,Null,47.0,POTOM_004117 , Populus tomentosa (Chinese white poplar).
+A0A8X8DDN6_POPTO,A0A8X8DDN6,Null,Null,47.0,POTOM_004396 , Populus tomentosa (Chinese white poplar).
+A0A8X8DED8_POPTO,A0A8X8DED8,Null,Null,47.0,POTOM_008775 , Populus tomentosa (Chinese white poplar).
+A0A8X8DEH0_POPTO,A0A8X8DEH0,Null,Null,92.0,POTOM_006172 , Populus tomentosa (Chinese white poplar).
+A0A8X8DEW8_POPTO,A0A8X8DEW8,Null,Null,47.0,POTOM_006508 , Populus tomentosa (Chinese white poplar).
+A0A8X8DEX6_POPTO,A0A8X8DEX6,Null,Null,1.0,POTOM_006538 , Populus tomentosa (Chinese white poplar).
+A0A8X8DGB8_POPTO,A0A8X8DGB8,Null,Null,92.0,POTOM_000569 , Populus tomentosa (Chinese white poplar).
+A0A8X8DJI9_POPTO,A0A8X8DJI9,Null,Null,1.0,POTOM_002345 , Populus tomentosa (Chinese white poplar).
+A0A8X8DJM9_POPTO,A0A8X8DJM9,Null,Null,1.0,POTOM_002344 , Populus tomentosa (Chinese white poplar).
+A0A8X8DJS0_POPTO,A0A8X8DJS0,Null,Null,1.0,POTOM_002352 , Populus tomentosa (Chinese white poplar).
+A0A8X8DKP3_POPTO,A0A8X8DKP3,Null,Null,47.0,POTOM_002953 , Populus tomentosa (Chinese white poplar).
+A0A8X8DKU3_POPTO,A0A8X8DKU3,Null,Null,1.0,POTOM_002993 , Populus tomentosa (Chinese white poplar).
+A0A8X8IU42_POPTO,A0A8X8IU42,Null,Null,47.0,POTOM_000550 , Populus tomentosa (Chinese white poplar).
+A0A8X8IUI3_POPTO,A0A8X8IUI3,Null,Null,47.0,POTOM_000848 , Populus tomentosa (Chinese white poplar).
+A0A8X8IXY8_POPTO,A0A8X8IXY8,Null,Null,92.0,POTOM_002605 , Populus tomentosa (Chinese white poplar).
+A0A8X8IYY6_POPTO,A0A8X8IYY6,Null,Null,1.0,POTOM_002195 , Populus tomentosa (Chinese white poplar).
+A0A8X8IZF6_POPTO,A0A8X8IZF6,Null,Null,1.0,POTOM_002196 , Populus tomentosa (Chinese white poplar).
+A7LIF0_POPCN,A7LIF0,Null,Null,37.0,FUT7 , Populus canescens (Grey poplar) (Populus tremula x Populus alba).
+A9P7X0_POPTR,A9P7X0,Null,Null,47.0,Null, Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A9P7X5_POPTR,A9P7X5,Null,Null,61.0,POPTR_008G092700 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A9P9Y6_POPTR,A9P9Y6,Null,Null,47.0,Null, Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A9PEL4_POPTR,A9PEL4,Null,Null,92.0,Null, Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A9PF81_POPTR,A9PF81,Null,Null,1.0,Null, Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A9PGJ3_POPTR,A9PGJ3,Null,Null,1.0,POPTR_001G245900 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A9PGJ9_POPTR,A9PGJ9,Null,Null,1.0,Null, Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+A9PID3_POPTR,A9PID3,Null,Null,1.0,Null, Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+B9GGB0_POPTR,B9GGB0,Null,Null,1.0,POPTR_001G313000 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+B9GH66_POPTR,B9GH66,Null,Null,1.0,POPTR_001G282100 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+B9GTN0_POPTR,B9GTN0,Null,Null,47.0,POPTR_002G072300 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+B9GUX7_POPTR,B9GUX7,Null,Null,1.0,POPTR_002G098400 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+B9GYS7_POPTR,B9GYS7,Null,Null,47.0,POPTR_003G158300 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+B9H0D2_POPTR,B9H0D2,Null,Null,1.0,POPTR_004G123500 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+B9H0F3_POPTR,B9H0F3,Null,Null,1.0,POPTR_004G126000 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+B9H6P2_POPTR,B9H6P2,Null,Null,47.0,POPTR_005G147500 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+B9HS39_POPTR,B9HS39,Null,Null,1.0,POPTR_009G098200 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+B9HT32_POPTR,B9HT32,Null,Null,1.0,POPTR_010G195600 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+B9HWT6_POPTR,B9HWT6,Null,Null,1.0,POPTR_010G137000 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+B9I4D8_POPTR,B9I4D8,Null,Null,47.0,POPTR_012G135800 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+B9I7Y5_POPTR,B9I7Y5,Null,Null,28.0,POPTR_013G025600 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+B9IEM5_POPTR,B9IEM5,Null,Null,1.0,POPTR_015G071900 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+B9IH89_POPTR,B9IH89,Null,Null,1.0,POPTR_016G014500 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+B9IHA5_POPTR,B9IHA5,Null,Null,1.0,POPTR_016G016300 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+B9IJE5_POPTR,B9IJE5,Null,Null,1.0,POPTR_017G052000 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+B9IJF1_POPTR,B9IJF1,Null,Null,1.0,POPTR_017G052400 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+B9IK54_POPTR,B9IK54,Null,Null,1.0,POPTR_017G091500 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+B9MZC2_POPTR,B9MZC2,Null,Null,47.0,POPTR_005G055000 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+B9MZT0_POPTR,B9MZT0,Null,Null,28.0,POPTR_005G036500 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+B9NEJ7_POPTR,B9NEJ7,Null,Null,1.0,POPTR_001G303400 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+D3Y1T7_POPCN,D3Y1T7,Null,Null,4.0,DGS1 , Populus canescens (Grey poplar) (Populus tremula x Populus alba).
+Q09HN0_POPCN,Q09HN0,Null,Null,47.0,Null, Populus canescens (Grey poplar) (Populus tremula x Populus alba).
+Q599J2_POPCN,Q599J2,Null,Null,61.0,poXYL1 , Populus canescens (Grey poplar) (Populus tremula x Populus alba).
+Q5BM98_POPPZ,Q5BM98,Null,Null,47.0,Null, Populus tremula x Populus tremuloides (Hybrid aspen).
+Q5BM99_POPPZ,Q5BM99,Null,Null,47.0,Null, Populus tremula x Populus tremuloides (Hybrid aspen).
+Q5BMA0_POPPZ,Q5BMA0,Null,Null,47.0,Null, Populus tremula x Populus tremuloides (Hybrid aspen).
+U5FKZ8_POPTR,U5FKZ8,Null,Null,1.0,POPTR_017G061300 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+U5FPZ3_POPTR,U5FPZ3,Null,Null,1.0,POPTR_016G016200 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+U5FPZ9_POPTR,U5FPZ9,Null,Null,1.0,POPTR_016G016700 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+U5FZC0_POPTR,U5FZC0,Null,Null,1.0,POPTR_010G195300 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+U5G2K2_POPTR,U5G2K2,Null,Null,1.0,POPTR_010G195500 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+U5GA70_POPTR,U5GA70,Null,Null,47.0,POPTR_006G118000 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+U5GGG2_POPTR,U5GGG2,Null,Null,47.0,POPTR_005G147500 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+U5GKG9_POPTR,U5GKG9,Null,Null,1.0,POPTR_004G069500 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+U5GUW3_POPTR,U5GUW3,Null,Null,1.0,POPTR_001G281800 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+U7DZD9_POPTR,U7DZD9,Null,Null,47.0,POPTR_018G125000 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+U7E199_POPTR,U7E199,Null,Null,28.0,POPTR_018G123000 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+U7E1B4_POPTR,U7E1B4,Null,Null,47.0,POPTR_018G124900 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).
+U7E2C1_POPTR,U7E2C1,Null,Null,1.0,POPTR_003G027900 , Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa).

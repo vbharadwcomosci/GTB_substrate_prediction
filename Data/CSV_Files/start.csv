@@ -1,0 +1,536 @@
+Name,ID,Donor,Family,Species
+PIMA_MYCS2,A0QWG6,GDP-alpha-D-mannose,4, Mycolicibacterium smegmatis (strain ATCC 700084 / mc(2)155) (Mycobacterium smegmatis).
+OTSA_MYCS2,A0R4M9,UDP-alpha-D-glucose,20, Mycolicibacterium smegmatis (strain ATCC 700084 / mc(2)155) (Mycobacterium smegmatis).
+GYS1_RAT,A2RRU1,UDP-alpha-D-glucose,3, Rattus norvegicus (Rat).
+I7GT1_SOYBN,A6BM07,UDP-alpha-D-glucose,1, Glycine max (Soybean) (Glycine hispida).
+FUTA_CAEEL,G5EDR5,GDP-beta-L-fucose,10, Caenorhabditis elegans.
+FUTD_CAEEL,G5EE06,GDP-beta-L-fucose,10, Caenorhabditis elegans.
+FUTC_CAEEL,G5EFP5,GDP-beta-L-fucose,10, Caenorhabditis elegans.
+FUT3_PANTR,O19058,GDP-beta-L-fucose,10, Pan troglodytes (Chimpanzee).
+FUCT_HELPX,O30511,GDP-beta-L-fucose,10, Helicobacter pylori (Campylobacter pylori).
+U74B1_ARATH,O48676,UDP-alpha-D-glucose,1, Arabidopsis thaliana (Mouse-ear cress).
+UD19_HUMAN,O60656,UDP-alpha-D-glucuronate,1, Homo sapiens (Human).
+UDB17_HUMAN,O75795,UDP-alpha-D-glucuronate,1, Homo sapiens (Human).
+MGDG1_ARATH,O81770,UDP-alpha-D-galactose,28, Arabidopsis thaliana (Mouse-ear cress).
+U71C1_ARATH,O82381,UDP-alpha-D-glucose,1, Arabidopsis thaliana (Mouse-ear cress).
+MGDG2_ARATH,O82730,UDP-alpha-D-galactose,28, Arabidopsis thaliana (Mouse-ear cress).
+FUT9_MOUSE,O88819,GDP-beta-L-fucose,10, Mus musculus (Mouse).
+UD2B4_HUMAN,Q6QQX7,UDP-alpha-D-glucuronate,1, Homo sapiens (Human).
+UD16_RAT,P08430,UDP-alpha-D-glucuronate,1, Rattus norvegicus (Rat).
+UDB17_RAT,P08542,UDP-alpha-D-glucuronate,1, Rattus norvegicus (Rat).
+UD2B1_RAT,P09875,UDP-alpha-D-glucuronate,1, Rattus norvegicus (Rat).
+GYS1_HUMAN,P13807,UDP-alpha-D-glucose,3, Homo sapiens (Human).
+GYS1_RABIT,P13834,UDP-alpha-D-glucose,3, Oryctolagus cuniculus (Rabbit).
+ALG1_YEAST,P16661,GDP-alpha-D-mannose,33, Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast).
+UD2B7_HUMAN,P16662,UDP-alpha-D-glucuronate,1, Homo sapiens (Human).
+GYS2_RAT,P17625,UDP-alpha-D-glucose,3, Rattus norvegicus (Rat).
+UD16_HUMAN,P19224,UDP-alpha-D-glucuronate,1, Homo sapiens (Human).
+UD12_RAT,P20720,UDP-alpha-D-glucuronate,1, Rattus norvegicus (Rat).
+FUT3_HUMAN,P21217,GDP-beta-L-fucose,10, Homo sapiens (Human).
+FUT4_HUMAN,P22083,GDP-beta-L-fucose,10, Homo sapiens (Human).
+UD11_HUMAN,P22309,UDP-alpha-D-glucuronate,1, Homo sapiens (Human).
+UD14_HUMAN,P22310,UDP-alpha-D-glucuronate,1, Homo sapiens (Human).
+GYS1_YEAST,P23337,UDP-alpha-D-glucose,3, Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast).
+GYS2_YEAST,P27472,UDP-alpha-D-glucose,3, Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast).
+OTSA_ECOLI,P31677,UDP-alpha-D-glucose,20, Escherichia coli (strain K12).
+UD13_HUMAN,P35503,UDP-alpha-D-glucuronate,1, Homo sapiens (Human).
+UD15_HUMAN,P35504,UDP-alpha-D-glucuronate,1, Homo sapiens (Human).
+UD2A1_RAT,P36510,UDP-alpha-D-glucuronate,1, Rattus norvegicus (Rat).
+UDB15_RAT,P36511,UDP-alpha-D-glucuronate,1, Rattus norvegicus (Rat).
+TPS1_SCHPO,P40387,UDP-alpha-D-glucose,20, Schizosaccharomyces pombe (strain 972 / ATCC 24843) (Fission yeast).
+ALG2_YEAST,P43636,GDP-alpha-D-mannose,4, Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast).
+UFOG_VITVI,P51094,UDP-alpha-D-glucose,1, Vitis vinifera (Grape).
+FUT6_HUMAN,P51993,GDP-beta-L-fucose,10, Homo sapiens (Human).
+ALG11_YEAST,P53954,GDP-alpha-D-mannose,4, Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast).
+UGTP_BACSU,P54166,UDP-alpha-D-glucose,28, Bacillus subtilis (strain 168).
+GYS2_HUMAN,P54840,UDP-alpha-D-glucose,3, Homo sapiens (Human).
+UDB15_HUMAN,P54855,UDP-alpha-D-glucuronate,1, Homo sapiens (Human).
+FUT5_PANTR,P56433,GDP-beta-L-fucose,10, Pan troglodytes (Chimpanzee).
+FUT6_PANTR,P56434,GDP-beta-L-fucose,10, Pan troglodytes (Chimpanzee).
+FUT8_PIG,P79282,GDP-beta-L-fucose,23, Sus scrofa (Pig).
+TPS1_YEAST,Q00764,UDP-alpha-D-glucose,20, Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast).
+ATG26_YEAST,Q06321,UDP-alpha-D-glucose,1, Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast).
+CGT_RAT,Q09426,UDP-alpha-D-galactose,1, Rattus norvegicus (Rat).
+FUT3_BOVIN,Q11126,GDP-beta-L-fucose,10, Bos taurus (Bovine).
+FUT4_MOUSE,Q11127,GDP-beta-L-fucose,10, Mus musculus (Mouse).
+FUT5_HUMAN,Q11128,GDP-beta-L-fucose,10, Homo sapiens (Human).
+FUT7_HUMAN,Q11130,GDP-beta-L-fucose,10, Homo sapiens (Human).
+FUT7_MOUSE,Q11131,GDP-beta-L-fucose,10, Mus musculus (Mouse).
+CGT_HUMAN,Q16880,UDP-alpha-D-galactose,1, Homo sapiens (Human).
+OFUT1_CAEEL,Q18014,GDP-beta-L-fucose,65, Caenorhabditis elegans.
+ALG11_HUMAN,Q2TAA5,GDP-alpha-D-mannose,4, Homo sapiens (Human).
+ATG26_ASPOR,Q2U0C3,UDP-alpha-D-glucose,1, Aspergillus oryzae (strain ATCC 42149 / RIB 40) (Yellow koji mold).
+UGT52_DICDI,Q54IL5,UDP-alpha-D-glucose,1, Dictyostelium discoideum (Social amoeba).
+ATG26_CANAL,Q5A950,UDP-alpha-D-glucose,1, Candida albicans (strain SC5314 / ATCC MYA-2876) (Yeast).
+UGAT_BELPE,Q5NTH0,UDP-alpha-D-glucuronate,1, Bellis perennis (Daisy).
+U84A1_ARATH,Q5XF20,UDP-alpha-D-glucose,1, Arabidopsis thaliana (Mouse-ear cress).
+UD19_MOUSE,Q62452,UDP-alpha-D-glucuronate,1, Mus musculus (Mouse).
+UD2B7_RAT,Q62789,UDP-alpha-D-glucuronate,1, Rattus norvegicus (Rat).
+FUT4_RAT,Q62994,GDP-beta-L-fucose,10, Rattus norvegicus (Rat).
+UD11_MOUSE,Q63886,UDP-alpha-D-glucuronate,1, Mus musculus (Mouse).
+UD16_MOUSE,Q64435,UDP-alpha-D-glucuronate,1, Mus musculus (Mouse).
+UD11_RAT,Q64550,UDP-alpha-D-glucuronate,1, Rattus norvegicus (Rat).
+UD17_RAT,Q64633,UDP-alpha-D-glucuronate,1, Rattus norvegicus (Rat).
+UD18_RAT,Q64634,UDP-alpha-D-glucuronate,1, Rattus norvegicus (Rat).
+UD13_RAT,Q64637,UDP-alpha-D-glucuronate,1, Rattus norvegicus (Rat).
+CGT_MOUSE,Q64676,UDP-alpha-D-galactose,1, Mus musculus (Mouse).
+FUT4_PANTR,Q659K9,GDP-beta-L-fucose,10, Pan troglodytes (Chimpanzee).
+FUT9_PANTR,Q659L0,GDP-beta-L-fucose,10, Pan troglodytes (Chimpanzee).
+FUT9_CANLF,Q659L1,GDP-beta-L-fucose,10, Canis lupus familiaris (Dog) (Canis familiaris).
+CGT_FRAAN,Q66PF4,UDP-alpha-D-glucose,1, Fragaria ananassa (Strawberry) (Fragaria chiloensis x Fragaria virginiana).
+UFOG1_FRAAN,Q66PF5,UDP-alpha-D-glucose,1, Fragaria ananassa (Strawberry) (Fragaria chiloensis x Fragaria virginiana).
+OFUT1_RAT,Q6EV70,GDP-beta-L-fucose,65, Rattus norvegicus (Rat).
+FUT8_RAT,Q6EV76,GDP-beta-L-fucose,23, Rattus norvegicus (Rat).
+FUT8_PANTR,Q6EV77,GDP-beta-L-fucose,23, Pan troglodytes (Chimpanzee).
+U76G1_STERE,Q6VAB4,UDP-alpha-D-glucose,1, Stevia rebaudiana (Stevia) (Eupatorium rebaudianum).
+UD17_MOUSE,Q6ZQM8,UDP-alpha-D-glucuronate,1, Mus musculus (Mouse).
+FUT7_RAT,Q712G6,GDP-beta-L-fucose,10, Rattus norvegicus (Rat).
+U73B4_ARATH,Q7Y232,UDP-alpha-D-glucose,1, Arabidopsis thaliana (Mouse-ear cress).
+UD2A1_MOUSE,Q80X89,UDP-alpha-D-glucuronate,1, Mus musculus (Mouse).
+GUMK_XANCE,Q8GCH2,UDP-alpha-D-glucuronate,70, Xanthomonas campestris pv. campestris.
+FUT5_HYLLA,Q8HYJ3,GDP-beta-L-fucose,10, Hylobates lar (Lar gibbon) (White-handed gibbon).
+FUT5_PONPY,Q8HYJ4,GDP-beta-L-fucose,10, Pongo pygmaeus (Bornean orangutan).
+FUT3_PONPY,Q8HYJ5,GDP-beta-L-fucose,10, Pongo pygmaeus (Bornean orangutan).
+FUT6_GORGO,Q8HYJ6,GDP-beta-L-fucose,10, Gorilla gorilla gorilla (Western lowland gorilla).
+FUT5_GORGO,Q8HYJ7,GDP-beta-L-fucose,10, Gorilla gorilla gorilla (Western lowland gorilla).
+FUT9_BOVIN,Q8HZR2,GDP-beta-L-fucose,10, Bos taurus (Bovine).
+FUT4_BOVIN,Q8HZR3,GDP-beta-L-fucose,10, Bos taurus (Bovine).
+PADGT_ACHLA,Q8KQL6,UDP-alpha-D-glucose,4, Acholeplasma laidlawii.
+PIMB_CORGL,Q8NNK8,GDP-alpha-D-mannose,4, Corynebacterium glutamicum (strain ATCC 13032 / DSM 20300 / BCRC 11384 / JCM 1318 / LMG 3730 / NCIMB 10025).
+GYS2_MOUSE,Q8VCB3,UDP-alpha-D-glucose,3, Mus musculus (Mouse).
+OFUT2_MOUSE,Q8VHI3,GDP-beta-L-fucose,68, Mus musculus (Mouse).
+DGDG2_ARATH,Q8W1S1,UDP-alpha-D-galactose,4, Arabidopsis thaliana (Mouse-ear cress).
+U73B3_ARATH,Q8W491,UDP-alpha-D-glucose,1, Arabidopsis thaliana (Mouse-ear cress).
+OFUT2_CAEEL,Q8WR51,GDP-beta-L-fucose,68, Caenorhabditis elegans.
+OFUT1_MOUSE,Q91ZW2,GDP-beta-L-fucose,65, Mus musculus (Mouse).
+TPS1_CANAL,Q92410,UDP-alpha-D-glucose,20, Candida albicans (strain SC5314 / ATCC MYA-2876) (Yeast).
+U72E1_ARATH,Q94A84,UDP-alpha-D-glucose,1, Arabidopsis thaliana (Mouse-ear cress).
+TPS6_ARATH,Q94AH8,UDP-alpha-D-glucose,20, Arabidopsis thaliana (Mouse-ear cress).
+SPSA1_ARATH,Q94BT0,UDP-alpha-D-glucose,4, Arabidopsis thaliana (Mouse-ear cress).
+U73B2_ARATH,Q94C57,UDP-alpha-D-glucose,1, Arabidopsis thaliana (Mouse-ear cress).
+SPY_ARATH,Q96301,GDP-beta-L-fucose,41, Arabidopsis thaliana (Mouse-ear cress).
+FUT9_RAT,Q99JB3,GDP-beta-L-fucose,10, Rattus norvegicus (Rat).
+ALG1_HUMAN,Q9BT22,GDP-alpha-D-mannose,33, Homo sapiens (Human).
+UDB28_HUMAN,Q9BY64,UDP-alpha-D-glucuronate,1, Homo sapiens (Human).
+FUT8_HUMAN,Q9BYC5,GDP-beta-L-fucose,23, Homo sapiens (Human).
+SPSA2_ARATH,Q9FY54,UDP-alpha-D-glucose,4, Arabidopsis thaliana (Mouse-ear cress).
+FUT6_PONPY,Q9GKU6,GDP-beta-L-fucose,10, Pongo pygmaeus (Bornean orangutan).
+OFUT1_HUMAN,Q9H488,GDP-beta-L-fucose,65, Homo sapiens (Human).
+ALG2_HUMAN,Q9H553,GDP-alpha-D-mannose,4, Homo sapiens (Human).
+UD17_HUMAN,Q9HAW7,UDP-alpha-D-glucuronate,1, Homo sapiens (Human).
+UD110_HUMAN,Q9HAW8,UDP-alpha-D-glucuronate,1, Homo sapiens (Human).
+UD18_HUMAN,Q9HAW9,UDP-alpha-D-glucuronate,1, Homo sapiens (Human).
+WBPZ_PSEAE,Q9HTC0,GDP-alpha-D-mannose,4, Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JCM 14847 / LMG 12228 / 1C / PRS 101 / PAO1).
+FUT9_CRIGR,Q9JIG1,GDP-beta-L-fucose,10, Cricetulus griseus (Chinese hamster) (Cricetulus barabensis griseus).
+XYLT_ARATH,Q9LDH0,UDP-alpha-D-xylose,61, Arabidopsis thaliana (Mouse-ear cress).
+U78D2_ARATH,Q9LFJ8,UDP-alpha-D-glucose,1, Arabidopsis thaliana (Mouse-ear cress).
+FUT11_ARATH,Q9LJK1,GDP-beta-L-fucose,10, Arabidopsis thaliana (Mouse-ear cress).
+U89C1_ARATH,Q9LNE6,UDP-beta-L-rhamnose,1, Arabidopsis thaliana (Mouse-ear cress).
+U75B1_ARATH,Q9LR44,UDP-alpha-D-glucose,1, Arabidopsis thaliana (Mouse-ear cress).
+U84A2_ARATH,Q9LVF0,UDP-alpha-D-glucose,1, Arabidopsis thaliana (Mouse-ear cress).
+U72E2_ARATH,Q9LVR1,UDP-alpha-D-glucose,1, Arabidopsis thaliana (Mouse-ear cress).
+U72B1_ARATH,Q9M156,UDP-alpha-D-glucose,1, Arabidopsis thaliana (Mouse-ear cress).
+U80A2_ARATH,Q9M8Z7,UDP-alpha-D-glucose,1, Arabidopsis thaliana (Mouse-ear cress).
+DGDG1_ARATH,Q9S7D1,UDP-alpha-D-galactose,4, Arabidopsis thaliana (Mouse-ear cress).
+HMNGT_SORBI,Q9SBL1,UDP-alpha-D-glucose,1, Sorghum bicolor (Sorghum) (Sorghum vulgare).
+KGLT_PETHY,Q9SBQ8,UDP-alpha-D-galactose,1, Petunia hybrida (Petunia).
+MGDG3_ARATH,Q9SI93,UDP-alpha-D-galactose,28, Arabidopsis thaliana (Mouse-ear cress).
+MGDG_SPIOL,Q9SM44,UDP-alpha-D-galactose,28, Spinacia oleracea (Spinach).
+U74E2_ARATH,Q9SYK9,UDP-alpha-D-glucose,1, Arabidopsis thaliana (Mouse-ear cress).
+TPS1_ARATH,Q9SYM4,UDP-alpha-D-glucose,20, Arabidopsis thaliana (Mouse-ear cress).
+GYS_CAEEL,Q9U2D9,UDP-alpha-D-glucose,3, Caenorhabditis elegans.
+AGS1_SCHPO,Q9USK8,UDP-alpha-D-glucose,5, Schizosaccharomyces pombe (strain 972 / ATCC 24843) (Fission yeast).
+OFUT1_DROME,Q9V6X7,GDP-beta-L-fucose,65, Drosophila melanogaster (Fruit fly).
+GYS_DROME,Q9VFC8,UDP-alpha-D-glucose,3, Drosophila melanogaster (Fruit fly).
+FUCTA_DROME,Q9VUL9,GDP-beta-L-fucose,10, Drosophila melanogaster (Fruit fly).
+OFUT2_DROME,Q9W589,GDP-beta-L-fucose,68, Drosophila melanogaster (Fruit fly).
+FUT8_MOUSE,Q9WTS2,GDP-beta-L-fucose,23, Mus musculus (Mouse).
+ALG11_ARATH,Q9XEE9,GDP-alpha-D-mannose,4, Arabidopsis thaliana (Mouse-ear cress).
+U80B1_ARATH,Q9XIG1,UDP-alpha-D-glucose,1, Arabidopsis thaliana (Mouse-ear cress).
+FUT9_HUMAN,Q9Y231,GDP-beta-L-fucose,10, Homo sapiens (Human).
+OFUT2_HUMAN,Q9Y2G5,GDP-beta-L-fucose,68, Homo sapiens (Human).
+ATG26_KOMPG,Q9Y751,UDP-alpha-D-glucose,1, Komagataella phaffii (strain GS115 / ATCC 20864) (Yeast) (Pichia pastoris).
+GYS1_MOUSE,Q9Z1E4,UDP-alpha-D-glucose,3, Mus musculus (Mouse).
+U73B5_ARATH,Q9ZQG4,UDP-alpha-D-glucose,1, Arabidopsis thaliana (Mouse-ear cress).
+ZOG_PHALU,Q9ZSK5,UDP-alpha-D-glucose,1, Phaseolus lunatus (Lima bean) (Phaseolus limensis).
+F3GT1_ACTCC,A0A2R6Q8R5,UDP-alpha-D-galactose,1, Actinidia chinensis var. chinensis (Chinese soft-hair kiwi).
+TPS1_BOTFB,A0A384JAD8,UDP-alpha-D-glucose,20, Botryotinia fuckeliana (strain B05.10) (Noble rot fungus) (Botrytis cinerea).
+PIMB_MYCS2,A0R043,GDP-alpha-D-mannose,4, Mycolicibacterium smegmatis (strain ATCC 700084 / mc(2)155) (Mycobacterium smegmatis).
+ATG26_ASPNC,A2QNQ5,UDP-alpha-D-glucose,1, Aspergillus niger (strain ATCC MYA-4892 / CBS 513.88 / FGSC A1513).
+OTSA_MYCGI,A4T7Q6,UDP-alpha-D-glucose,20, Mycolicibacterium gilvum (strain PYR-GCK) (Mycobacterium gilvum (strain PYR-GCK)).
+ATG26_PICAN,A7KAK6,UDP-alpha-D-glucose,1, Pichia angusta (Yeast) (Hansenula polymorpha).
+ATG26_PENRW,A7KAN4,UDP-alpha-D-glucose,1, Penicillium rubens (strain ATCC 28089 / DSM 1075 / NRRL 1951 / Wisconsin 54-1255) (Penicillium chrysogenum).
+75L17_MALDO,A7MAS5,UDP-alpha-D-glucose,1, Malus domestica (Apple) (Pyrus malus).
+5GT_GENTR,B2NID7,UDP-alpha-D-glucose,1, Gentiana triflora (Clustered gentian).
+BX9_MAIZE,B4G072,UDP-alpha-D-glucose,1, Zea mays (Maize).
+ATG26_GLOLA,C4B4E5,UDP-alpha-D-glucose,1, Glomerella lagenarium (Anthracnose fungus) (Colletotrichum lagenarium).
+SPSA4_ARATH,F4JLK2,UDP-alpha-D-glucose,4, Arabidopsis thaliana (Mouse-ear cress).
+UGT1_GARJA,F8WKW0,UDP-alpha-D-glucose,1, Gardenia jasminoides (Cape jasmine) (Gardenia augusta).
+UGT2_GARJA,F8WKW1,UDP-alpha-D-glucose,1, Gardenia jasminoides (Cape jasmine) (Gardenia augusta).
+TPSP_THETK,G4RK44,UDP-alpha-D-glucose,20, Thermoproteus tenax (strain ATCC 35583 / DSM 2078 / JCM 9277 / NBRC 100435 / Kra 1).
+U84A3_ARATH,O23401,UDP-alpha-D-glucose,1, Arabidopsis thaliana (Mouse-ear cress).
+TPS5_ARATH,O23617,UDP-alpha-D-glucose,20, Arabidopsis thaliana (Mouse-ear cress).
+TPS2_CAEEL,O45380,UDP-alpha-D-glucose,20, Caenorhabditis elegans.
+TPS1_EMENI,O59921,UDP-alpha-D-glucose,20, Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139) (Aspergillus nidulans).
+ALG11_SCHPO,O74878,GDP-alpha-D-mannose,4, Schizosaccharomyces pombe (strain 972 / ATCC 24843) (Fission yeast).
+TPS1_YARLI,O74932,UDP-alpha-D-glucose,20, Yarrowia lipolytica (strain CLIB 122 / E 150) (Yeast) (Candida lipolytica).
+UDB11_HUMAN,O75310,UDP-alpha-D-glucuronate,1, Homo sapiens (Human).
+U72E3_ARATH,O81498,UDP-alpha-D-glucose,1, Arabidopsis thaliana (Mouse-ear cress).
+TPS1_PICAN,O94213,UDP-alpha-D-glucose,20, Pichia angusta (Yeast) (Hansenula polymorpha).
+ALG2_RHIPU,O94738,GDP-alpha-D-mannose,4, Rhizomucor pusillus.
+UD2B2_RAT,P08541,UDP-alpha-D-glucuronate,1, Rattus norvegicus (Rat).
+ATG26_CRYNJ,P0CN90,UDP-alpha-D-glucose,1, Cryptococcus neoformans var. neoformans serotype D (strain JEC21 / ATCC MYA-565) (Filobasidiella neoformans).
+TAGE_BACSU,P13484,nUDP-alpha-D-glucose,4, Bacillus subtilis (strain 168).
+UDB17_MOUSE,P17717,UDP-alpha-D-glucuronate,1, Mus musculus (Mouse).
+UDB37_RAT,P19488,UDP-alpha-D-glucuronate,1, Rattus norvegicus (Rat).
+SPSA_SPIOL,P31928,UDP-alpha-D-glucose,4, Spinacia oleracea (Spinach).
+UDB10_HUMAN,P36537,UDP-alpha-D-glucuronate,1, Homo sapiens (Human).
+UD12_MOUSE,P70691,UDP-alpha-D-glucuronate,1, Mus musculus (Mouse).
+ALG1_DICDI,P90522,GDP-alpha-D-mannose,33, Dictyostelium discoideum (Social amoeba).
+GTFB_AMYOR,P96559,UDP-alpha-D-glucose,1, Amycolatopsis orientalis (Nocardia orientalis).
+OTSA_MYCTO,P9WN10,UDP-alpha-D-glucose,20, Mycobacterium tuberculosis (strain CDC 1551 / Oshkosh).
+TPS1A_ASPNG,Q00075,UDP-alpha-D-glucose,20, Aspergillus niger.
+U75C1_ARATH,Q0WW21,UDP-alpha-D-glucose,1, Arabidopsis thaliana (Mouse-ear cress).
+UGTP_STAA8,Q2FZP7,UDP-alpha-D-glucose,28, Staphylococcus aureus (strain NCTC 8325 / PS 47).
+UFOG7_FRAAN,Q2V6J9,UDP-alpha-D-glucose,1, Fragaria ananassa (Strawberry) (Fragaria chiloensis x Fragaria virginiana).
+UFOG6_FRAAN,Q2V6K0,UDP-alpha-D-glucose,1, Fragaria ananassa (Strawberry) (Fragaria chiloensis x Fragaria virginiana).
+4CGT_ANTMA,Q33DV3,UDP-alpha-D-glucose,1, Antirrhinum majus (Garden snapdragon).
+UD3A2_HUMAN,Q3SY77,UDP-alpha-D-glucuronate,1, Homo sapiens (Human).
+WBDA2_ECOLX,Q47593,GDP-alpha-D-mannose,4, Escherichia coli.
+DUSKY_IPONI,Q53UH4,UDP-alpha-D-glucose,1, Ipomoea nil (Japanese morning glory) (Pharbitis nil).
+ATG26_EMENI,Q5B4C9,UDP-alpha-D-glucose,1, Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139) (Aspergillus nidulans).
+GT4A_SOLAA,Q5H861,UDP-alpha-D-glucose,1, Solanum aculeatissimum (Dutch eggplant) (Solanum khasianum).
+UGTP_STAAC,Q5HH69,UDP-alpha-D-glucose,28, Staphylococcus aureus (strain COL).
+FUT8_PONAB,Q5NVB3,GDP-beta-L-fucose,23, Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii).
+UD15_RAT,Q64638,UDP-alpha-D-glucuronate,1, Rattus norvegicus (Rat).
+FUT8_CANLF,Q659X0,GDP-beta-L-fucose,23, Canis lupus familiaris (Dog) (Canis familiaris).
+ATG26_YARLI,Q6C8M8,UDP-alpha-D-glucose,1, Yarrowia lipolytica (strain CLIB 122 / E 150) (Yeast) (Candida lipolytica).
+OFUT2_PANTR,Q6EV56,GDP-beta-L-fucose,68, Pan troglodytes (Chimpanzee).
+OFUT1_PANTR,Q6EV69,GDP-beta-L-fucose,65, Pan troglodytes (Chimpanzee).
+ALG2_CANGA,Q6FJJ9,GDP-alpha-D-mannose,4, Candida glabrata (strain ATCC 2001 / BCRC 20586 / JCM 3761 / NBRC 0622 / NRRL Y-65 / CBS 138) (Yeast) (Nakaseomyces glabratus).
+UD3A1_HUMAN,Q6NUS8,UDP-alpha-D-glucuronate,1, Homo sapiens (Human).
+FUT8_XENTR,Q6NVP8,GDP-beta-L-fucose,23, Xenopus tropicalis (Western clawed frog) (Silurana tropicalis).
+UD2A2_MOUSE,Q6PDD0,UDP-alpha-D-glucuronate,1, Mus musculus (Mouse).
+SPSA4_ORYSJ,Q6ZHZ1,UDP-alpha-D-glucose,4, Oryza sativa subsp. japonica (Rice).
+ATG26_EREGS,Q751Z4,UDP-alpha-D-glucose,1, Eremothecium gossypii (strain ATCC 10895 / CBS 109.51 / FGSC 9923 / NRRL Y-1056) (Yeast) (Ashbya gossypii).
+ALG2_EREGS,Q755C1,GDP-alpha-D-mannose,4, Eremothecium gossypii (strain ATCC 10895 / CBS 109.51 / FGSC 9923 / NRRL Y-1056) (Yeast) (Ashbya gossypii).
+UBGAT_SCUBA,Q76MR7,UDP-alpha-D-glucuronate,1, Scutellaria baicalensis (Baical skullcap).
+ATG26_NEUCR,Q7S1I0,UDP-alpha-D-glucose,1, Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987).
+TPS1_CAEEL,Q7YZT6,UDP-alpha-D-glucose,20, Caenorhabditis elegans.
+FLRT_CITMA,Q8GVE3,UDP-beta-L-rhamnose,1, Citrus maxima (Pomelo) (Citrus grandis).
+ATG26_LEPMC,Q8NJS1,UDP-alpha-D-glucose,1, Leptosphaeria maculans (Blackleg fungus) (Phoma lingam).
+SPSA3_ARATH,Q8RY24,UDP-alpha-D-glucose,4, Arabidopsis thaliana (Mouse-ear cress).
+BX8_MAIZE,Q8W2B7,UDP-alpha-D-glucose,1, Zea mays (Maize).
+ALG1_MOUSE,Q921Q3,GDP-alpha-D-mannose,33, Mus musculus (Mouse).
+AMGDS_ACHLA,Q93P60,UDP-alpha-D-glucose,4, Acholeplasma laidlawii.
+CZOG1_MAIZE,Q93XP7,UDP-alpha-D-glucose,1, Zea mays (Maize).
+U7E12_ARATH,Q94AB5,UDP-alpha-D-glucose,1, Arabidopsis thaliana (Mouse-ear cress).
+ALG2_SCHPO,Q96WW6,GDP-alpha-D-mannose,4, Schizosaccharomyces pombe (strain 972 / ATCC 24843) (Fission yeast).
+U89B1_ARATH,Q9C9B0,UDP-alpha-D-glucose,1, Arabidopsis thaliana (Mouse-ear cress).
+ALG2_MOUSE,Q9DBE8,GDP-alpha-D-mannose,4, Mus musculus (Mouse).
+U71C4_ARATH,Q9LML6,UDP-alpha-D-glucose,1, Arabidopsis thaliana (Mouse-ear cress).
+AXYLT_ARATH,Q9LVW3,UDP-alpha-D-xylose,1, Arabidopsis thaliana (Mouse-ear cress).
+FUT8_BOVIN,Q9N0W2,GDP-beta-L-fucose,23, Bos taurus (Bovine).
+U78D1_ARATH,Q9S9P6,UDP-beta-L-rhamnose,1, Arabidopsis thaliana (Mouse-ear cress).
+FUT8_DROME,Q9VYV5,GDP-beta-L-fucose,23, Drosophila melanogaster (Fruit fly).
+5GT1_PERFR,Q9ZR27,UDP-alpha-D-glucose,1, Perilla frutescens (Beefsteak mint) (Perilla ocymoides).
+U75B2_ARATH,Q9ZVY5,UDP-alpha-D-glucose,1, Arabidopsis thaliana (Mouse-ear cress).
+OTSA_MYCUA,A0PUT6,UDP-alpha-D-glucose,20, Mycobacterium ulcerans (strain Agy99).
+OTSA_MYCA1,A0QAK7,UDP-alpha-D-glucose,20, Mycobacterium avium (strain 104).
+UGTP_BACAH,A0R9F0,UDP-alpha-D-glucose,28, Bacillus thuringiensis (strain Al Hakam).
+OTSA_ECOK1,A1AC53,UDP-alpha-D-glucose,20, Escherichia coli O1:K1 / APEC.
+OTSA_MYCBP,A1KPH5,UDP-alpha-D-glucose,20, Mycobacterium bovis (strain BCG / Pasteur 1173P2).
+OTSA_MYCVP,A1TFL3,UDP-alpha-D-glucose,20, Mycolicibacterium vanbaalenii (strain DSM 7251 / JCM 13017 / BCRC 16820 / KCTC 9966 / NRRL B-24157 / PYR-1) (Mycobacterium vanbaalenii).
+OTSA_MYCSK,A1UM30,UDP-alpha-D-glucose,20, Mycobacterium sp. (strain KMS).
+SPSA1_ORYSI,A2WYE9,UDP-alpha-D-glucose,4, Oryza sativa subsp. indica (Rice).
+OTSA_MYCSJ,A3Q6H9,UDP-alpha-D-glucose,20, Mycobacterium sp. (strain JLS).
+OTSA_ENT38,A4WBR1,UDP-alpha-D-glucose,20, Enterobacter sp. (strain 638).
+UGTP_STAA9,A5IRJ3,UDP-alpha-D-glucose,28, Staphylococcus aureus (strain JH9).
+OTSA_MYCTA,A5U8G5,UDP-alpha-D-glucose,20, Mycobacterium tuberculosis (strain ATCC 25177 / H37Ra).
+UGTP_STAAE,A6QFM7,UDP-alpha-D-glucose,28, Staphylococcus aureus (strain Newman).
+OTSA_KLEP7,A6TB47,UDP-alpha-D-glucose,20, Klebsiella pneumoniae subsp. pneumoniae (strain ATCC 700721 / MGH 78578).
+UGTP_STAA2,A6U0C2,UDP-alpha-D-glucose,28, Staphylococcus aureus (strain JH1).
+UGTP_BACCN,A7GKY0,UDP-alpha-D-glucose,28, Bacillus cytotoxicus (strain DSM 22905 / CIP 110041 / 391-98 / NVH 391-98).
+GYS1_BOVIN,A7MB78,UDP-alpha-D-glucose,3, Bos taurus (Bovine).
+OTSA_CROS8,A7MEE9,UDP-alpha-D-glucose,20, Cronobacter sakazakii (strain ATCC BAA-894) (Enterobacter sakazakii).
+MFPS_AGRFC,A7TZT2,GDP-alpha-D-mannose,4, Agrobacterium fabrum (strain C58 / ATCC 33970) (Agrobacterium tumefaciens (strain C58)).
+UGTP_STAA1,A7X0P5,UDP-alpha-D-glucose,28, Staphylococcus aureus (strain Mu3 / ATCC 700698).
+OTSA_ECO24,A7ZN22,UDP-alpha-D-glucose,20, Escherichia coli O139:H28 (strain E24377A / ETEC).
+OTSA_ECOHS,A8A1A0,UDP-alpha-D-glucose,20, Escherichia coli O9:H4 (strain HS).
+OTSA_CITK8,A8AFD4,UDP-alpha-D-glucose,20, Citrobacter koseri (strain ATCC BAA-895 / CDC 4225-83 / SGSC4696).
+UGTP_BACP2,A8FED1,UDP-alpha-D-glucose,28, Bacillus pumilus (strain SAFR-032).
+UGTP_STAAT,A8Z0C1,UDP-alpha-D-glucose,28, Staphylococcus aureus (strain USA300 / TCH1516).
+MGGA_PETMO,A9BHJ0,GDP-alpha-D-mannose,4, Petrotoga mobilis (strain DSM 10674 / SJ95).
+OTSA_SALAR,A9MMQ2,UDP-alpha-D-glucose,20, Salmonella arizonae (strain ATCC BAA-731 / CDC346-86 / RSK2980).
+OTSA_SALPB,A9MU86,UDP-alpha-D-glucose,20, Salmonella paratyphi B (strain ATCC BAA-1250 / SPB7).
+UGTP_BACMK,A9VSQ8,UDP-alpha-D-glucose,28, Bacillus mycoides (strain KBAB4) (Bacillus weihenstephanensis).
+OTSA_ECOLC,B1J0J4,UDP-alpha-D-glucose,20, Escherichia coli (strain ATCC 8739 / DSM 1576 / NBRC 3972 / NCIMB 8545 / WDCM 00012 / Crooks).
+OTSA_ECOSM,B1LQW0,UDP-alpha-D-glucose,20, Escherichia coli (strain SMS-3-5 / SECEC).
+OTSA_ECODH,B1X658,UDP-alpha-D-glucose,20, Escherichia coli (strain K12 / DH10B).
+OTSA_MYCMM,B2HHY2,UDP-alpha-D-glucose,20, Mycobacterium marinum (strain ATCC BAA-535 / M).
+85A19_PRUDU,B2XBQ5,UDP-alpha-D-glucose,1, Prunus dulcis (Almond) (Amygdalus dulcis).
+NGT_ACTP7,B3H2N2,UDP-alpha-D-glucose,41, Actinobacillus pleuropneumoniae serotype 7 (strain AP76).
+88F1G_MALDO,B3TKC8,UDP-alpha-D-glucose,1, Malus domestica (Apple) (Pyrus malus).
+U91D2_STERE,B3VI56,UDP-alpha-D-glucose,1, Stevia rebaudiana (Stevia) (Eupatorium rebaudianum).
+WCLR_ECOLX,B5T072,UDP-alpha-D-galactose,4, Escherichia coli.
+SPSA2_ORYSJ,B7F7B9,UDP-alpha-D-glucose,4, Oryza sativa subsp. japonica (Rice).
+UGTP_BACC4,B7H9Q4,UDP-alpha-D-glucose,28, Bacillus cereus (strain B4264).
+UGTP_BACC7,B7HU46,UDP-alpha-D-glucose,28, Bacillus cereus (strain AH187).
+UGTP_BACC2,B7IW03,UDP-alpha-D-glucose,28, Bacillus cereus (strain G9842).
+UGTP_BACC0,B7JNE4,UDP-alpha-D-glucose,28, Bacillus cereus (strain AH820).
+UGTP_STACT,B9DQ98,UDP-alpha-D-glucose,28, Staphylococcus carnosus (strain TM300).
+UGTP_BACCQ,B9J2U2,UDP-alpha-D-glucose,28, Bacillus cereus (strain Q1).
+UGTP_BACC3,C1EWE6,UDP-alpha-D-glucose,28, Bacillus cereus (strain 03BB102).
+UGTP_BACAC,C3LHC1,UDP-alpha-D-glucose,28, Bacillus anthracis (strain CDC 684 / NRRL 3495).
+UGTP_BACAA,C3PCX2,UDP-alpha-D-glucose,28, Bacillus anthracis (strain A0248).
+U88F2_PYRCO,D3UAG3,UDP-alpha-D-glucose,1, Pyrus communis (Pear) (Pyrus domestica).
+SGT2_SOYBN,D4Q9Z4,UDP-alpha-D-galactose,1, Glycine max (Soybean) (Glycine hispida).
+SGT3_SOYBN,D4Q9Z5,UDP-beta-L-rhamnose,1, Glycine max (Soybean) (Glycine hispida).
+PIMA_PROFC,D7GDZ9,GDP-alpha-D-mannose,4, Propionibacterium freudenreichii subsp. shermanii (strain ATCC 9614 / DSM 4902 / CIP 103027 / NCIMB 8099 / CIRM-BIA1).
+OTSA_SALTS,E1WGG8,UDP-alpha-D-glucose,20, Salmonella typhimurium (strain SL1344).
+UGT9_GARJA,F8WKW8,UDP-alpha-D-glucose,1, Gardenia jasminoides (Cape jasmine) (Gardenia augusta).
+UGT6_CATRO,F8WLS6,UDP-alpha-D-glucose,1, Catharanthus roseus (Madagascar periwinkle) (Vinca rosea).
+UD2B9_MACFA,O02663,UDP-alpha-D-glucuronate,1, Macaca fascicularis (Crab-eating macaque) (Cynomolgus monkey).
+SPSA1_CRAPL,O04932,UDP-alpha-D-glucose,4, Craterostigma plantagineum (Blue gem) (Torenia plantagineum).
+SPSA2_CRAPL,O04933,UDP-alpha-D-glucose,4, Craterostigma plantagineum (Blue gem) (Torenia plantagineum).
+PIMA_MYCLE,O07147,GDP-alpha-D-mannose,4, Mycobacterium leprae (strain TN).
+ALG1_SCHPO,O13933,GDP-alpha-D-mannose,33, Schizosaccharomyces pombe (strain 972 / ATCC 24843) (Fission yeast).
+TPSX_SCHPO,O14081,UDP-alpha-D-glucose,20, Schizosaccharomyces pombe (strain 972 / ATCC 24843) (Fission yeast).
+UDB16_RABIT,O19103,UDP-alpha-D-glucuronate,1, Oryctolagus cuniculus (Rabbit).
+SPSA1_CITUN,O22060,UDP-alpha-D-glucose,4, Citrus unshiu (Satsuma mandarin) (Citrus nobilis var. unshiu).
+U74F1_ARATH,O22820,UDP-alpha-D-glucose,1, Arabidopsis thaliana (Mouse-ear cress).
+U84A4_ARATH,O23402,UDP-alpha-D-glucose,1, Arabidopsis thaliana (Mouse-ear cress).
+UDB20_MACFA,O77649,UDP-alpha-D-glucuronate,1, Macaca fascicularis (Crab-eating macaque) (Cynomolgus monkey).
+TPS10_ARATH,O80738,UDP-alpha-D-glucose,20, Arabidopsis thaliana (Mouse-ear cress).
+U71D1_ARATH,O82383,UDP-alpha-D-glucose,1, Arabidopsis thaliana (Mouse-ear cress).
+GYS_NEUCR,O93869,UDP-alpha-D-glucose,3, Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987).
+UDB18_MACFA,O97951,UDP-alpha-D-glucuronate,1, Macaca fascicularis (Crab-eating macaque) (Cynomolgus monkey).
+OTSA_SALTY,P0CL06,UDP-alpha-D-glucose,20, Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720).
+UFOG_HORVU,P14726,UDP-alpha-D-glucose,1, Hordeum vulgare (Barley).
+UFOG2_MAIZE,P16165,UDP-alpha-D-glucose,1, Zea mays (Maize).
+UFOG1_MAIZE,P16166,UDP-alpha-D-glucose,1, Zea mays (Maize).
+UFOG3_MAIZE,P16167,UDP-alpha-D-glucose,1, Zea mays (Maize).
+WAAB_ECOLI,P27127,UDP-alpha-D-galactose,4, Escherichia coli (strain K12).
+SPSA_MAIZE,P31927,UDP-alpha-D-glucose,4, Zea mays (Maize).
+UDB13_RABIT,P36512,UDP-alpha-D-glucuronate,1, Oryctolagus cuniculus (Rabbit).
+UDB14_RABIT,P36513,UDP-alpha-D-glucuronate,1, Oryctolagus cuniculus (Rabbit).
+UD2C1_RABIT,P36514,UDP-alpha-D-glucuronate,1, Oryctolagus cuniculus (Rabbit).
+SPSA_BETVU,P49031,UDP-alpha-D-glucose,4, Beta vulgaris (Sugar beet).
+ALG11_CAEEL,P53993,GDP-alpha-D-mannose,4, Caenorhabditis elegans.
+OTSA_SINFN,P55612,UDP-alpha-D-glucose,20, Sinorhizobium fredii (strain NBRC 101917 / NGR234).
+ZOX_PHAVU,P56725,UDP-alpha-D-xylose,1, Phaseolus vulgaris (Kidney bean) (French bean).
+MGDG_CUCSA,P93115,UDP-alpha-D-galactose,28, Cucumis sativus (Cucumber).
+SGT1_SOLTU,P93789,UDP-alpha-D-glucose,1, Solanum tuberosum (Potato).
+PIMB_MYCTO,P9WMZ2,GDP-alpha-D-mannose,4, Mycobacterium tuberculosis (strain CDC 1551 / Oshkosh).
+PIMA_MYCTO,P9WMZ4,GDP-alpha-D-mannose,4, Mycobacterium tuberculosis (strain CDC 1551 / Oshkosh).
+CRTX_PSEVU,Q01330,UDP-alpha-D-glucose,1, Pseudescherichia vulneris (Escherichia vulneris).
+WAAB_SALTY,Q06994,UDP-alpha-D-galactose,4, Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720).
+TPS1_KLULA,Q07158,UDP-alpha-D-glucose,20, Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37) (Yeast) (Candida sphaerica).
+SPSA1_ORYSJ,Q0JGK4,UDP-alpha-D-glucose,4, Oryza sativa subsp. japonica (Rice).
+OTSA_ECOL5,Q0TGU0,UDP-alpha-D-glucose,20, Escherichia coli O6:K15:H31 (strain 536 / UPEC).
+TPS8_ARATH,Q0WUI9,UDP-alpha-D-glucose,20, Arabidopsis thaliana (Mouse-ear cress).
+UGT46_CAEEL,Q10941,UDP-alpha-D-glucuronate,1, Caenorhabditis elegans.
+UGT48_CAEEL,Q18081,UDP-alpha-D-glucuronate,1, Caenorhabditis elegans.
+OTSA_MYCSS,Q1B321,UDP-alpha-D-glucose,20, Mycobacterium sp. (strain MCS).
+UD3A1_BOVIN,Q1LZI1,UDP-alpha-D-glucuronate,1, Bos taurus (Bovine).
+OTSA_ECOUT,Q1RAP1,UDP-alpha-D-glucose,20, Escherichia coli (strain UTI89 / UPEC).
+UGT47_CAEEL,Q21706,UDP-alpha-D-glucuronate,1, Caenorhabditis elegans.
+UGT50_CAEEL,Q22295,UDP-alpha-D-glucuronate,1, Caenorhabditis elegans.
+UD16_RABIT,Q28611,UDP-alpha-D-glucuronate,1, Oryctolagus cuniculus (Rabbit).
+UD14_RABIT,Q28612,UDP-alpha-D-glucuronate,1, Oryctolagus cuniculus (Rabbit).
+OTSA_SODGM,Q2NTK9,UDP-alpha-D-glucose,20, Sodalis glossinidius (strain morsitans).
+UGTP_STAAB,Q2YWW6,UDP-alpha-D-glucose,28, Staphylococcus aureus (strain bovine RF122 / ET3-1).
+OTSA_SHIDS,Q32H58,UDP-alpha-D-glucose,20, Shigella dysenteriae serotype 1 (strain Sd197).
+ALG11_MOUSE,Q3TZM9,GDP-alpha-D-mannose,4, Mus musculus (Mouse).
+UD3A1_MOUSE,Q3UP75,UDP-alpha-D-glucuronate,1, Mus musculus (Mouse).
+OTSA_SHISS,Q3Z2S4,UDP-alpha-D-glucose,20, Shigella sonnei (strain Ss046).
+UFOG1_MANES,Q40284,UDP-alpha-D-glucose,1, Manihot esculenta (Cassava) (Jatropha manihot).
+UFOG2_MANES,Q40285,UDP-alpha-D-glucose,1, Manihot esculenta (Cassava) (Jatropha manihot).
+UFOG4_MANES,Q40286,UDP-alpha-D-glucose,1, Manihot esculenta (Cassava) (Jatropha manihot).
+UFOG5_MANES,Q40287,UDP-alpha-D-glucose,1, Manihot esculenta (Cassava) (Jatropha manihot).
+UFOG6_MANES,Q40288,UDP-alpha-D-glucose,1, Manihot esculenta (Cassava) (Jatropha manihot).
+UFOG7_MANES,Q40289,UDP-alpha-D-glucose,1, Manihot esculenta (Cassava) (Jatropha manihot).
+IABG_MAIZE,Q41819,UDP-alpha-D-glucose,1, Zea mays (Maize).
+UFOG_SOLME,Q43641,UDP-alpha-D-glucose,1, Solanum melongena (Eggplant) (Aubergine).
+SPSA_SOLTU,Q43845,UDP-alpha-D-glucose,4, Solanum tuberosum (Potato).
+SPSA_VICFA,Q43876,UDP-alpha-D-glucose,4, Vicia faba (Broad bean) (Faba vulgaris).
+GUMH_KOMXY,Q44571,GDP-alpha-D-mannose,4, Komagataeibacter xylinus (Gluconacetobacter xylinus).
+WBDB_ECOLX,Q47594,GDP-alpha-D-mannose,4, Escherichia coli.
+WBDC_ECOLX,Q47595,GDP-alpha-D-mannose,4, Escherichia coli.
+UGTP_STAS1,Q49WE6,UDP-alpha-D-glucose,28, Staphylococcus saprophyticus subsp. saprophyticus (strain ATCC 15305 / DSM 20229 / NCIMB 8711 / NCTC 7292 / S-41).
+UGTP_STAHJ,Q4L524,UDP-alpha-D-glucose,28, Staphylococcus haemolyticus (strain JCSC1435).
+OTSA_MYCLE,Q50167,UDP-alpha-D-glucose,20, Mycobacterium leprae (strain TN).
+SPSA5_ORYSJ,Q53JI9,UDP-alpha-D-glucose,4, Oryza sativa subsp. japonica (Rice).
+DUSKY_IPOPU,Q53UH5,UDP-alpha-D-glucose,1, Ipomoea purpurea (Common morning glory) (Pharbitis purpurea).
+OTSA_SALCH,Q57N70,UDP-alpha-D-glucose,20, Salmonella choleraesuis (strain SC-B67).
+UGTP_STAEQ,Q5HQE7,UDP-alpha-D-glucose,28, Staphylococcus epidermidis (strain ATCC 35984 / RP62A).
+TPS2_APHAV,Q5K2C1,UDP-alpha-D-glucose,20, Aphelenchus avenae (Mycophagous nematode worm).
+TPS1_APHAV,Q5K2C4,UDP-alpha-D-glucose,20, Aphelenchus avenae (Mycophagous nematode worm).
+OTSA_SALPA,Q5PMW8,UDP-alpha-D-glucose,20, Salmonella paratyphi A (strain ATCC 9150 / SARB42).
+ALG1_PONAB,Q5R7A2,GDP-alpha-D-mannose,33, Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii).
+GYS1_PONAB,Q5R9H0,UDP-alpha-D-glucose,3, Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii).
+UFOG2_FRAAN,Q5UL10,UDP-alpha-D-glucose,1, Fragaria ananassa (Strawberry) (Fragaria chiloensis x Fragaria virginiana).
+UGTP_BACCZ,Q63GD0,UDP-alpha-D-glucose,28, Bacillus cereus (strain ZK / E33L).
+UGTP_BACLD,Q65IA4,UDP-alpha-D-glucose,28, Bacillus licheniformis (strain ATCC 14580 / DSM 13 / JCM 2505 / CCUG 7422 / NBRC 12200 / NCIMB 9375 / NCTC 10341 / NRRL NRS-1264 / Gibson 46).
+SPSA3_ORYSJ,Q67WN8,UDP-alpha-D-glucose,4, Oryza sativa subsp. japonica (Rice).
+ALG1_DEBHA,Q6BS98,GDP-alpha-D-mannose,33, Debaryomyces hansenii (strain ATCC 36239 / CBS 767 / BCRC 21394 / JCM 1990 / NBRC 0083 / IGC 2968) (Yeast) (Torulaspora hansenii).
+ALG2_DEBHA,Q6BVA4,GDP-alpha-D-mannose,4, Debaryomyces hansenii (strain ATCC 36239 / CBS 767 / BCRC 21394 / JCM 1990 / NBRC 0083 / IGC 2968) (Yeast) (Torulaspora hansenii).
+ALG11_DEBHA,Q6BVB2,GDP-alpha-D-mannose,4, Debaryomyces hansenii (strain ATCC 36239 / CBS 767 / BCRC 21394 / JCM 1990 / NBRC 0083 / IGC 2968) (Yeast) (Torulaspora hansenii).
+ALG1_YARLI,Q6C3K2,GDP-alpha-D-mannose,33, Yarrowia lipolytica (strain CLIB 122 / E 150) (Yeast) (Candida lipolytica).
+ALG2_YARLI,Q6C3V7,GDP-alpha-D-mannose,4, Yarrowia lipolytica (strain CLIB 122 / E 150) (Yeast) (Candida lipolytica).
+ALG11_YARLI,Q6C9T3,GDP-alpha-D-mannose,4, Yarrowia lipolytica (strain CLIB 122 / E 150) (Yeast) (Candida lipolytica).
+ALG11_KLULA,Q6CLD6,GDP-alpha-D-mannose,4, Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37) (Yeast) (Candida sphaerica).
+ATG26_KLULA,Q6CUV2,UDP-alpha-D-glucose,1, Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37) (Yeast) (Candida sphaerica).
+ALG1_KLULA,Q6CVU2,GDP-alpha-D-mannose,33, Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37) (Yeast) (Candida sphaerica).
+ALG2_KLULA,Q6CWQ0,GDP-alpha-D-mannose,4, Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37) (Yeast) (Candida sphaerica).
+DGDG1_LOTJA,Q6DW74,UDP-alpha-D-galactose,4, Lotus japonicus (Lotus corniculatus var. japonicus).
+DGDG2_SOYBN,Q6DW75,UDP-alpha-D-galactose,4, Glycine max (Soybean) (Glycine hispida).
+DGDG1_SOYBN,Q6DW76,UDP-alpha-D-galactose,4, Glycine max (Soybean) (Glycine hispida).
+ALG1_CANGA,Q6FLZ2,GDP-alpha-D-mannose,33, Candida glabrata (strain ATCC 2001 / BCRC 20586 / JCM 3761 / NBRC 0622 / NRRL Y-65 / CBS 138) (Yeast) (Nakaseomyces glabratus).
+ALG11_CANGA,Q6FWD1,GDP-alpha-D-mannose,4, Candida glabrata (strain ATCC 2001 / BCRC 20586 / JCM 3761 / NBRC 0622 / NRRL Y-65 / CBS 138) (Yeast) (Nakaseomyces glabratus).
+UGTP_STAAS,Q6GAR0,UDP-alpha-D-glucose,28, Staphylococcus aureus (strain MSSA476).
+UGTP_STAAR,Q6GI67,UDP-alpha-D-glucose,28, Staphylococcus aureus (strain MRSA252).
+UGTP_BACHK,Q6HNU4,UDP-alpha-D-glucose,28, Bacillus thuringiensis subsp. konkukian (strain 97-27).
+OTSA_PSESS,Q6JTB2,UDP-alpha-D-glucose,20, Pseudomonas savastanoi (Pseudomonas syringae pv. savastanoi).
+UDB31_CANLF,Q6K1J1,UDP-alpha-D-glucuronate,1, Canis lupus familiaris (Dog) (Canis familiaris).
+UD2A3_HUMAN,Q6UWM9,UDP-alpha-D-glucuronate,1, Homo sapiens (Human).
+U74G1_STERE,Q6VAA6,UDP-alpha-D-glucose,1, Stevia rebaudiana (Stevia) (Eupatorium rebaudianum).
+U85C2_STERE,Q6VAB0,UDP-alpha-D-glucose,1, Stevia rebaudiana (Stevia) (Eupatorium rebaudianum).
+GLT3_CROSA,Q6WFW1,UDP-alpha-D-glucose,1, Crocus sativus (Saffron).
+GLT2_CROSA,Q6X1C0,UDP-alpha-D-glucose,1, Crocus sativus (Saffron).
+UGTP_BACC1,Q73DZ5,UDP-alpha-D-glucose,28, Bacillus cereus (strain ATCC 10987 / NRS 248).
+OTSA_MYCPA,Q743L8,UDP-alpha-D-glucose,20, Mycolicibacterium paratuberculosis (strain ATCC BAA-968 / K-10) (Mycobacterium paratuberculosis).
+ALG11_EREGS,Q75B12,GDP-alpha-D-mannose,4, Eremothecium gossypii (strain ATCC 10895 / CBS 109.51 / FGSC 9923 / NRRL Y-1056) (Yeast) (Ashbya gossypii).
+ALG1_EREGS,Q75BA5,GDP-alpha-D-mannose,33, Eremothecium gossypii (strain ATCC 10895 / CBS 109.51 / FGSC 9923 / NRRL Y-1056) (Yeast) (Ashbya gossypii).
+IH5GT_IRIHO,Q767C8,UDP-alpha-D-glucose,1, Iris hollandica (Dutch iris) (Iris tingitana x Iris xiphium).
+UGTP_STAAN,Q7A6D2,UDP-alpha-D-glucose,28, Staphylococcus aureus (strain N315).
+GUMK_XANCP,Q7CLR5,UDP-alpha-D-glucuronate,70, Xanthomonas campestris pv. campestris (strain ATCC 33913 / DSM 3586 / NCPPB 528 / LMG 568 / P 25).
+UGTP_BACCR,Q81IA1,UDP-alpha-D-glucose,28, Bacillus cereus (strain ATCC 14579 / DSM 31 / CCUG 7414 / JCM 2152 / NBRC 15305 / NCIMB 9373 / NCTC 2599 / NRRL B-3711).
+UGTP_BACAN,Q81YW9,UDP-alpha-D-glucose,28, Bacillus anthracis.
+UD2A3_MOUSE,Q8BWQ1,UDP-alpha-D-glucuronate,1, Mus musculus (Mouse).
+UGTP_STAES,Q8CPR3,UDP-alpha-D-glucose,28, Staphylococcus epidermidis (strain ATCC 12228 / FDA PCI 1200).
+AMGDS_STRR6,Q8CWR6,UDP-alpha-D-glucose,4, Streptococcus pneumoniae (strain ATCC BAA-255 / R6).
+AGGDS_STRR6,Q8DPV9,UDP-alpha-D-galactose,4, Streptococcus pneumoniae (strain ATCC BAA-255 / R6).
+OTSA_ECOL6,Q8FGN6,UDP-alpha-D-glucose,20, Escherichia coli O6:H1 (strain CFT073 / ATCC 700928 / UPEC).
+ANGT_GENTR,Q8H0F2,UDP-alpha-D-glucose,1, Gentiana triflora (Clustered gentian).
+UD3A2_MOUSE,Q8JZZ0,UDP-alpha-D-glucuronate,1, Mus musculus (Mouse).
+GYS1_MACMU,Q8MJ26,UDP-alpha-D-glucose,3, Macaca mulatta (Rhesus macaque).
+UGTP_STAAW,Q8NXC3,UDP-alpha-D-glucose,28, Staphylococcus aureus (strain MW2).
+CZOG2_MAIZE,Q8RXA5,UDP-alpha-D-glucose,1, Zea mays (Maize).
+TPS1_ENCCU,Q8SSL2,UDP-alpha-D-glucose,20, Encephalitozoon cuniculi (strain GB-M1) (Microsporidian parasite).
+UDB30_MACFA,Q8WN97,UDP-alpha-D-glucuronate,1, Macaca fascicularis (Crab-eating macaque) (Cynomolgus monkey).
+ALG11_NEUCR,Q8X092,GDP-alpha-D-mannose,4, Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987).
+ALG2_NEUCR,Q8X0H8,GDP-alpha-D-mannose,4, Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987).
+OTSA_ECO57,Q8XCE7,UDP-alpha-D-glucose,20, Escherichia coli O157:H7.
+UFOG_GENTR,Q96493,UDP-alpha-D-glucose,1, Gentiana triflora (Clustered gentian).
+TPS1_ZYGRO,Q96WK6,UDP-alpha-D-glucose,20, Zygosaccharomyces rouxii (Candida mogii).
+UGTP_STAAM,Q99V75,UDP-alpha-D-glucose,28, Staphylococcus aureus (strain Mu50 / ATCC 700699).
+SCGT_TOBAC,Q9AT54,UDP-alpha-D-glucose,1, Nicotiana tabacum (Common tobacco).
+UDB33_MACMU,Q9GLD9,UDP-alpha-D-glucuronate,1, Macaca mulatta (Rhesus macaque).
+TPS7_ARATH,Q9LMI0,UDP-alpha-D-glucose,20, Arabidopsis thaliana (Mouse-ear cress).
+U71B1_ARATH,Q9LSY9,UDP-alpha-D-glucose,1, Arabidopsis thaliana (Mouse-ear cress).
+UD2A3_CAVPO,Q9R110,UDP-alpha-D-glucuronate,1, Cavia porcellus (Guinea pig).
+UDB23_MACFA,Q9TSL6,UDP-alpha-D-glucuronate,1, Macaca fascicularis (Crab-eating macaque) (Cynomolgus monkey).
+TPSY_SCHPO,Q9UUI7,UDP-alpha-D-glucose,20, Schizosaccharomyces pombe (strain 972 / ATCC 24843) (Fission yeast).
+MOK12_SCHPO,Q9UUL4,UDP-alpha-D-glucose,5, Schizosaccharomyces pombe (strain 972 / ATCC 24843) (Fission yeast).
+MGGS_THEMA,Q9X0V7,GDP-alpha-D-mannose,4, Thermotoga maritima (strain ATCC 43589 / DSM 3109 / JCM 10099 / NBRC 100826 / MSB8).
+UDB19_MACFA,Q9XT55,UDP-alpha-D-glucuronate,1, Macaca fascicularis (Crab-eating macaque) (Cynomolgus monkey).
+MOK14_SCHPO,Q9Y704,UDP-alpha-D-glucose,5, Schizosaccharomyces pombe (strain 972 / ATCC 24843) (Fission yeast).
+MOK13_SCHPO,Q9Y719,UDP-alpha-D-glucose,5, Schizosaccharomyces pombe (strain 972 / ATCC 24843) (Fission yeast).
+5GT_VERHY,Q9ZR25,UDP-alpha-D-glucose,1, Verbena hybrida (Garden vervain) (Verbena hortensis).
+5GT2_PERFR,Q9ZR26,UDP-alpha-D-glucose,1, Perilla frutescens (Beefsteak mint) (Perilla ocymoides).
+TPS11_ARATH,Q9ZV48,UDP-alpha-D-glucose,20, Arabidopsis thaliana (Mouse-ear cress).
+UGT8_CATRO,U3U992,UDP-alpha-D-glucose,1, Catharanthus roseus (Madagascar periwinkle) (Vinca rosea).
+NGT_ACTP2,A3N2T3,UDP-alpha-D-glucose,41, Actinobacillus pleuropneumoniae serotype 5b (strain L20).
+SPS_THEM4,A6LKE9,UDP-alpha-D-glucose,4, Thermosipho melanesiensis (strain DSM 12029 / CIP 104789 / BI429).
+MGGS_PETMO,A9BFS6,GDP-alpha-D-mannose,4, Petrotoga mobilis (strain DSM 10674 / SJ95).
+GUMH_XANOP,B2SUK8,GDP-alpha-D-mannose,4, Xanthomonas oryzae pv. oryzae (strain PXO99A).
+88F1R_MALDO,D3UAG5,UDP-alpha-D-glucose,1, Malus domestica (Apple) (Pyrus malus).
+CRTX_PANAN,P21686,UDP-alpha-D-glucose,1, Pantoea ananas (Erwinia uredovora).
+UGT60_CAEEL,P34317,UDP-alpha-D-glucuronate,1, Caenorhabditis elegans.
+GLGSY_MYCTO,P9WMY8,UDP-alpha-D-glucose,4, Mycobacterium tuberculosis (strain CDC 1551 / Oshkosh).
+TPS1B_ASPNG,Q00217,UDP-alpha-D-glucose,20, Aspergillus niger.
+ALG11_XENLA,Q08B22,GDP-alpha-D-mannose,4, Xenopus laevis (African clawed frog).
+MOK11_SCHPO,Q09854,UDP-alpha-D-glucose,5, Schizosaccharomyces pombe (strain 972 / ATCC 24843) (Fission yeast).
+MGDG3_ORYSJ,Q0DWQ1,UDP-alpha-D-galactose,28, Oryza sativa subsp. japonica (Rice).
+UGT58_CAEEL,Q20086,UDP-alpha-D-glucuronate,1, Caenorhabditis elegans.
+UGT55_CAEEL,Q22180,UDP-alpha-D-glucuronate,1, Caenorhabditis elegans.
+UGT56_CAEEL,Q22181,UDP-alpha-D-glucuronate,1, Caenorhabditis elegans.
+GUMH_XANCA,Q56774,GDP-alpha-D-mannose,4, Xanthomonas campestris.
+ALG11_PONAB,Q5R7Z6,GDP-alpha-D-mannose,4, Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii).
+UD2A3_PONAB,Q5RFJ3,UDP-alpha-D-glucuronate,1, Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii).
+CGT_ORYSJ,Q5VMI0,UDP-alpha-D-glucose,1, Oryza sativa subsp. japonica (Rice).
+UD3A1_XENLA,Q63ZR6,UDP-alpha-D-glucuronate,1, Xenopus laevis (African clawed frog).
+MGDG1_ORYSJ,Q69QJ7,UDP-alpha-D-galactose,28, Oryza sativa subsp. japonica (Rice).
+DGDG2_LOTJA,Q6DW73,UDP-alpha-D-galactose,4, Lotus japonicus (Lotus corniculatus var. japonicus).
+CZOG_SORBI,Q6JAH0,UDP-alpha-D-glucose,1, Sorghum bicolor (Sorghum) (Sorghum vulgare).
+ALG11_XENTR,Q6P312,GDP-alpha-D-mannose,4, Xenopus tropicalis (Western clawed frog) (Silurana tropicalis).
+MGDG2_ORYSJ,Q6UTZ2,UDP-alpha-D-galactose,28, Oryza sativa subsp. japonica (Rice).
+ALG11_DANRE,Q7ZW24,GDP-alpha-D-mannose,4, Danio rerio (Zebrafish) (Brachydanio rerio).
+AOG_PHAAN,Q8W3P8,UDP-alpha-D-glucose,1, Phaseolus angularis (Azuki bean) (Vigna angularis).
+UGT3_PLEPL,Q91280,UDP-alpha-D-glucuronate,1, Pleuronectes platessa (European plaice).
+HQGT_RAUSE,Q9AR73,UDP-alpha-D-glucose,1, Rauvolfia serpentina (Serpentine wood) (Ophioxylon serpentinum).
+TPS2_ARATH,Q9FZ57,UDP-alpha-D-glucose,20, Arabidopsis thaliana (Mouse-ear cress).
+MGDG_TOBAC,Q9FZL3,UDP-alpha-D-galactose,28, Nicotiana tabacum (Common tobacco).
+MGDG_SOYBN,Q9FZL4,UDP-alpha-D-galactose,28, Glycine max (Soybean) (Glycine hispida).
+TPS9_ARATH,Q9LRA7,UDP-alpha-D-glucose,20, Arabidopsis thaliana (Mouse-ear cress).
+LGT_CITUN,Q9MB73,UDP-alpha-D-glucose,1, Citrus unshiu (Satsuma mandarin) (Citrus nobilis var. unshiu).
+TPS3_ARATH,Q9SHG0,UDP-alpha-D-glucose,20, Arabidopsis thaliana (Mouse-ear cress).
+TPS4_ARATH,Q9T079,UDP-alpha-D-glucose,20, Arabidopsis thaliana (Mouse-ear cress).
+MUR3_ARATH,Q7XJ98,UDP-alpha-D-galactose,47, Arabidopsis thaliana (Mouse-ear cress).
+GT18_ARATH,F4K6F1,UDP-alpha-D-galactose,47, Arabidopsis thaliana (Mouse-ear cress).
+GT16_ARATH,Q9SH31,UDP-alpha-D-galacturonate,47, Arabidopsis thaliana (Mouse-ear cress).
+XGD1_ARATH,Q94AA9,UDP-alpha-D-xylose,47, Arabidopsis thaliana (Mouse-ear cress).
+FUT1_ARATH,Q9SWH5,GDP-beta-L-fucose,37, Arabidopsis thaliana (Mouse-ear cress).
+FUT4_ARATH,Q9SJP2,GDP-beta-L-fucose,37, Arabidopsis thaliana (Mouse-ear cress).
+FUT6_ARATH,Q9XI80,GDP-beta-L-fucose,37, Arabidopsis thaliana (Mouse-ear cress).
+IX10L_ARATH,Q940Q8,UDP-alpha-D-xylose,47, Arabidopsis thaliana (Mouse-ear cress).
+IRX10_ARATH,Q9FZJ1,UDP-alpha-D-xylose,47, Arabidopsis thaliana (Mouse-ear cress).
+FUT1_PEA,Q9M5Q1,GDP-beta-L-fucose,37,Pisum sativum (Garden pea) (Lathyrus oleraceus)
+GLCT_ECOLX,A6M9B7,UDP-alpha-D-xylose,61,Escherichia coli.
+RCN11_ORYSJ,Q6ZFH6,UDP-alpha-D-xylose,61,Oryza sativa subsp. japonica (Rice).
+XAX1_ORYSJ,Q6Z7I3,UDP-alpha-D-xylose,61,Oryza sativa subsp. japonica (Rice).
+XYXT1_ORYSJ,Q5Z8T8,UDP-alpha-D-xylose,61,Oryza sativa subsp. japonica (Rice).
+SSY3A_ORYSJ,A0A0P0XCU3,Eight,5, Oryza sativa subsp. japonica (Rice).
+GTFA_STRPA,A1C3L9,Eight,4, Streptococcus parasanguinis.
+KDTA_CHLP6,F0T4D1,Eight,30, Chlamydophila psittaci (strain ATCC VR-125 / 6BC) (Chlamydia psittaci).
+SSY3_ARATH,F4IAG2,Eight,5, Arabidopsis thaliana (Mouse-ear cress).
+OGT1_HUMAN,O15294,Eight,41, Homo sapiens (Human).
+OGT1_CAEEL,O18158,Eight,41, Caenorhabditis elegans.
+KDTA_AQUAE,O66663,Eight,30, Aquifex aeolicus (strain VF5).
+MURG_ECOLI,P17443,Eight,28, Escherichia coli (strain K12).
+WAAC_ECOLI,P24173,Eight,9, Escherichia coli (strain K12).
+GPI3_YEAST,P32363,Eight,4, Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast).
+ALG13_YEAST,P53178,Eight,1, Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast).
+PGLH_CAMJE,Q0P9C5,Eight,4, Campylobacter jejuni subsp. jejuni serotype O:2 (strain ATCC 700819 / NCTC 11168).
+EOGT_HUMAN,Q5NDL2,Eight,61, Homo sapiens (Human).
+PMGT2_MOUSE,Q8BW41,Eight,61, Mus musculus (Mouse).
+SQD2_ARATH,Q8S4F6,Eight,4, Arabidopsis thaliana (Mouse-ear cress).
+ALG13_MOUSE,Q9D8C3,Eight,1, Mus musculus (Mouse).
+ERYC3_SACEN,A4F7P3,Eight,1, Saccharopolyspora erythraea (strain ATCC 11635 / DSM 40517 / JCM 4748 / NBRC 13426 / NCIMB 8594 / NRRL 2338).
+LPXB_ARATH,F4IF99,Eight,19, Arabidopsis thaliana (Mouse-ear cress).
+LPXB_ECOLI,P10441,Eight,19, Escherichia coli (strain K12).
+WAAQ_ECOLI,P25742,Eight,9, Escherichia coli (strain K12).
+GTFD_AMYOR,Q9AFC7,Eight,1, Amycolatopsis orientalis (Nocardia orientalis).
+AKNS_STRGJ,Q9L4U6,Eight,1, Streptomyces galilaeus.
+DES7_STRVZ,Q9ZGH7,Eight,1, Streptomyces venezuelae.
+MURG_LISW6,A0AKD5,Eight,28, Listeria welshimeri serovar 6b (strain ATCC 35897 / DSM 20650 / CIP 8149 / NCTC 11857 / SLCC 5334 / V8).
+GLGM_MYCS2,A0R2E2,Eight,4, Mycolicibacterium smegmatis (strain ATCC 700084 / mc(2)155) (Mycobacterium smegmatis).
+WECF_ECOK1,A1AHW2,Eight,56, Escherichia coli O1:K1 / APEC.
+WECF_YERE8,A1JI79,Eight,56, Yersinia enterocolitica serotype O:8 / biotype 1B (strain NCTC 13174 / 8081).
+VALL_STRHJ,H2K885,Eight,20, Streptomyces hygroscopicus subsp. jinggangensis (strain 5008).
+TYLN_STRFR,O70023,Eight,1, Streptomyces fradiae (Streptomyces roseoflavus).
+WBNH_ECOLX,P0DMP6,Eight,4, Escherichia coli.
+GGPS_SYNY3,P74258,Eight,20, Synechocystis sp. (strain PCC 6803 / Kazusa).
+TYLM2_STRFR,P95747,Eight,1, Streptomyces fradiae (Streptomyces roseoflavus).
+GTFA_AMYOR,P96558,Eight,1, Amycolatopsis orientalis (Nocardia orientalis).
+GTFC_AMYOR,P96560,Eight,1, Amycolatopsis orientalis (Nocardia orientalis).
+GLGM_MYCTO,P9WMZ0,Eight,4, Mycobacterium tuberculosis (strain CDC 1551 / Oshkosh).
+VLDE_STRHL,Q15JG1,Eight,20, Streptomyces hygroscopicus subsp. limoneus.
+DNRS_STRPE,Q54824,Eight,1, Streptomyces peucetius.
+ELMGT_STROV,Q9F2F9,Eight,1, Streptomyces olivaceus.
+AKNK_STRGJ,Q9L555,Eight,1, Streptomyces galilaeus.
+NOVM_STRNV,Q9L9F5,Eight,1, Streptomyces niveus (Streptomyces spheroides).
+TYLCV_STRFR,Q9XC67,Eight,1, Streptomyces fradiae (Streptomyces roseoflavus).
+ERYBV_SACER,O33939,Eight,1, Saccharopolyspora erythraea (Streptomyces erythraeus).
+GGPS_SYNP2,O65979,Eight,20, Synechococcus sp. (strain ATCC 27264 / PCC 7002 / PR-6) (Agmenellum quadruplicatum).

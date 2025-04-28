@@ -1,0 +1,53 @@
+﻿Name,ID,Donor,Family,GN,Species
+SSY3A_ORYSJ,A0A0P0XCU3,ADP-alpha-D-glucose,5,OSJNBa0056O06.4-1 , Oryza sativa subsp. japonica (Rice).
+GTFA_STRPA,A1C3L9,UDP-N-acetyl-alpha-D-glucosamine,4,gtf1 , Streptococcus parasanguinis.
+KDTA_CHLP6,F0T4D1,CMP-3-deoxy-beta-D-manno-octulosonate,30,waaA, Chlamydophila psittaci (strain ATCC VR-125 / 6BC) (Chlamydia psittaci).
+SSY3_ARATH,F4IAG2,ADP-alpha-D-glucose,5,SS3, Arabidopsis thaliana (Mouse-ear cress).
+OGT1_HUMAN,O15294,UDP-N-acetyl-alpha-D-glucosamine,41,OGT , Homo sapiens (Human).
+OGT1_CAEEL,O18158,UDP-N-acetyl-alpha-D-glucosamine,41,ogt-1, Caenorhabditis elegans.
+KDTA_AQUAE,O66663,CMP-3-deoxy-beta-D-manno-octulosonate,30,kdtA, Aquifex aeolicus (strain VF5).
+TREPH_GRIFR,O75003,phosphate,4,Null, Grifola frondosa (Maitake) (Polyporus frondosus).
+PYGM_RABIT,P00489,phosphate,35,PYGM , Oryctolagus cuniculus (Rabbit).
+PHSM_ECOLI,P00490,phosphate,35,malP, Escherichia coli (strain K12).
+PYGL_HUMAN,Q96G82,phosphate,35,PYGL , Homo sapiens (Human).
+PHSG_YEAST,P06738,phosphate,35,GPH1, Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast).
+PYGL_RAT,P09811,phosphate,35,Pygl , Rattus norvegicus (Rat).
+PYGM_RAT,P09812,phosphate,35,Pygm , Rattus norvegicus (Rat).
+SSY23_ORYSI,P0C586,ADP-alpha-D-glucose,5,SSII-3, Oryza sativa subsp. indica (Rice).
+PYGB_HUMAN,P11216,phosphate,35,PYGB , Homo sapiens (Human).
+PYGM_HUMAN,P11217,phosphate,35,PYGM , Homo sapiens (Human).
+MURG_ECOLI,P17443,UDP-N-acetyl-alpha-D-glucosamine,28,"b0090, JW0088", Escherichia coli (strain K12).
+WAAC_ECOLI,P24173,ADP-L-glycero-beta-D-manno-heptose,9,"b3621, JW3596", Escherichia coli (strain K12).
+GPI3_YEAST,P32363,UDP-N-acetyl-alpha-D-glucosamine,4,P2269, Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast).
+PHS2_DICDI,P34114,phosphate,35,glpD, Dictyostelium discoideum (Social amoeba).
+PIGA_HUMAN,P37287,UDP-N-acetyl-alpha-D-glucosamine,4,PIGA , Homo sapiens (Human).
+BSHA_BACSU,P42982,UDP-N-acetyl-alpha-D-glucosamine,4,BSU22460, Bacillus subtilis (strain 168).
+ALG13_YEAST,P53178,UDP-N-acetyl-alpha-D-glucosamine,1,ALG13, Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast).
+PYGB_RAT,P53534,phosphate,35,Pygb, Rattus norvegicus (Rat).
+OGT1_RAT,P56558,UDP-N-acetyl-alpha-D-glucosamine,41,Ogt, Rattus norvegicus (Rat).
+PHS1_DICDI,Q00766,phosphate,35,glpV, Dictyostelium discoideum (Social amoeba).
+SSY23_ORYSJ,Q0DDE3,ADP-alpha-D-glucose,5,"Os06g0229800, LOC_Os06g12450", Oryza sativa subsp. japonica (Rice).
+SSY1_ORYSJ,Q0DEC8,ADP-alpha-D-glucose,5,P0681F10.13 , Oryza sativa subsp. japonica (Rice).
+PGLH_CAMJE,Q0P9C5,UDP-N-acetyl-alpha-D-galactosamine,4,pglH , Campylobacter jejuni subsp. jejuni serotype O:2 (strain ATCC 700819 / NCTC 11168).
+SSY4_ARATH,Q0WVX5,ADP-alpha-D-glucose,5,T9A21.90 , Arabidopsis thaliana (Mouse-ear cress).
+OGT1_PIG,Q27HV0,UDP-N-acetyl-alpha-D-glucosamine,41,OGT, Sus scrofa (Pig).
+KDTA_CHLPN,Q46222,CMP-3-deoxy-beta-D-manno-octulosonate,30,"CPn_0154, CP_0617, CpB0155", Chlamydia pneumoniae (Chlamydophila pneumoniae).
+EOGT_HUMAN,Q5NDL2,UDP-N-acetyl-alpha-D-glucosamine,61,EOGT, Homo sapiens (Human).
+PMGT2_MOUSE,Q8BW41,UDP-N-acetyl-alpha-D-glucosamine,61,Pomgnt2, Mus musculus (Mouse).
+OGT1_MOUSE,Q8CGY8,UDP-N-acetyl-alpha-D-glucosamine,41,Ogt, Mus musculus (Mouse).
+PMGT2_HUMAN,Q8NAT1,UDP-N-acetyl-alpha-D-glucosamine,61,POMGNT2, Homo sapiens (Human).
+SQD2_ARATH,Q8S4F6,UDP-alpha-D-6-sulfoquinovose,4,F7J8.200 , Arabidopsis thaliana (Mouse-ear cress).
+GTFA_STRGN,Q9AET5,UDP-N-acetyl-alpha-D-glucosamine,4,gtfA , Streptococcus gordonii.
+ALG13_MOUSE,Q9D8C3,UDP-N-acetyl-alpha-D-glucosamine,1,Alg13, Mus musculus (Mouse).
+PYGL_MOUSE,Q9ET01,phosphate,35,Pygl , Mus musculus (Mouse).
+SSY1_ARATH,Q9FNF2,ADP-alpha-D-glucose,5,SS1, Arabidopsis thaliana (Mouse-ear cress).
+PHS1_ARATH,Q9LIB2,phosphate,35,PHS1, Arabidopsis thaliana (Mouse-ear cress).
+SEC_ARATH,Q9M8Y0,UDP-N-acetyl-alpha-D-glucosamine,41,T6K12.14 , Arabidopsis thaliana (Mouse-ear cress).
+SSY2_ARATH,Q9MAC8,ADP-alpha-D-glucose,5,SS2, Arabidopsis thaliana (Mouse-ear cress).
+ALG13_HUMAN,B7ZB57,UDP-N-acetyl-alpha-D-glucosamine,1,ALG13, Homo sapiens (Human).
+EOGT_DROME,Q9VQB7,UDP-N-acetyl-alpha-D-glucosamine,61,Eogt, Drosophila melanogaster (Fruit fly).
+PYGM_MOUSE,Q9WUB3,phosphate,35,Pygm , Mus musculus (Mouse).
+PYG_DROME,Q9XTL9,phosphate,35,Glyp, Drosophila melanogaster (Fruit fly).
+ERYC3_SACEN,A4F7P3,dTDP-alpha-D-desosamine,1,eryCIII, Saccharopolyspora erythraea (strain ATCC 11635 / DSM 40517 / JCM 4748 / NBRC 13426 / NCIMB 8594 / NRRL 2338).
+LPXB_ARATH,F4IF99,"UDP-2-N,3-O-bis[(3R)-3-hydroxyacyl]-alpha-D-glucosamine",19,LPXB, Arabidopsis thaliana (Mouse-ear cress).
+KDTA_CHLT2,B0B9V8,CMP-3-deoxy-beta-D-manno-octulosonate,30,waaA, Chlamydia trachomatis serovar L2 (strain 434/Bu / ATCC VR-902B).

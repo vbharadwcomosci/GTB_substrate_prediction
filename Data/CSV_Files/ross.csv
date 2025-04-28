@@ -1,0 +1,9 @@
+﻿Name,ID,Donor,Family,Species
+GYS1_YEAST,P23337,UDP-alpha-D-glucose,3, Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast).
+GYS1_HUMAN,P13807,UDP-alpha-D-glucose,3, Homo sapiens (Human).
+GYS2_RAT,P17625,UDP-alpha-D-glucose,3, Rattus norvegicus (Rat).
+GYS2_HUMAN,P54840,UDP-alpha-D-glucose,3, Homo sapiens (Human).
+UGT52_DICDI,Q54IL5,UDP-alpha-D-glucose,1, Dictyostelium discoideum (Social amoeba).
+TPS5_ARATH,O23617,UDP-alpha-D-glucose,20, Arabidopsis thaliana (Mouse-ear cress).
+AGS1_SCHPO,Q9USK8,UDP-alpha-D-glucose,5, Schizosaccharomyces pombe (strain 972 / ATCC 24843) (Fission yeast).
+XAX1_ORYSJ,Q6Z7I3,UDP-alpha-D-xylose,61,Oryza sativa subsp. japonica (Rice).

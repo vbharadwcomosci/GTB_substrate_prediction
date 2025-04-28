@@ -1,0 +1,36 @@
+GNB
+Best score: 0.844632768361582
+Best feature length: 100
+Best estimators: MultiOutputClassifier(estimator=GaussianNB(var_smoothing=1.519911082952933e-09),
+                      n_jobs=-1)
+Testing Score: 0.42666666666666664
+Testing Parameters: {'estimator__var_smoothing': 1.519911082952933e-09}
+KNN
+Best score: 0.9418886198547215
+Best feature length: 550
+Best estimators: MultiOutputClassifier(estimator=KNeighborsClassifier(n_jobs=-1, n_neighbors=1,
+                                                     p=1),
+                      n_jobs=-1)
+Testing Score: 0.85
+Testing Parameters: {'estimator__n_neighbors': 1, 'estimator__p': 1, 'estimator__weights': 'uniform'}
+SVC
+Best score: 0.9152542372881356
+Best feature length: 950
+Best estimators: MultiOutputClassifier(estimator=SVC(C=0.1, gamma=1, kernel='linear',
+                                    max_iter=100, probability=True,
+                                    random_state=0),
+                      n_jobs=-1)
+Testing Score: 0.59
+Testing Parameters: {'estimator__C': 0.1, 'estimator__gamma': 1, 'estimator__kernel': 'linear', 'estimator__max_iter': 100}
+RF
+Best score: 0.8983050847457628
+Best feature length: 500
+Best estimators: MultiOutputClassifier(estimator=RandomForestClassifier(class_weight='balanced',
+                                                       criterion='entropy',
+                                                       max_features=0.1,
+                                                       n_jobs=-1,
+                                                       random_state=0,
+                                                       warm_start=True),
+                      n_jobs=-1)
+Testing Score: 0.44
+Testing Parameters: {'estimator__class_weight': 'balanced', 'estimator__criterion': 'entropy', 'estimator__max_features': 0.1, 'estimator__n_estimators': 100}
