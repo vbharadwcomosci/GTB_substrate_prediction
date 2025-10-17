@@ -26,6 +26,7 @@ Most of the data, like the pdb and secondary structure, is pre-computed and alre
 Contributor: Samantha Hennen https://github.com/samihennen 
 
 Citing this work:
+ 
 If you use the code or data in this package, please cite:
 ```
 @article{D4DD00338A,
