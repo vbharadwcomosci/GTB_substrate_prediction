@@ -17,6 +17,7 @@ Set up environment:
 ```
 cd GTB_Substrate_Prediction
 conda env install --name gtb -f env.yml
+pip install adjustText
 ipython kernel install --user --name=gtb
 ```
 Then open the notebook and run from below the "Generating Datasets" line!
